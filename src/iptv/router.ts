@@ -1,5 +1,5 @@
 import crypto from 'crypto';
-import express, { Request } from 'express';
+import express, { Request, Response } from 'express';
 import { buildM3UPlaylist } from './playlist';
 import { IPTVChannel } from './types';
 
@@ -205,7 +205,7 @@ export function createIPTVRouter(
      */
     router.get(
         '/playlist.m3u',
-        async (req, res) => {
+        async (req: Request, res: Response) => {
             try {
                 const baseUrl =
                     getRequestBaseUrl(req);
@@ -245,13 +245,33 @@ export function createIPTVRouter(
 
                 const channels: IPTVChannel[] = [];
 
-                for (const country of countries) {
-                    const items =
-                        await options.getCountryCatalog(
-                            country.id
-                        );
 
-                    for (const item of items) {
+for (const country of countries) {
+    const catalogPromise =
+        options.getCountryCatalog(
+            country.id
+        );
+
+    const timeoutPromise =
+        new Promise<never>((_, reject) => {
+            setTimeout(
+                () =>
+                    reject(
+                        new Error(
+                            `Catalog timeout for ${country.id}`
+                        )
+                    ),
+                15000
+            );
+        });
+
+    const items =
+        await Promise.race([
+            catalogPromise,
+            timeoutPromise
+        ]);
+
+    for (const item of items) {
                         const channel =
                             toIPTVChannel(
                                 country,
@@ -269,7 +289,7 @@ export function createIPTVRouter(
                         channels,
                         {
                             baseUrl:
-                                `${baseUrl}/iptv`,
+                                `${baseUrl}`,
                             countryId:
                                 countryFilter
                         }
@@ -314,7 +334,7 @@ export function createIPTVRouter(
      */
     router.get(
         '/:country.m3u',
-        async (req, res) => {
+        async (req: Request, res: Response) => {
             const country =
                 String(
                     req.params.country || ''
@@ -347,7 +367,7 @@ export function createIPTVRouter(
      */
     router.get(
         '/play/:channelId',
-        async (req, res) => {
+        async (req: Request, res: Response) => {
             const id =
                 String(
                     req.params.channelId || ''
@@ -453,7 +473,7 @@ export function createIPTVRouter(
      */
     router.get(
         '/health',
-        (_req, res) => {
+        (_req: Request, res: Response) => {
             res.json({
                 ok: true,
                 service: 'tvvoo-iptv',
