@@ -1403,12 +1403,12 @@ builder.defineCatalogHandler(async ({ id, type, extra }: { id: string; type: str
         let rows = items.map((it: any, idx: number) => ({ it, baseName: cleaned[idx] || 'Unknown' }));
         // Filter out channels belonging to banned categories (e.g., "Eventi Live")
         rows = rows.filter(r => {
-            const hint = getResolvedHint(country.id, r.baseName);
+            const hint = getResolvedHint(country!.id, r.baseName);
             return !isBannedCategory(hint.cat);
         });
         if (selectedGenre && !treatAsAll) {
             rows = rows.filter(r => {
-                const hint = getResolvedHint(country.id, r.baseName);
+                const hint = getResolvedHint(country!.id, r.baseName);
                 const cat = hint.cat;
                 return cat && normCatStr(cat) === normCatStr(selectedGenre);
             });
@@ -1512,18 +1512,18 @@ builder.defineCatalogHandler(async ({ id, type, extra }: { id: string; type: str
         // If Stremio native EPG guide is requested (date extra provided)
         if (isGuideRequest) {
             const metasDetailed = pagedGroups.map(({ baseName, items: groupItems }) => {
-                const hint = getResolvedHint(country.id, baseName);
+                const hint = getResolvedHint(country!.id, baseName);
                 const fallbackArt = fallbackPosterAbsUrl || TVVOO_FALLBACK_ABS;
                 const actualLogoArt = hint.logo || undefined;
                 const logoArt = actualLogoArt || getPlaceholderLogo(baseName);
-                const posterArt = country.id === 'it'
+                const posterArt = country!.id === 'it'
                     ? getItalyCoverPortrait(baseName) || getItalyGeneratedCoverPortrait(baseName) || actualLogoArt || getPlaceholderPoster(baseName)
                     : getWorldCoverPortrait(baseName) || actualLogoArt || getPlaceholderPoster(baseName);
-                const backgroundArt = country.id === 'it'
+                const backgroundArt = country!.id === 'it'
                     ? getItalyCoverLandscape(baseName) || getItalyGeneratedCoverLandscape(baseName) || actualLogoArt || fallbackArt || undefined
                     : getWorldCoverLandscape(baseName) || actualLogoArt || fallbackArt || undefined;
                 const cat = hint.cat;
-                const channelId = `vavoo_${encodeURIComponent(baseName)}|group:${country.id}`;
+                const channelId = `vavoo_${encodeURIComponent(baseName)}|group:${country!.id}`;
 
                 let videos: any[] = [];
                 if (enableEpg && epg && typeof epg.getProgrammesForDate === 'function') {
@@ -1558,14 +1558,14 @@ builder.defineCatalogHandler(async ({ id, type, extra }: { id: string; type: str
 
         // Build metas (one per baseName group)
         const metas = pagedGroups.map(({ baseName, items: groupItems }) => {
-            const hint = getResolvedHint(country.id, baseName);
+            const hint = getResolvedHint(country!.id, baseName);
             const fallbackArt = fallbackPosterAbsUrl || TVVOO_FALLBACK_ABS;
             const actualLogoArt = hint.logo || undefined;
             const logoArt = actualLogoArt || getPlaceholderLogo(baseName);
-            const posterArt = country.id === 'it'
+            const posterArt = country!.id === 'it'
                 ? getItalyCoverPortrait(baseName) || getItalyGeneratedCoverPortrait(baseName) || actualLogoArt || getPlaceholderPoster(baseName)
                 : getWorldCoverPortrait(baseName) || actualLogoArt || getPlaceholderPoster(baseName);
-            const backgroundArt = country.id === 'it'
+            const backgroundArt = country!.id === 'it'
                 ? getItalyCoverLandscape(baseName) || getItalyGeneratedCoverLandscape(baseName) || actualLogoArt || fallbackArt || undefined
                 : getWorldCoverLandscape(baseName) || actualLogoArt || fallbackArt || undefined;
             const cat = hint.cat;
@@ -1635,7 +1635,7 @@ builder.defineCatalogHandler(async ({ id, type, extra }: { id: string; type: str
                 } catch { }
             }
             return {
-                id: `vavoo_${encodeURIComponent(baseName)}|group:${country.id}`,
+                id: `vavoo_${encodeURIComponent(baseName)}|group:${country!.id}`,
                 type: 'tv',
                 name: baseName,
                 poster: posterArt || actualLogoArt || getPlaceholderPoster(baseName),
