@@ -38,7 +38,7 @@ import { getProxyConfig } from './proxy';
 // EPG support (can be disabled via env)
 import { EPGService } from './epg/service';
 import { normalizeChannelName } from './epg/nameMap';
-
+import { createIPTVRouter } from './iptv/router';
 
 // Hardening: log and survive unexpected errors
 process.on('uncaughtException', (err: unknown) => { try { console.error('[VAVOO] uncaughtException', err); } catch { } });
