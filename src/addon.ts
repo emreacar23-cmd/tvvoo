@@ -2217,7 +2217,14 @@ class LiveManifestManager {
 }
 
 const liveManifestManager = new LiveManifestManager();
+const iptvRouter = createIPTVRouter({
+    countries: SUPPORTED_COUNTRIES,
+    getCountryCatalog: getOrFetchCountryCatalog,
+    resolveVavooCleanUrl,
+    liveManifestManager
+});
 
+app.use('/iptv', iptvRouter);
 // --- END MANIFEST-ONLY NO-FREEZE MANAGER ---
 
 // Live M3U8 Manifest Proxy Endpoint (Auto token renewal, 0% video bandwidth)
