@@ -1,0 +1,1753 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tr_ecf145d7ad11f5e79fc2343c" tvg-name="24 HABER HD+ SD" group-title="Haber",24 HABER HD+ SD
+http://localhost:7019/iptv/play/tr_ecf145d7ad11f5e79fc2343c
+#EXTINF:-1 tvg-id="tr_3a9bd5f1c6662dc853b280a5" tvg-name="24 KITCHEN" group-title="Diğer",24 KITCHEN
+http://localhost:7019/iptv/play/tr_3a9bd5f1c6662dc853b280a5
+#EXTINF:-1 tvg-id="tr_967fcd50db47a63f76652eca" tvg-name="24 KITCHEN HD" group-title="Diğer",24 KITCHEN HD
+http://localhost:7019/iptv/play/tr_967fcd50db47a63f76652eca
+#EXTINF:-1 tvg-id="tr_3815a16b9b6ec339aadf9c62" tvg-name="24 RAW" group-title="Diğer",24 RAW
+http://localhost:7019/iptv/play/tr_3815a16b9b6ec339aadf9c62
+#EXTINF:-1 tvg-id="tr_0bc11a637d9036ae84cf1d3f" tvg-name="24 TV" group-title="Diğer",24 TV
+http://localhost:7019/iptv/play/tr_0bc11a637d9036ae84cf1d3f
+#EXTINF:-1 tvg-id="tr_f29497419d2d9cda33a4eb34" tvg-name="360" group-title="Diğer",360
+http://localhost:7019/iptv/play/tr_f29497419d2d9cda33a4eb34
+#EXTINF:-1 tvg-id="tr_b397b9f08b5a19f88f61684f" tvg-name="360 RAW" group-title="Diğer",360 RAW
+http://localhost:7019/iptv/play/tr_b397b9f08b5a19f88f61684f
+#EXTINF:-1 tvg-id="tr_63f2321928055c47dc795144" tvg-name="4K TR: 24 HD" group-title="Diğer",4K TR: 24 HD
+http://localhost:7019/iptv/play/tr_63f2321928055c47dc795144
+#EXTINF:-1 tvg-id="tr_c7e90f47d879c011ccab31fe" tvg-name="4K TR: 360 HD" group-title="Diğer",4K TR: 360 HD
+http://localhost:7019/iptv/play/tr_c7e90f47d879c011ccab31fe
+#EXTINF:-1 tvg-id="tr_e4a2aec98ea6b1c78f217209" tvg-name="4K TR: A HABER HD" group-title="Haber",4K TR: A HABER HD
+http://localhost:7019/iptv/play/tr_e4a2aec98ea6b1c78f217209
+#EXTINF:-1 tvg-id="tr_7aa8e9e1d5c9c7abdd247726" tvg-name="4K TR: A SPOR HD" group-title="Spor",4K TR: A SPOR HD
+http://localhost:7019/iptv/play/tr_7aa8e9e1d5c9c7abdd247726
+#EXTINF:-1 tvg-id="tr_d55d4ad0efe70379eb1e19b4" tvg-name="4K TR: A2 HD" group-title="Diğer",4K TR: A2 HD
+http://localhost:7019/iptv/play/tr_d55d4ad0efe70379eb1e19b4
+#EXTINF:-1 tvg-id="tr_3004f0940ac08494154c820b" tvg-name="4K TR: ATV HD" group-title="Diğer",4K TR: ATV HD
+http://localhost:7019/iptv/play/tr_3004f0940ac08494154c820b
+#EXTINF:-1 tvg-id="tr_39edd4c63a558d43704a1043" tvg-name="4K TR: BABYTV" group-title="Çocuk",4K TR: BABYTV
+http://localhost:7019/iptv/play/tr_39edd4c63a558d43704a1043
+#EXTINF:-1 tvg-id="tr_af43ec51ead397a45169a45e" tvg-name="4K TR: BENG TÜRK" group-title="Diğer",4K TR: BENG TÜRK
+http://localhost:7019/iptv/play/tr_af43ec51ead397a45169a45e
+#EXTINF:-1 tvg-id="tr_ba65872e7d3934e30f954f91" tvg-name="4K TR: BEYAZ TV HD" group-title="Diğer",4K TR: BEYAZ TV HD
+http://localhost:7019/iptv/play/tr_ba65872e7d3934e30f954f91
+#EXTINF:-1 tvg-id="tr_33e9bda435dc862dac032c01" tvg-name="4K TR: BLOOMBERG HT HD" group-title="Haber",4K TR: BLOOMBERG HT HD
+http://localhost:7019/iptv/play/tr_33e9bda435dc862dac032c01
+#EXTINF:-1 tvg-id="tr_15ffabd84b633bccab40a3da" tvg-name="4K TR: BOOMERANG" group-title="Diğer",4K TR: BOOMERANG
+http://localhost:7019/iptv/play/tr_15ffabd84b633bccab40a3da
+#EXTINF:-1 tvg-id="tr_71f6b3e4a1524aa0dd957f74" tvg-name="4K TR: CARTOON NETWORK" group-title="Çocuk",4K TR: CARTOON NETWORK
+http://localhost:7019/iptv/play/tr_71f6b3e4a1524aa0dd957f74
+#EXTINF:-1 tvg-id="tr_a2146e7a451c733bf93a6aa7" tvg-name="4K TR: CNN TÜRK HD" group-title="Haber",4K TR: CNN TÜRK HD
+http://localhost:7019/iptv/play/tr_a2146e7a451c733bf93a6aa7
+#EXTINF:-1 tvg-id="tr_40db00126a49f75021c35295" tvg-name="4K TR: DA VINCI" group-title="Diğer",4K TR: DA VINCI
+http://localhost:7019/iptv/play/tr_40db00126a49f75021c35295
+#EXTINF:-1 tvg-id="tr_7d9bf8adb7e5ce2bea799309" tvg-name="4K TR: DISNEY JUNIOR" group-title="Diğer",4K TR: DISNEY JUNIOR
+http://localhost:7019/iptv/play/tr_7d9bf8adb7e5ce2bea799309
+#EXTINF:-1 tvg-id="tr_f912f3d3d447e4650eaad171" tvg-name="4K TR: DMAX HD" group-title="Diğer",4K TR: DMAX HD
+http://localhost:7019/iptv/play/tr_f912f3d3d447e4650eaad171
+#EXTINF:-1 tvg-id="tr_95496a0557fe57c0565e721e" tvg-name="4K TR: DREAM TÜRK" group-title="Diğer",4K TR: DREAM TÜRK
+http://localhost:7019/iptv/play/tr_95496a0557fe57c0565e721e
+#EXTINF:-1 tvg-id="tr_966fb39558ffed24a7a8510a" tvg-name="4K TR: DUCK TV HD" group-title="Diğer",4K TR: DUCK TV HD
+http://localhost:7019/iptv/play/tr_966fb39558ffed24a7a8510a
+#EXTINF:-1 tvg-id="tr_2adeb8027dd2ddd953759346" tvg-name="4K TR: EKOL TV" group-title="Diğer",4K TR: EKOL TV
+http://localhost:7019/iptv/play/tr_2adeb8027dd2ddd953759346
+#EXTINF:-1 tvg-id="tr_ec9265e1cc6aa9c532932366" tvg-name="4K TR: EPIC DRAMA" group-title="Diğer",4K TR: EPIC DRAMA
+http://localhost:7019/iptv/play/tr_ec9265e1cc6aa9c532932366
+#EXTINF:-1 tvg-id="tr_b166f40766a793d2decda3a9" tvg-name="4K TR: FB TV" group-title="Spor",4K TR: FB TV
+http://localhost:7019/iptv/play/tr_b166f40766a793d2decda3a9
+#EXTINF:-1 tvg-id="tr_f2599e112b1398096428e654" tvg-name="4K TR: FLASH TV" group-title="Diğer",4K TR: FLASH TV
+http://localhost:7019/iptv/play/tr_f2599e112b1398096428e654
+#EXTINF:-1 tvg-id="tr_145e2dce58a64d2268d0d0af" tvg-name="4K TR: FX HD" group-title="Diğer",4K TR: FX HD
+http://localhost:7019/iptv/play/tr_145e2dce58a64d2268d0d0af
+#EXTINF:-1 tvg-id="tr_04829969964a38769e0e52d5" tvg-name="4K TR: HABER GLOBAL HD" group-title="Haber",4K TR: HABER GLOBAL HD
+http://localhost:7019/iptv/play/tr_04829969964a38769e0e52d5
+#EXTINF:-1 tvg-id="tr_35ffe4ffc54c0ef07b34a5ed" tvg-name="4K TR: HABERTÜRK HD" group-title="Haber",4K TR: HABERTÜRK HD
+http://localhost:7019/iptv/play/tr_35ffe4ffc54c0ef07b34a5ed
+#EXTINF:-1 tvg-id="tr_71516725f57cbb3d9cf5bd0a" tvg-name="4K TR: KANAL 7 HD" group-title="Diğer",4K TR: KANAL 7 HD
+http://localhost:7019/iptv/play/tr_71516725f57cbb3d9cf5bd0a
+#EXTINF:-1 tvg-id="tr_73eae0c9a864f2cfb89b5475" tvg-name="4K TR: KANAL D HD" group-title="Diğer",4K TR: KANAL D HD
+http://localhost:7019/iptv/play/tr_73eae0c9a864f2cfb89b5475
+#EXTINF:-1 tvg-id="tr_d4dd72554160cc47177a1692" tvg-name="4K TR: KRT TV" group-title="Diğer",4K TR: KRT TV
+http://localhost:7019/iptv/play/tr_d4dd72554160cc47177a1692
+#EXTINF:-1 tvg-id="tr_dffa6fb2b89673e20dc07683" tvg-name="4K TR: ÜLKE TV HD" group-title="Haber",4K TR: ÜLKE TV HD
+http://localhost:7019/iptv/play/tr_dffa6fb2b89673e20dc07683
+#EXTINF:-1 tvg-id="tr_8adef5690eba06631a77ccd8" tvg-name="4K TR: LOVE NATURE HD" group-title="Diğer",4K TR: LOVE NATURE HD
+http://localhost:7019/iptv/play/tr_8adef5690eba06631a77ccd8
+#EXTINF:-1 tvg-id="tr_8119bef098cdfb311cac045c" tvg-name="4K TR: MİNİKA GO" group-title="Çocuk",4K TR: MİNİKA GO
+http://localhost:7019/iptv/play/tr_8119bef098cdfb311cac045c
+#EXTINF:-1 tvg-id="tr_1f5009a529e2883aa2827e3c" tvg-name="4K TR: MİNİKA ÇOCUK" group-title="Çocuk",4K TR: MİNİKA ÇOCUK
+http://localhost:7019/iptv/play/tr_1f5009a529e2883aa2827e3c
+#EXTINF:-1 tvg-id="tr_9bf572489aa94e50fbaa4e5f" tvg-name="4K TR: MELTEM TV" group-title="Diğer",4K TR: MELTEM TV
+http://localhost:7019/iptv/play/tr_9bf572489aa94e50fbaa4e5f
+#EXTINF:-1 tvg-id="tr_4435e771bee5f36fc4d85fad" tvg-name="4K TR: NATIONAL GEOGRAPHIC HD" group-title="Belgesel",4K TR: NATIONAL GEOGRAPHIC HD
+http://localhost:7019/iptv/play/tr_4435e771bee5f36fc4d85fad
+#EXTINF:-1 tvg-id="tr_c892532d199db23de4944436" tvg-name="4K TR: NATIONAL GEOGRAPHIC WILD HD" group-title="Belgesel",4K TR: NATIONAL GEOGRAPHIC WILD HD
+http://localhost:7019/iptv/play/tr_c892532d199db23de4944436
+#EXTINF:-1 tvg-id="tr_aa2f890483f4d2e641c3938b" tvg-name="4K TR: NBA TV HD" group-title="Diğer",4K TR: NBA TV HD
+http://localhost:7019/iptv/play/tr_aa2f890483f4d2e641c3938b
+#EXTINF:-1 tvg-id="tr_b1147f01c6635bb50c264cd3" tvg-name="4K TR: NOW HD" group-title="Diğer",4K TR: NOW HD
+http://localhost:7019/iptv/play/tr_b1147f01c6635bb50c264cd3
+#EXTINF:-1 tvg-id="tr_d3327602fb7119825687695b" tvg-name="4K TR: NR1 DAMAR HD" group-title="Diğer",4K TR: NR1 DAMAR HD
+http://localhost:7019/iptv/play/tr_d3327602fb7119825687695b
+#EXTINF:-1 tvg-id="tr_1eb56145a0504909210fb4fc" tvg-name="4K TR: NTV HD" group-title="Haber",4K TR: NTV HD
+http://localhost:7019/iptv/play/tr_1eb56145a0504909210fb4fc
+#EXTINF:-1 tvg-id="tr_ebbedd3edffc99d18e3e001b" tvg-name="4K TR: NUMBER1 TURK HD" group-title="Müzik",4K TR: NUMBER1 TURK HD
+http://localhost:7019/iptv/play/tr_ebbedd3edffc99d18e3e001b
+#EXTINF:-1 tvg-id="tr_e56bd913bfccc5c5668ea950" tvg-name="4K TR: NUMBER1 TV HD" group-title="Müzik",4K TR: NUMBER1 TV HD
+http://localhost:7019/iptv/play/tr_e56bd913bfccc5c5668ea950
+#EXTINF:-1 tvg-id="tr_0380ec6685b905a717fab315" tvg-name="4K TR: POWER TV HD" group-title="Müzik",4K TR: POWER TV HD
+http://localhost:7019/iptv/play/tr_0380ec6685b905a717fab315
+#EXTINF:-1 tvg-id="tr_ab2455d3988d73ade4bac326" tvg-name="4K TR: SİNEMA 1002 HD" group-title="Sinema",4K TR: SİNEMA 1002 HD
+http://localhost:7019/iptv/play/tr_ab2455d3988d73ade4bac326
+#EXTINF:-1 tvg-id="tr_430916d1976fe982c2796c77" tvg-name="4K TR: SİNEMA AİLE 2 HD" group-title="Sinema",4K TR: SİNEMA AİLE 2 HD
+http://localhost:7019/iptv/play/tr_430916d1976fe982c2796c77
+#EXTINF:-1 tvg-id="tr_c992c56b365e7359e985f32d" tvg-name="4K TR: SİNEMA AİLE HD" group-title="Sinema",4K TR: SİNEMA AİLE HD
+http://localhost:7019/iptv/play/tr_c992c56b365e7359e985f32d
+#EXTINF:-1 tvg-id="tr_153a1c755a4c4ee50a91c9a4" tvg-name="4K TR: SİNEMA AKSİYON 2 HD" group-title="Sinema",4K TR: SİNEMA AKSİYON 2 HD
+http://localhost:7019/iptv/play/tr_153a1c755a4c4ee50a91c9a4
+#EXTINF:-1 tvg-id="tr_42644d2bf1a9439814e09915" tvg-name="4K TR: SİNEMA KOMEDİ HD" group-title="Sinema",4K TR: SİNEMA KOMEDİ HD
+http://localhost:7019/iptv/play/tr_42644d2bf1a9439814e09915
+#EXTINF:-1 tvg-id="tr_508a78f70220d097dd75c369" tvg-name="4K TR: SİNEMA TV 1001 HD" group-title="Sinema",4K TR: SİNEMA TV 1001 HD
+http://localhost:7019/iptv/play/tr_508a78f70220d097dd75c369
+#EXTINF:-1 tvg-id="tr_0cf62bc3b4c74395746b8ba2" tvg-name="4K TR: SİNEMA TV 2 HD" group-title="Sinema",4K TR: SİNEMA TV 2 HD
+http://localhost:7019/iptv/play/tr_0cf62bc3b4c74395746b8ba2
+#EXTINF:-1 tvg-id="tr_3e0836a4b6cfe6ad17c221d2" tvg-name="4K TR: SİNEMA TV AKSİYON HD" group-title="Sinema",4K TR: SİNEMA TV AKSİYON HD
+http://localhost:7019/iptv/play/tr_3e0836a4b6cfe6ad17c221d2
+#EXTINF:-1 tvg-id="tr_5b42421c4ae610f0c4ad29a8" tvg-name="4K TR: SİNEMA TV HD" group-title="Sinema",4K TR: SİNEMA TV HD
+http://localhost:7019/iptv/play/tr_5b42421c4ae610f0c4ad29a8
+#EXTINF:-1 tvg-id="tr_eff6c986e6b462e480980f2e" tvg-name="4K TR: SİNEMA YERLİ 2 HD" group-title="Sinema",4K TR: SİNEMA YERLİ 2 HD
+http://localhost:7019/iptv/play/tr_eff6c986e6b462e480980f2e
+#EXTINF:-1 tvg-id="tr_c546335caeccf057861c7cf7" tvg-name="4K TR: SİNEMA YERLİ HD" group-title="Sinema",4K TR: SİNEMA YERLİ HD
+http://localhost:7019/iptv/play/tr_c546335caeccf057861c7cf7
+#EXTINF:-1 tvg-id="tr_8fc0b73bee52692df301402f" tvg-name="4K TR: S SPORT" group-title="Spor",4K TR: S SPORT
+http://localhost:7019/iptv/play/tr_8fc0b73bee52692df301402f
+#EXTINF:-1 tvg-id="tr_937b90c2f8e36f5467f7e823" tvg-name="4K TR: S SPORT 2" group-title="Spor",4K TR: S SPORT 2
+http://localhost:7019/iptv/play/tr_937b90c2f8e36f5467f7e823
+#EXTINF:-1 tvg-id="tr_951e093f6559f97da0d60c04" tvg-name="4K TR: SHOW TV HD" group-title="Diğer",4K TR: SHOW TV HD
+http://localhost:7019/iptv/play/tr_951e093f6559f97da0d60c04
+#EXTINF:-1 tvg-id="tr_6be26c9d1757c4ac9227c066" tvg-name="4K TR: SOZCU TV" group-title="Diğer",4K TR: SOZCU TV
+http://localhost:7019/iptv/play/tr_6be26c9d1757c4ac9227c066
+#EXTINF:-1 tvg-id="tr_ef8204f6f65ee4049ee6fc20" tvg-name="4K TR: SPOR SMART" group-title="Spor",4K TR: SPOR SMART
+http://localhost:7019/iptv/play/tr_ef8204f6f65ee4049ee6fc20
+#EXTINF:-1 tvg-id="tr_2b1666c34bf8088bd3cca37b" tvg-name="4K TR: STAR TV HD" group-title="Diğer",4K TR: STAR TV HD
+http://localhost:7019/iptv/play/tr_2b1666c34bf8088bd3cca37b
+#EXTINF:-1 tvg-id="tr_2632d54c8b18628ab0025452" tvg-name="4K TR: TELE 1" group-title="Diğer",4K TR: TELE 1
+http://localhost:7019/iptv/play/tr_2632d54c8b18628ab0025452
+#EXTINF:-1 tvg-id="tr_bb05029a42fb508ab55888de" tvg-name="4K TR: TEVE2 HD" group-title="Diğer",4K TR: TEVE2 HD
+http://localhost:7019/iptv/play/tr_bb05029a42fb508ab55888de
+#EXTINF:-1 tvg-id="tr_3e4e7553796d38e4d155b6d6" tvg-name="4K TR: TGRT HABER HD" group-title="Haber",4K TR: TGRT HABER HD
+http://localhost:7019/iptv/play/tr_3e4e7553796d38e4d155b6d6
+#EXTINF:-1 tvg-id="tr_356d6178c11dd4fdc72d13d0" tvg-name="4K TR: TJK TV" group-title="Diğer",4K TR: TJK TV
+http://localhost:7019/iptv/play/tr_356d6178c11dd4fdc72d13d0
+#EXTINF:-1 tvg-id="tr_9ef69267e2016afe4b2fbae7" tvg-name="4K TR: TRT 1 HD" group-title="Diğer",4K TR: TRT 1 HD
+http://localhost:7019/iptv/play/tr_9ef69267e2016afe4b2fbae7
+#EXTINF:-1 tvg-id="tr_eb1ad5bb0a1a76eaaa03623e" tvg-name="4K TR: TRT 2 HD" group-title="Diğer",4K TR: TRT 2 HD
+http://localhost:7019/iptv/play/tr_eb1ad5bb0a1a76eaaa03623e
+#EXTINF:-1 tvg-id="tr_8dd6b2ae1d980bdcabe148d3" tvg-name="4K TR: TRT 3" group-title="Diğer",4K TR: TRT 3
+http://localhost:7019/iptv/play/tr_8dd6b2ae1d980bdcabe148d3
+#EXTINF:-1 tvg-id="tr_381a6c8287dea51e91cf9f00" tvg-name="4K TR: TRT AVAZ" group-title="Diğer",4K TR: TRT AVAZ
+http://localhost:7019/iptv/play/tr_381a6c8287dea51e91cf9f00
+#EXTINF:-1 tvg-id="tr_01db8a2821777f334a45e542" tvg-name="4K TR: TRT BELGESEL HD" group-title="Belgesel",4K TR: TRT BELGESEL HD
+http://localhost:7019/iptv/play/tr_01db8a2821777f334a45e542
+#EXTINF:-1 tvg-id="tr_d95f6ab0c06e6a4ac715cd16" tvg-name="4K TR: TRT HABER HD" group-title="Haber",4K TR: TRT HABER HD
+http://localhost:7019/iptv/play/tr_d95f6ab0c06e6a4ac715cd16
+#EXTINF:-1 tvg-id="tr_d0217ad70c07d57465251eab" tvg-name="4K TR: TRT KURD" group-title="Diğer",4K TR: TRT KURD
+http://localhost:7019/iptv/play/tr_d0217ad70c07d57465251eab
+#EXTINF:-1 tvg-id="tr_adb6fed96fcb47e4366a54e7" tvg-name="4K TR: TRT MÜZİK" group-title="Müzik",4K TR: TRT MÜZİK
+http://localhost:7019/iptv/play/tr_adb6fed96fcb47e4366a54e7
+#EXTINF:-1 tvg-id="tr_58b032a606e3bfd198c301ca" tvg-name="4K TR: TRT SPOR HD" group-title="Spor",4K TR: TRT SPOR HD
+http://localhost:7019/iptv/play/tr_58b032a606e3bfd198c301ca
+#EXTINF:-1 tvg-id="tr_f3ed14b3a6ccf3d1713c9ca2" tvg-name="4K TR: TRT SPOR YILDIZ" group-title="Spor",4K TR: TRT SPOR YILDIZ
+http://localhost:7019/iptv/play/tr_f3ed14b3a6ccf3d1713c9ca2
+#EXTINF:-1 tvg-id="tr_7f7d4b20e8916d2415dda38f" tvg-name="4K TR: TRT TÜRK" group-title="Diğer",4K TR: TRT TÜRK
+http://localhost:7019/iptv/play/tr_7f7d4b20e8916d2415dda38f
+#EXTINF:-1 tvg-id="tr_5d5cdbd3eae5e13a2354e49f" tvg-name="4K TR: TV 4" group-title="Diğer",4K TR: TV 4
+http://localhost:7019/iptv/play/tr_5d5cdbd3eae5e13a2354e49f
+#EXTINF:-1 tvg-id="tr_03b0e41c3652b7b67a9f3274" tvg-name="4K TR: TV100" group-title="Diğer",4K TR: TV100
+http://localhost:7019/iptv/play/tr_03b0e41c3652b7b67a9f3274
+#EXTINF:-1 tvg-id="tr_d9a3b002aef819187b1c73a2" tvg-name="4K TR: TV8 HD" group-title="Diğer",4K TR: TV8 HD
+http://localhost:7019/iptv/play/tr_d9a3b002aef819187b1c73a2
+#EXTINF:-1 tvg-id="tr_c32ea871641e8bff13bd31fe" tvg-name="4K TR: TV8,5 HD" group-title="Diğer",4K TR: TV8,5 HD
+http://localhost:7019/iptv/play/tr_c32ea871641e8bff13bd31fe
+#EXTINF:-1 tvg-id="tr_82ede20c6bdcb80cbc91b4dc" tvg-name="4K TR: TVNET HD" group-title="Diğer",4K TR: TVNET HD
+http://localhost:7019/iptv/play/tr_82ede20c6bdcb80cbc91b4dc
+#EXTINF:-1 tvg-id="tr_61e3f8ab88181f94ef1d0669" tvg-name="4K TR: VIASAT HISTORY HD" group-title="Belgesel",4K TR: VIASAT HISTORY HD
+http://localhost:7019/iptv/play/tr_61e3f8ab88181f94ef1d0669
+#EXTINF:-1 tvg-id="tr_879e008a564bd690ddd21fd7" tvg-name="A HABER" group-title="Haber",A HABER
+http://localhost:7019/iptv/play/tr_879e008a564bd690ddd21fd7
+#EXTINF:-1 tvg-id="tr_fbb4e63d023a0b6edcaf6a05" tvg-name="A HABER HD" group-title="Haber",A HABER HD
+http://localhost:7019/iptv/play/tr_fbb4e63d023a0b6edcaf6a05
+#EXTINF:-1 tvg-id="tr_ea3cd21a683235611547474b" tvg-name="A HABER HEVC" group-title="Haber",A HABER HEVC
+http://localhost:7019/iptv/play/tr_ea3cd21a683235611547474b
+#EXTINF:-1 tvg-id="tr_2e150049cb386b9b8397d0f0" tvg-name="A HABER RAW" group-title="Haber",A HABER RAW
+http://localhost:7019/iptv/play/tr_2e150049cb386b9b8397d0f0
+#EXTINF:-1 tvg-id="tr_372c3c5741d57442ae36282e" tvg-name="A NEWS" group-title="Haber",A NEWS
+http://localhost:7019/iptv/play/tr_372c3c5741d57442ae36282e
+#EXTINF:-1 tvg-id="tr_81632522beea9d709d7e1b83" tvg-name="A NEWS HD" group-title="Haber",A NEWS HD
+http://localhost:7019/iptv/play/tr_81632522beea9d709d7e1b83
+#EXTINF:-1 tvg-id="tr_3f9be2be606460540c9fe5e2" tvg-name="A NEWS RAW" group-title="Haber",A NEWS RAW
+http://localhost:7019/iptv/play/tr_3f9be2be606460540c9fe5e2
+#EXTINF:-1 tvg-id="tr_4f4bcc092acfd2d693ad3495" tvg-name="A PARA" group-title="Diğer",A PARA
+http://localhost:7019/iptv/play/tr_4f4bcc092acfd2d693ad3495
+#EXTINF:-1 tvg-id="tr_e3e78d9d81bb128c9c0dc0a2" tvg-name="A PARA RAW" group-title="Diğer",A PARA RAW
+http://localhost:7019/iptv/play/tr_e3e78d9d81bb128c9c0dc0a2
+#EXTINF:-1 tvg-id="tr_7b367361b7804083aca38f73" tvg-name="A SPOR" group-title="Spor",A SPOR
+http://localhost:7019/iptv/play/tr_7b367361b7804083aca38f73
+#EXTINF:-1 tvg-id="tr_22dd422622731d47b6026e2a" tvg-name="A SPOR FHD" group-title="Spor",A SPOR FHD
+http://localhost:7019/iptv/play/tr_22dd422622731d47b6026e2a
+#EXTINF:-1 tvg-id="tr_f0e43ef1c342eb9784e83180" tvg-name="A SPOR HD" group-title="Spor",A SPOR HD
+http://localhost:7019/iptv/play/tr_f0e43ef1c342eb9784e83180
+#EXTINF:-1 tvg-id="tr_e435333da94882190b81a3bd" tvg-name="A SPOR HEVC" group-title="Spor",A SPOR HEVC
+http://localhost:7019/iptv/play/tr_e435333da94882190b81a3bd
+#EXTINF:-1 tvg-id="tr_ff7371ff0dd98e22d569738e" tvg-name="A SPOR RAW" group-title="Spor",A SPOR RAW
+http://localhost:7019/iptv/play/tr_ff7371ff0dd98e22d569738e
+#EXTINF:-1 tvg-id="tr_f0bfa4b3d7471e565b53720c" tvg-name="A2" group-title="Diğer",A2
+http://localhost:7019/iptv/play/tr_f0bfa4b3d7471e565b53720c
+#EXTINF:-1 tvg-id="tr_c65a557b95dc40ec072b0646" tvg-name="A2 HD" group-title="Diğer",A2 HD
+http://localhost:7019/iptv/play/tr_c65a557b95dc40ec072b0646
+#EXTINF:-1 tvg-id="tr_80c3ae5450c2fad730383d93" tvg-name="A2 HEVC" group-title="Diğer",A2 HEVC
+http://localhost:7019/iptv/play/tr_80c3ae5450c2fad730383d93
+#EXTINF:-1 tvg-id="tr_52cced5869b8fef5b5f555b0" tvg-name="A2 RAW" group-title="Diğer",A2 RAW
+http://localhost:7019/iptv/play/tr_52cced5869b8fef5b5f555b0
+#EXTINF:-1 tvg-id="tr_8c2f3911b71534fa00775538" tvg-name="A2 TV SD" group-title="Diğer",A2 TV SD
+http://localhost:7019/iptv/play/tr_8c2f3911b71534fa00775538
+#EXTINF:-1 tvg-id="tr_c3aef64647fa2d0b6d56b149" tvg-name="ADA TV" group-title="Diğer",ADA TV
+http://localhost:7019/iptv/play/tr_c3aef64647fa2d0b6d56b149
+#EXTINF:-1 tvg-id="tr_ab9abdcc67ec64525eb69007" tvg-name="ADIBESA MASALLARI" group-title="Diğer",ADIBESA MASALLARI
+http://localhost:7019/iptv/play/tr_ab9abdcc67ec64525eb69007
+#EXTINF:-1 tvg-id="tr_d4e54cc1f6a63fbb135b412f" tvg-name="ADIYAMAN MERCAN TV" group-title="Haber",ADIYAMAN MERCAN TV
+http://localhost:7019/iptv/play/tr_d4e54cc1f6a63fbb135b412f
+#EXTINF:-1 tvg-id="tr_53d2b3b71c215766cde23458" tvg-name="AFROTURK TV" group-title="Diğer",AFROTURK TV
+http://localhost:7019/iptv/play/tr_53d2b3b71c215766cde23458
+#EXTINF:-1 tvg-id="tr_8ef3f110a5aa2fbf9db6542a" tvg-name="AFYON TÜRK TV" group-title="Diğer",AFYON TÜRK TV
+http://localhost:7019/iptv/play/tr_8ef3f110a5aa2fbf9db6542a
+#EXTINF:-1 tvg-id="tr_7397cb30354564bdb4108a4f" tvg-name="AGRO TV" group-title="Diğer",AGRO TV
+http://localhost:7019/iptv/play/tr_7397cb30354564bdb4108a4f
+#EXTINF:-1 tvg-id="tr_22f525dc28dbe541bdddc8a3" tvg-name="AHMET KAYA" group-title="Diğer",AHMET KAYA
+http://localhost:7019/iptv/play/tr_22f525dc28dbe541bdddc8a3
+#EXTINF:-1 tvg-id="tr_3653e32e7783b8803dabd2a9" tvg-name="AKIT TV" group-title="Haber",AKIT TV
+http://localhost:7019/iptv/play/tr_3653e32e7783b8803dabd2a9
+#EXTINF:-1 tvg-id="tr_840ed8273f9793afb72da4ab" tvg-name="AKIT TV" group-title="Haber",AKIT TV
+http://localhost:7019/iptv/play/tr_840ed8273f9793afb72da4ab
+#EXTINF:-1 tvg-id="tr_1be41a6342223aeaf9bcb0ed" tvg-name="AKSARAY KANAL 68" group-title="Diğer",AKSARAY KANAL 68
+http://localhost:7019/iptv/play/tr_1be41a6342223aeaf9bcb0ed
+#EXTINF:-1 tvg-id="tr_dc947d80a8a3e272ac088db1" tvg-name="AKSU TV" group-title="Diğer",AKSU TV
+http://localhost:7019/iptv/play/tr_dc947d80a8a3e272ac088db1
+#EXTINF:-1 tvg-id="tr_c0e5de14a79016991d1b95da" tvg-name="AKUSTIK" group-title="Diğer",AKUSTIK
+http://localhost:7019/iptv/play/tr_c0e5de14a79016991d1b95da
+#EXTINF:-1 tvg-id="tr_eeb09e004301e05c9760bfc7" tvg-name="ALANYA POSTA TV" group-title="Diğer",ALANYA POSTA TV
+http://localhost:7019/iptv/play/tr_eeb09e004301e05c9760bfc7
+#EXTINF:-1 tvg-id="tr_efbb1e38e481591d442c7471" tvg-name="ALTAS TV" group-title="Diğer",ALTAS TV
+http://localhost:7019/iptv/play/tr_efbb1e38e481591d442c7471
+#EXTINF:-1 tvg-id="tr_a2e22ec293916dcc5e0d7a3b" tvg-name="ANADOLU DERNEK TV" group-title="Diğer",ANADOLU DERNEK TV
+http://localhost:7019/iptv/play/tr_a2e22ec293916dcc5e0d7a3b
+#EXTINF:-1 tvg-id="tr_6cf8a5350232faa4e2c84736" tvg-name="ANADOLU DERNEK TV" group-title="Diğer",ANADOLU DERNEK TV
+http://localhost:7019/iptv/play/tr_6cf8a5350232faa4e2c84736
+#EXTINF:-1 tvg-id="tr_ce233d9385749492835d630b" tvg-name="ANADOLU TV" group-title="Diğer",ANADOLU TV
+http://localhost:7019/iptv/play/tr_ce233d9385749492835d630b
+#EXTINF:-1 tvg-id="tr_0730a5ddbdbbe46185a6cbdb" tvg-name="ÇANAKKALE BOĞAZ TV" group-title="Yerel",ÇANAKKALE BOĞAZ TV
+http://localhost:7019/iptv/play/tr_0730a5ddbdbbe46185a6cbdb
+#EXTINF:-1 tvg-id="tr_3e7e191808916436247fe657" tvg-name="ÇANAKKALE TON TV" group-title="Haber",ÇANAKKALE TON TV
+http://localhost:7019/iptv/play/tr_3e7e191808916436247fe657
+#EXTINF:-1 tvg-id="tr_7f800e489037291213875c2d" tvg-name="ANIMAL PLANET HD" group-title="Belgesel",ANIMAL PLANET HD
+http://localhost:7019/iptv/play/tr_7f800e489037291213875c2d
+#EXTINF:-1 tvg-id="tr_fc211eaccecadb275b2fcfc9" tvg-name="ANIMATION 1 HD" group-title="Diğer",ANIMATION 1 HD
+http://localhost:7019/iptv/play/tr_fc211eaccecadb275b2fcfc9
+#EXTINF:-1 tvg-id="tr_f6a1e4af38fb36fe7bd79ffc" tvg-name="ANIMAUX" group-title="Diğer",ANIMAUX
+http://localhost:7019/iptv/play/tr_f6a1e4af38fb36fe7bd79ffc
+#EXTINF:-1 tvg-id="tr_d388f3a6aea71ca32ecdad57" tvg-name="ANKA TV" group-title="Diğer",ANKA TV
+http://localhost:7019/iptv/play/tr_d388f3a6aea71ca32ecdad57
+#EXTINF:-1 tvg-id="tr_68e1d0ccc137d234098dad93" tvg-name="ŞANLIURFA KANAL URFA" group-title="Yerel",ŞANLIURFA KANAL URFA
+http://localhost:7019/iptv/play/tr_68e1d0ccc137d234098dad93
+#EXTINF:-1 tvg-id="tr_09e980b13544a833fe377751" tvg-name="ANTALYA KANAL V" group-title="Diğer",ANTALYA KANAL V
+http://localhost:7019/iptv/play/tr_09e980b13544a833fe377751
+#EXTINF:-1 tvg-id="tr_7e023866ecc00c4051fc11ae" tvg-name="APARA HD" group-title="Diğer",APARA HD
+http://localhost:7019/iptv/play/tr_7e023866ecc00c4051fc11ae
+#EXTINF:-1 tvg-id="tr_80c78edd9bc4329f00bd4985" tvg-name="ARENA BOX ACTION" group-title="Diğer",ARENA BOX ACTION
+http://localhost:7019/iptv/play/tr_80c78edd9bc4329f00bd4985
+#EXTINF:-1 tvg-id="tr_3ed5a61e1426a20e10897377" tvg-name="ARKADAG" group-title="Diğer",ARKADAG
+http://localhost:7019/iptv/play/tr_3ed5a61e1426a20e10897377
+#EXTINF:-1 tvg-id="tr_c337af8abb8d915797846b8b" tvg-name="AS TV BURSA" group-title="Diğer",AS TV BURSA
+http://localhost:7019/iptv/play/tr_c337af8abb8d915797846b8b
+#EXTINF:-1 tvg-id="tr_9fcb4d07654d6edea88fb31f" tvg-name="ATV" group-title="Diğer",ATV
+http://localhost:7019/iptv/play/tr_9fcb4d07654d6edea88fb31f
+#EXTINF:-1 tvg-id="tr_eaea9f8b6a0e93a5614ef6f1" tvg-name="ATV AVRUPA" group-title="Diğer",ATV AVRUPA
+http://localhost:7019/iptv/play/tr_eaea9f8b6a0e93a5614ef6f1
+#EXTINF:-1 tvg-id="tr_8e40ce32ba3780403b691aff" tvg-name="ATV EUROPA" group-title="Diğer",ATV EUROPA
+http://localhost:7019/iptv/play/tr_8e40ce32ba3780403b691aff
+#EXTINF:-1 tvg-id="tr_e187c1b40ecd38fb54a05e39" tvg-name="ATV FHD" group-title="Diğer",ATV FHD
+http://localhost:7019/iptv/play/tr_e187c1b40ecd38fb54a05e39
+#EXTINF:-1 tvg-id="tr_b9fd4385352f22e39cd32f30" tvg-name="ATV HD" group-title="Diğer",ATV HD
+http://localhost:7019/iptv/play/tr_b9fd4385352f22e39cd32f30
+#EXTINF:-1 tvg-id="tr_089129b94c175847f8c70af9" tvg-name="ATV HD (H265)" group-title="Diğer",ATV HD (H265)
+http://localhost:7019/iptv/play/tr_089129b94c175847f8c70af9
+#EXTINF:-1 tvg-id="tr_d4c753f1e2b916f3a064e5e8" tvg-name="ATV HEVC" group-title="Diğer",ATV HEVC
+http://localhost:7019/iptv/play/tr_d4c753f1e2b916f3a064e5e8
+#EXTINF:-1 tvg-id="tr_1fe6d79b4db8e57c9e809bb8" tvg-name="ATV RAW" group-title="Diğer",ATV RAW
+http://localhost:7019/iptv/play/tr_1fe6d79b4db8e57c9e809bb8
+#EXTINF:-1 tvg-id="tr_aa84d7e03ea4a4c0ef0099b5" tvg-name="ATV SD" group-title="Diğer",ATV SD
+http://localhost:7019/iptv/play/tr_aa84d7e03ea4a4c0ef0099b5
+#EXTINF:-1 tvg-id="tr_c0d182b0aee4794e7481f34b" tvg-name="BABA RADYO ARABESK" group-title="Diğer",BABA RADYO ARABESK
+http://localhost:7019/iptv/play/tr_c0d182b0aee4794e7481f34b
+#EXTINF:-1 tvg-id="tr_45b93303988c41db5eda4449" tvg-name="BABY TV" group-title="Çocuk",BABY TV
+http://localhost:7019/iptv/play/tr_45b93303988c41db5eda4449
+#EXTINF:-1 tvg-id="tr_ea3ded15276b8c81d9f6248f" tvg-name="BABY TV HD" group-title="Çocuk",BABY TV HD
+http://localhost:7019/iptv/play/tr_ea3ded15276b8c81d9f6248f
+#EXTINF:-1 tvg-id="tr_a39b8fecceeaf680c68803d3" tvg-name="BARBIE ANIMATION 2 HD" group-title="Diğer",BARBIE ANIMATION 2 HD
+http://localhost:7019/iptv/play/tr_a39b8fecceeaf680c68803d3
+#EXTINF:-1 tvg-id="tr_a6d1f341402a9a364f468907" tvg-name="BBC EARTH" group-title="Diğer",BBC EARTH
+http://localhost:7019/iptv/play/tr_a6d1f341402a9a364f468907
+#EXTINF:-1 tvg-id="tr_b526d60cd891ca7f3060e071" tvg-name="BBC EARTH HD" group-title="Diğer",BBC EARTH HD
+http://localhost:7019/iptv/play/tr_b526d60cd891ca7f3060e071
+#EXTINF:-1 tvg-id="tr_2f95bca925c66413add26ddb" tvg-name="BEIN 1 FEED (720P)" group-title="Spor",BEIN 1 FEED (720P)
+http://localhost:7019/iptv/play/tr_2f95bca925c66413add26ddb
+#EXTINF:-1 tvg-id="tr_06c2746187613ca99c802d94" tvg-name="BEIN 1 SD (360P)" group-title="Spor",BEIN 1 SD (360P)
+http://localhost:7019/iptv/play/tr_06c2746187613ca99c802d94
+#EXTINF:-1 tvg-id="tr_83eb9d4f3e767d8a2db88b3e" tvg-name="BEIN 1 SD (480P)" group-title="Spor",BEIN 1 SD (480P)
+http://localhost:7019/iptv/play/tr_83eb9d4f3e767d8a2db88b3e
+#EXTINF:-1 tvg-id="tr_ad1668c59774a8babb3f3e0f" tvg-name="BEIN BOX OFFICE 1" group-title="Spor",BEIN BOX OFFICE 1
+http://localhost:7019/iptv/play/tr_ad1668c59774a8babb3f3e0f
+#EXTINF:-1 tvg-id="tr_9d6e7d5f2b26ec57ae5c253a" tvg-name="BEIN BOX OFFICE 2" group-title="Spor",BEIN BOX OFFICE 2
+http://localhost:7019/iptv/play/tr_9d6e7d5f2b26ec57ae5c253a
+#EXTINF:-1 tvg-id="tr_7c3ae824445b97fe36161836" tvg-name="BEIN BOX OFFICE 3" group-title="Spor",BEIN BOX OFFICE 3
+http://localhost:7019/iptv/play/tr_7c3ae824445b97fe36161836
+#EXTINF:-1 tvg-id="tr_0e4de555689d1af78701a9ad" tvg-name="BEIN GURME" group-title="Spor",BEIN GURME
+http://localhost:7019/iptv/play/tr_0e4de555689d1af78701a9ad
+#EXTINF:-1 tvg-id="tr_39d2d6432e4159fbfb7d2890" tvg-name="BEIN GURME HD" group-title="Spor",BEIN GURME HD
+http://localhost:7019/iptv/play/tr_39d2d6432e4159fbfb7d2890
+#EXTINF:-1 tvg-id="tr_6c8d36657f03e183b9371f88" tvg-name="BEIN IZ" group-title="Spor",BEIN IZ
+http://localhost:7019/iptv/play/tr_6c8d36657f03e183b9371f88
+#EXTINF:-1 tvg-id="tr_975524242a35c397b6b3c03f" tvg-name="BEIN MOVIES ACTION" group-title="Spor",BEIN MOVIES ACTION
+http://localhost:7019/iptv/play/tr_975524242a35c397b6b3c03f
+#EXTINF:-1 tvg-id="tr_9423520634992e337fef8bc3" tvg-name="BEIN MOVIES ACTION 2" group-title="Spor",BEIN MOVIES ACTION 2
+http://localhost:7019/iptv/play/tr_9423520634992e337fef8bc3
+#EXTINF:-1 tvg-id="tr_64f891e512f76c8f797dc58c" tvg-name="BEIN MOVIES PREMIERE" group-title="Spor",BEIN MOVIES PREMIERE
+http://localhost:7019/iptv/play/tr_64f891e512f76c8f797dc58c
+#EXTINF:-1 tvg-id="tr_09eb94eca7548f8085a849ce" tvg-name="BEIN MOVIES PREMIERE 2" group-title="Spor",BEIN MOVIES PREMIERE 2
+http://localhost:7019/iptv/play/tr_09eb94eca7548f8085a849ce
+#EXTINF:-1 tvg-id="tr_63150578f7bb3174ccfdde93" tvg-name="BEIN MOVIES STARS" group-title="Spor",BEIN MOVIES STARS
+http://localhost:7019/iptv/play/tr_63150578f7bb3174ccfdde93
+#EXTINF:-1 tvg-id="tr_01bdb0bfec84f40110087e4f" tvg-name="BEIN MOVIES TURK" group-title="Spor",BEIN MOVIES TURK
+http://localhost:7019/iptv/play/tr_01bdb0bfec84f40110087e4f
+#EXTINF:-1 tvg-id="tr_c2902a62f4aee7bfc40cfdc5" tvg-name="BEIN SERIES 1" group-title="Spor",BEIN SERIES 1
+http://localhost:7019/iptv/play/tr_c2902a62f4aee7bfc40cfdc5
+#EXTINF:-1 tvg-id="tr_9e33fab111a4491179a4298a" tvg-name="BEIN SERIES 2" group-title="Spor",BEIN SERIES 2
+http://localhost:7019/iptv/play/tr_9e33fab111a4491179a4298a
+#EXTINF:-1 tvg-id="tr_6db9238e10d3e2df18778e65" tvg-name="BEIN SERIES 3" group-title="Spor",BEIN SERIES 3
+http://localhost:7019/iptv/play/tr_6db9238e10d3e2df18778e65
+#EXTINF:-1 tvg-id="tr_acf6d15e382acc96c77b5f50" tvg-name="BEIN SERIES 4" group-title="Spor",BEIN SERIES 4
+http://localhost:7019/iptv/play/tr_acf6d15e382acc96c77b5f50
+#EXTINF:-1 tvg-id="tr_eee93787a098adf365dc3cb6" tvg-name="BEIN SERIES DRAMA" group-title="Spor",BEIN SERIES DRAMA
+http://localhost:7019/iptv/play/tr_eee93787a098adf365dc3cb6
+#EXTINF:-1 tvg-id="tr_41b353ad1250eaaf66a9081f" tvg-name="BEIN SPORTS 1" group-title="Spor",BEIN SPORTS 1
+http://localhost:7019/iptv/play/tr_41b353ad1250eaaf66a9081f
+#EXTINF:-1 tvg-id="tr_4fe02f456c2d2acb29c4d71d" tvg-name="BEIN SPORTS 1 (720P)" group-title="Spor",BEIN SPORTS 1 (720P)
+http://localhost:7019/iptv/play/tr_4fe02f456c2d2acb29c4d71d
+#EXTINF:-1 tvg-id="tr_fdb357326d60663d0a13f91c" tvg-name="BEIN SPORTS 1 (720PFEED)" group-title="Spor",BEIN SPORTS 1 (720PFEED)
+http://localhost:7019/iptv/play/tr_fdb357326d60663d0a13f91c
+#EXTINF:-1 tvg-id="tr_7594bfcb5040df01a7889d14" tvg-name="BEIN SPORTS 1 +" group-title="Spor",BEIN SPORTS 1 +
+http://localhost:7019/iptv/play/tr_7594bfcb5040df01a7889d14
+#EXTINF:-1 tvg-id="tr_3fe096f0af0d663aef38b251" tvg-name="BEIN SPORTS 1 50 FPS" group-title="Spor",BEIN SPORTS 1 50 FPS
+http://localhost:7019/iptv/play/tr_3fe096f0af0d663aef38b251
+#EXTINF:-1 tvg-id="tr_56ba1ace99e0718d8d3f3ec2" tvg-name="BEIN SPORTS 1 FEED" group-title="Spor",BEIN SPORTS 1 FEED
+http://localhost:7019/iptv/play/tr_56ba1ace99e0718d8d3f3ec2
+#EXTINF:-1 tvg-id="tr_c44295a7009e39286af0c2a7" tvg-name="BEIN SPORTS 1 H265" group-title="Spor",BEIN SPORTS 1 H265
+http://localhost:7019/iptv/play/tr_c44295a7009e39286af0c2a7
+#EXTINF:-1 tvg-id="tr_b628a04648f462b926dd3f1c" tvg-name="BEIN SPORTS 1 HD" group-title="Spor",BEIN SPORTS 1 HD
+http://localhost:7019/iptv/play/tr_b628a04648f462b926dd3f1c
+#EXTINF:-1 tvg-id="tr_e411d27b06ab2e6c3eeef5e6" tvg-name="BEIN SPORTS 1 HD (TURKEY)" group-title="Spor",BEIN SPORTS 1 HD (TURKEY)
+http://localhost:7019/iptv/play/tr_e411d27b06ab2e6c3eeef5e6
+#EXTINF:-1 tvg-id="tr_6cc9adb336dd293c1b0eb01e" tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
+http://localhost:7019/iptv/play/tr_6cc9adb336dd293c1b0eb01e
+#EXTINF:-1 tvg-id="tr_ff1086e47da3897d72814837" tvg-name="BEIN SPORTS 2 HD" group-title="Spor",BEIN SPORTS 2 HD
+http://localhost:7019/iptv/play/tr_ff1086e47da3897d72814837
+#EXTINF:-1 tvg-id="tr_e10cc3ed28146a0184aeb8f5" tvg-name="BEIN SPORTS 2 SD" group-title="Spor",BEIN SPORTS 2 SD
+http://localhost:7019/iptv/play/tr_e10cc3ed28146a0184aeb8f5
+#EXTINF:-1 tvg-id="tr_a3952bba355c5c4e1cd8c099" tvg-name="BEIN SPORTS 2 UHD" group-title="Spor",BEIN SPORTS 2 UHD
+http://localhost:7019/iptv/play/tr_a3952bba355c5c4e1cd8c099
+#EXTINF:-1 tvg-id="tr_f7543fd96c93f10ce2e7940c" tvg-name="BEIN SPORTS 3" group-title="Spor",BEIN SPORTS 3
+http://localhost:7019/iptv/play/tr_f7543fd96c93f10ce2e7940c
+#EXTINF:-1 tvg-id="tr_3b8798c83324514878cd3f8d" tvg-name="BEIN SPORTS 3 HD" group-title="Spor",BEIN SPORTS 3 HD
+http://localhost:7019/iptv/play/tr_3b8798c83324514878cd3f8d
+#EXTINF:-1 tvg-id="tr_ca505624e744bf45100d507f" tvg-name="BEIN SPORTS 3 SD" group-title="Spor",BEIN SPORTS 3 SD
+http://localhost:7019/iptv/play/tr_ca505624e744bf45100d507f
+#EXTINF:-1 tvg-id="tr_86e6165074c999c5261855a2" tvg-name="BEIN SPORTS 3 UHD" group-title="Spor",BEIN SPORTS 3 UHD
+http://localhost:7019/iptv/play/tr_86e6165074c999c5261855a2
+#EXTINF:-1 tvg-id="tr_463a24a6a4a5c87fe97026e1" tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
+http://localhost:7019/iptv/play/tr_463a24a6a4a5c87fe97026e1
+#EXTINF:-1 tvg-id="tr_fa6ddcd0850f296b83e20081" tvg-name="BEIN SPORTS 4 HD" group-title="Spor",BEIN SPORTS 4 HD
+http://localhost:7019/iptv/play/tr_fa6ddcd0850f296b83e20081
+#EXTINF:-1 tvg-id="tr_47c7d7a36ba840ec085d2f62" tvg-name="BEIN SPORTS 4 SD" group-title="Spor",BEIN SPORTS 4 SD
+http://localhost:7019/iptv/play/tr_47c7d7a36ba840ec085d2f62
+#EXTINF:-1 tvg-id="tr_64c00e7e4d1b0f7068b482a3" tvg-name="BEIN SPORTS 4 UHD" group-title="Spor",BEIN SPORTS 4 UHD
+http://localhost:7019/iptv/play/tr_64c00e7e4d1b0f7068b482a3
+#EXTINF:-1 tvg-id="tr_b82e505d7e953dcea6de48a0" tvg-name="BEIN SPORTS 4K FEED(KUTU)" group-title="Spor",BEIN SPORTS 4K FEED(KUTU)
+http://localhost:7019/iptv/play/tr_b82e505d7e953dcea6de48a0
+#EXTINF:-1 tvg-id="tr_051d14239bcdeafd9a5cc671" tvg-name="BEIN SPORTS 4K FEED(UYDU)" group-title="Spor",BEIN SPORTS 4K FEED(UYDU)
+http://localhost:7019/iptv/play/tr_051d14239bcdeafd9a5cc671
+#EXTINF:-1 tvg-id="tr_0f240e75e3e011b0a317202f" tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
+http://localhost:7019/iptv/play/tr_0f240e75e3e011b0a317202f
+#EXTINF:-1 tvg-id="tr_54e041bb9bac6b6eae6cbedf" tvg-name="BEIN SPORTS 5 FHD" group-title="Spor",BEIN SPORTS 5 FHD
+http://localhost:7019/iptv/play/tr_54e041bb9bac6b6eae6cbedf
+#EXTINF:-1 tvg-id="tr_9d497a46cf03f90c16ad1c37" tvg-name="BEIN SPORTS 5 HD" group-title="Spor",BEIN SPORTS 5 HD
+http://localhost:7019/iptv/play/tr_9d497a46cf03f90c16ad1c37
+#EXTINF:-1 tvg-id="tr_2faca888e478a2424ee3eee6" tvg-name="BEIN SPORTS 5 SD" group-title="Spor",BEIN SPORTS 5 SD
+http://localhost:7019/iptv/play/tr_2faca888e478a2424ee3eee6
+#EXTINF:-1 tvg-id="tr_0aff10eee946b3e26dda22f9" tvg-name="BEIN SPORTS 720P FEED" group-title="Spor",BEIN SPORTS 720P FEED
+http://localhost:7019/iptv/play/tr_0aff10eee946b3e26dda22f9
+#EXTINF:-1 tvg-id="tr_9a00dce4c9d0f2c194460b08" tvg-name="BEIN SPORTS 8K FEED" group-title="Spor",BEIN SPORTS 8K FEED
+http://localhost:7019/iptv/play/tr_9a00dce4c9d0f2c194460b08
+#EXTINF:-1 tvg-id="tr_e826c4d4553ffb3211d1c4d2" tvg-name="BEIN SPORTS FEED (OZEL FEED YAYIN)" group-title="Spor",BEIN SPORTS FEED (OZEL FEED YAYIN)
+http://localhost:7019/iptv/play/tr_e826c4d4553ffb3211d1c4d2
+#EXTINF:-1 tvg-id="tr_a5cdd0dd86345b36a26e70ab" tvg-name="BEIN SPORTS HABER" group-title="Spor",BEIN SPORTS HABER
+http://localhost:7019/iptv/play/tr_a5cdd0dd86345b36a26e70ab
+#EXTINF:-1 tvg-id="tr_f30cbb4316b161f2ac85dca1" tvg-name="BEIN SPORTS HABER HD" group-title="Spor",BEIN SPORTS HABER HD
+http://localhost:7019/iptv/play/tr_f30cbb4316b161f2ac85dca1
+#EXTINF:-1 tvg-id="tr_fda0325af87760feede77a74" tvg-name="BEIN SPORTS HABER RAW" group-title="Spor",BEIN SPORTS HABER RAW
+http://localhost:7019/iptv/play/tr_fda0325af87760feede77a74
+#EXTINF:-1 tvg-id="tr_01a97d3fb4026dc81f081b6b" tvg-name="BEIN SPORTS MAX 1" group-title="Spor",BEIN SPORTS MAX 1
+http://localhost:7019/iptv/play/tr_01a97d3fb4026dc81f081b6b
+#EXTINF:-1 tvg-id="tr_2cdcb618d93fc046bdefaaa4" tvg-name="BEIN SPORTS MAX 1 FHD" group-title="Spor",BEIN SPORTS MAX 1 FHD
+http://localhost:7019/iptv/play/tr_2cdcb618d93fc046bdefaaa4
+#EXTINF:-1 tvg-id="tr_d7d76cde944d7421492562dc" tvg-name="BEIN SPORTS MAX 1 HD" group-title="Spor",BEIN SPORTS MAX 1 HD
+http://localhost:7019/iptv/play/tr_d7d76cde944d7421492562dc
+#EXTINF:-1 tvg-id="tr_d7a925faf96d018ed5fd40cb" tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
+http://localhost:7019/iptv/play/tr_d7a925faf96d018ed5fd40cb
+#EXTINF:-1 tvg-id="tr_e324e0633803aaf8119d901d" tvg-name="BEIN SPORTS MAX 2 FHD" group-title="Spor",BEIN SPORTS MAX 2 FHD
+http://localhost:7019/iptv/play/tr_e324e0633803aaf8119d901d
+#EXTINF:-1 tvg-id="tr_3061ddcee298c9bd64d18879" tvg-name="BEIN SPORTS MAX 2 HD" group-title="Spor",BEIN SPORTS MAX 2 HD
+http://localhost:7019/iptv/play/tr_3061ddcee298c9bd64d18879
+#EXTINF:-1 tvg-id="tr_60334bbc769d960098009977" tvg-name="BEIN SPOTS1 SD" group-title="Spor",BEIN SPOTS1 SD
+http://localhost:7019/iptv/play/tr_60334bbc769d960098009977
+#EXTINF:-1 tvg-id="tr_167736017fd28d778019a05c" tvg-name="BEN 10 TV" group-title="Diğer",BEN 10 TV
+http://localhost:7019/iptv/play/tr_167736017fd28d778019a05c
+#EXTINF:-1 tvg-id="tr_43c7c8aaa0134fb3d3ce4156" tvg-name="BENGU TURK" group-title="Haber",BENGU TURK
+http://localhost:7019/iptv/play/tr_43c7c8aaa0134fb3d3ce4156
+#EXTINF:-1 tvg-id="tr_a2baa3f84f20527723a25d3b" tvg-name="BEST ANIMASYON" group-title="Diğer",BEST ANIMASYON
+http://localhost:7019/iptv/play/tr_a2baa3f84f20527723a25d3b
+#EXTINF:-1 tvg-id="tr_5f6d541d8785a18fcd5132c2" tvg-name="BEST BILIMKURGU" group-title="Diğer",BEST BILIMKURGU
+http://localhost:7019/iptv/play/tr_5f6d541d8785a18fcd5132c2
+#EXTINF:-1 tvg-id="tr_0f9bbc6bc0eb1cf4f3c6aeb9" tvg-name="BEST DRAM" group-title="Diğer",BEST DRAM
+http://localhost:7019/iptv/play/tr_0f9bbc6bc0eb1cf4f3c6aeb9
+#EXTINF:-1 tvg-id="tr_1145adc1d0b2eef62c9f009a" tvg-name="BEST FM TÜRKÇE POP" group-title="Diğer",BEST FM TÜRKÇE POP
+http://localhost:7019/iptv/play/tr_1145adc1d0b2eef62c9f009a
+#EXTINF:-1 tvg-id="tr_1edfc0bb09126bffc09d537d" tvg-name="BEST KOMEDI" group-title="Diğer",BEST KOMEDI
+http://localhost:7019/iptv/play/tr_1edfc0bb09126bffc09d537d
+#EXTINF:-1 tvg-id="tr_402f2cf621b5d48a676f240f" tvg-name="BEST LOCA 2" group-title="Diğer",BEST LOCA 2
+http://localhost:7019/iptv/play/tr_402f2cf621b5d48a676f240f
+#EXTINF:-1 tvg-id="tr_c9801d4bfc76bab6a42cc1ca" tvg-name="BEST LOCA 3" group-title="Diğer",BEST LOCA 3
+http://localhost:7019/iptv/play/tr_c9801d4bfc76bab6a42cc1ca
+#EXTINF:-1 tvg-id="tr_36566468d04894e88d5c16f0" tvg-name="BEST NETFLIX" group-title="Diğer",BEST NETFLIX
+http://localhost:7019/iptv/play/tr_36566468d04894e88d5c16f0
+#EXTINF:-1 tvg-id="tr_ce7a3a87e5a1926ad1c52d46" tvg-name="BEST SALON 2" group-title="Diğer",BEST SALON 2
+http://localhost:7019/iptv/play/tr_ce7a3a87e5a1926ad1c52d46
+#EXTINF:-1 tvg-id="tr_0dedf7cfeba2c3069b96261f" tvg-name="BEST SAVAS" group-title="Diğer",BEST SAVAS
+http://localhost:7019/iptv/play/tr_0dedf7cfeba2c3069b96261f
+#EXTINF:-1 tvg-id="tr_f252e0104ee1d2fb94120c4e" tvg-name="BEST TURK" group-title="Diğer",BEST TURK
+http://localhost:7019/iptv/play/tr_f252e0104ee1d2fb94120c4e
+#EXTINF:-1 tvg-id="tr_ef909bf7baf45ddb254e1268" tvg-name="BEST WESTERN" group-title="Diğer",BEST WESTERN
+http://localhost:7019/iptv/play/tr_ef909bf7baf45ddb254e1268
+#EXTINF:-1 tvg-id="tr_d6806b874e64ecde7dc78965" tvg-name="BEYAZ HD+ SD" group-title="Diğer",BEYAZ HD+ SD
+http://localhost:7019/iptv/play/tr_d6806b874e64ecde7dc78965
+#EXTINF:-1 tvg-id="tr_2873ded8fb28673676d2f68e" tvg-name="BEYAZ TV" group-title="Diğer",BEYAZ TV
+http://localhost:7019/iptv/play/tr_2873ded8fb28673676d2f68e
+#EXTINF:-1 tvg-id="tr_42d7fdc99faf6db136b4c87c" tvg-name="BEYAZ TV FHD" group-title="Diğer",BEYAZ TV FHD
+http://localhost:7019/iptv/play/tr_42d7fdc99faf6db136b4c87c
+#EXTINF:-1 tvg-id="tr_b90b4548f61940c4137fe672" tvg-name="BEYAZ TV HD" group-title="Diğer",BEYAZ TV HD
+http://localhost:7019/iptv/play/tr_b90b4548f61940c4137fe672
+#EXTINF:-1 tvg-id="tr_71d6f8b90339ca2b03a3c138" tvg-name="BEYAZ TV HEVC" group-title="Diğer",BEYAZ TV HEVC
+http://localhost:7019/iptv/play/tr_71d6f8b90339ca2b03a3c138
+#EXTINF:-1 tvg-id="tr_eaf27687b62bc18ee5bf9906" tvg-name="BEYAZ TV RAW" group-title="Diğer",BEYAZ TV RAW
+http://localhost:7019/iptv/play/tr_eaf27687b62bc18ee5bf9906
+#EXTINF:-1 tvg-id="tr_1810383971b4d1d1187d1eb0" tvg-name="BILGILENDIRME" group-title="Diğer",BILGILENDIRME
+http://localhost:7019/iptv/play/tr_1810383971b4d1d1187d1eb0
+#EXTINF:-1 tvg-id="tr_a5c7bb51a227edeb6ff7a82c" tvg-name="BIR TV" group-title="Diğer",BIR TV
+http://localhost:7019/iptv/play/tr_a5c7bb51a227edeb6ff7a82c
+#EXTINF:-1 tvg-id="tr_c7f3f4ebe3add72004534bb4" tvg-name="BLOOMBERG HT" group-title="Haber",BLOOMBERG HT
+http://localhost:7019/iptv/play/tr_c7f3f4ebe3add72004534bb4
+#EXTINF:-1 tvg-id="tr_e48dd084f337daa1a609d300" tvg-name="BLOOMBERG HT HD" group-title="Haber",BLOOMBERG HT HD
+http://localhost:7019/iptv/play/tr_e48dd084f337daa1a609d300
+#EXTINF:-1 tvg-id="tr_3aee5626361d1a8b20b4f9d5" tvg-name="BLOOMBERG HT HD+ SD" group-title="Haber",BLOOMBERG HT HD+ SD
+http://localhost:7019/iptv/play/tr_3aee5626361d1a8b20b4f9d5
+#EXTINF:-1 tvg-id="tr_26a7296b190d9733e8254fe0" tvg-name="BLOOMBERGHT HD" group-title="Haber",BLOOMBERGHT HD
+http://localhost:7019/iptv/play/tr_26a7296b190d9733e8254fe0
+#EXTINF:-1 tvg-id="tr_42cc71685f321be4ff072323" tvg-name="BLOOMBERGHT RAW" group-title="Haber",BLOOMBERGHT RAW
+http://localhost:7019/iptv/play/tr_42cc71685f321be4ff072323
+#EXTINF:-1 tvg-id="tr_8d167594f4966946fb1ee512" tvg-name="BOOBA TV" group-title="Diğer",BOOBA TV
+http://localhost:7019/iptv/play/tr_8d167594f4966946fb1ee512
+#EXTINF:-1 tvg-id="tr_1485d8e36d2eca1bfb993c1f" tvg-name="BOOMERANG HD" group-title="Diğer",BOOMERANG HD
+http://localhost:7019/iptv/play/tr_1485d8e36d2eca1bfb993c1f
+#EXTINF:-1 tvg-id="tr_f5885fd0362d97ed290c4e28" tvg-name="BRT 1" group-title="Diğer",BRT 1
+http://localhost:7019/iptv/play/tr_f5885fd0362d97ed290c4e28
+#EXTINF:-1 tvg-id="tr_c2082b743c503f4c51cf0d72" tvg-name="BRT 1 RAW" group-title="Diğer",BRT 1 RAW
+http://localhost:7019/iptv/play/tr_c2082b743c503f4c51cf0d72
+#EXTINF:-1 tvg-id="tr_c1774b8ab20b033a966da46e" tvg-name="BRT 2" group-title="Diğer",BRT 2
+http://localhost:7019/iptv/play/tr_c1774b8ab20b033a966da46e
+#EXTINF:-1 tvg-id="tr_3f9f13758702bad6a1ca8e04" tvg-name="BRT 2 RAW" group-title="Diğer",BRT 2 RAW
+http://localhost:7019/iptv/play/tr_3f9f13758702bad6a1ca8e04
+#EXTINF:-1 tvg-id="tr_cf4e9576a7b4e3f89bc59e18" tvg-name="BRT 3" group-title="Diğer",BRT 3
+http://localhost:7019/iptv/play/tr_cf4e9576a7b4e3f89bc59e18
+#EXTINF:-1 tvg-id="tr_26bb20420e172ec624cf4fb1" tvg-name="BRTV" group-title="Diğer",BRTV
+http://localhost:7019/iptv/play/tr_26bb20420e172ec624cf4fb1
+#EXTINF:-1 tvg-id="tr_ef3946b9a2d38109c5bc9aa0" tvg-name="CAILLOU TV" group-title="Diğer",CAILLOU TV
+http://localhost:7019/iptv/play/tr_ef3946b9a2d38109c5bc9aa0
+#EXTINF:-1 tvg-id="tr_971fef4baff4805bd31d0012" tvg-name="CAN TV" group-title="Haber",CAN TV
+http://localhost:7019/iptv/play/tr_971fef4baff4805bd31d0012
+#EXTINF:-1 tvg-id="tr_307aaa9133edb3c914053205" tvg-name="CANIM KARDESIM TV" group-title="Diğer",CANIM KARDESIM TV
+http://localhost:7019/iptv/play/tr_307aaa9133edb3c914053205
+#EXTINF:-1 tvg-id="tr_e8bd4bbb3497b4716a449f7b" tvg-name="CARTOON NETWORK" group-title="Çocuk",CARTOON NETWORK
+http://localhost:7019/iptv/play/tr_e8bd4bbb3497b4716a449f7b
+#EXTINF:-1 tvg-id="tr_1e7a04ed3ae068bbdd6e0d9e" tvg-name="CARTOON NETWORK HD" group-title="Çocuk",CARTOON NETWORK HD
+http://localhost:7019/iptv/play/tr_1e7a04ed3ae068bbdd6e0d9e
+#EXTINF:-1 tvg-id="tr_e67f3da084d613bd23526e7a" tvg-name="CARTOONITO" group-title="Çocuk",CARTOONITO
+http://localhost:7019/iptv/play/tr_e67f3da084d613bd23526e7a
+#EXTINF:-1 tvg-id="tr_60a265b546897476bc70adb2" tvg-name="CAY TV" group-title="Diğer",CAY TV
+http://localhost:7019/iptv/play/tr_60a265b546897476bc70adb2
+#EXTINF:-1 tvg-id="tr_a4ac548efd912209202258dc" tvg-name="CHICKY TV" group-title="Diğer",CHICKY TV
+http://localhost:7019/iptv/play/tr_a4ac548efd912209202258dc
+#EXTINF:-1 tvg-id="tr_883ff34c048718cc30014c28" tvg-name="CIFTCI TV" group-title="Diğer",CIFTCI TV
+http://localhost:7019/iptv/play/tr_883ff34c048718cc30014c28
+#EXTINF:-1 tvg-id="tr_f2f3c980c053f5ffb02563d2" tvg-name="CILGIN ORMAN TV" group-title="Haber",CILGIN ORMAN TV
+http://localhost:7019/iptv/play/tr_f2f3c980c053f5ffb02563d2
+#EXTINF:-1 tvg-id="tr_5a470640f546db78dc9d9f14" tvg-name="CNN TÜRK HD+ SD" group-title="Haber",CNN TÜRK HD+ SD
+http://localhost:7019/iptv/play/tr_5a470640f546db78dc9d9f14
+#EXTINF:-1 tvg-id="tr_b154045dcb486ff2f2e31f6f" tvg-name="CNN TÜRK HEVC" group-title="Haber",CNN TÜRK HEVC
+http://localhost:7019/iptv/play/tr_b154045dcb486ff2f2e31f6f
+#EXTINF:-1 tvg-id="tr_91432dbe7fc78f6a0c0ff174" tvg-name="CNN TÜRK RAW" group-title="Haber",CNN TÜRK RAW
+http://localhost:7019/iptv/play/tr_91432dbe7fc78f6a0c0ff174
+#EXTINF:-1 tvg-id="tr_9bb9c55822448610adad0228" tvg-name="CNN TURK" group-title="Haber",CNN TURK
+http://localhost:7019/iptv/play/tr_9bb9c55822448610adad0228
+#EXTINF:-1 tvg-id="tr_5926393668cd9f3bd9ee309d" tvg-name="CNN TURK HD" group-title="Haber",CNN TURK HD
+http://localhost:7019/iptv/play/tr_5926393668cd9f3bd9ee309d
+#EXTINF:-1 tvg-id="tr_a365e5b738421c2b88f66977" tvg-name="COCUK 1 HD" group-title="Çocuk",COCUK 1 HD
+http://localhost:7019/iptv/play/tr_a365e5b738421c2b88f66977
+#EXTINF:-1 tvg-id="tr_ddb73d5362700634931c92a0" tvg-name="COCUK 2 HD" group-title="Çocuk",COCUK 2 HD
+http://localhost:7019/iptv/play/tr_ddb73d5362700634931c92a0
+#EXTINF:-1 tvg-id="tr_3ffe4cbf40745aa9293d3236" tvg-name="COCUK 3 HD" group-title="Çocuk",COCUK 3 HD
+http://localhost:7019/iptv/play/tr_3ffe4cbf40745aa9293d3236
+#EXTINF:-1 tvg-id="tr_f29d70185c77d385692ffa81" tvg-name="ÇÇOCUK SMART" group-title="Çocuk",ÇÇOCUK SMART
+http://localhost:7019/iptv/play/tr_f29d70185c77d385692ffa81
+#EXTINF:-1 tvg-id="tr_e0fc7736f6391e6c2ba7620c" tvg-name="DÜĞÜN TV (GERMANY)" group-title="Haber",DÜĞÜN TV (GERMANY)
+http://localhost:7019/iptv/play/tr_e0fc7736f6391e6c2ba7620c
+#EXTINF:-1 tvg-id="tr_2935db4c4d1c3093117f4469" tvg-name="DA VINC KIDS HD" group-title="Çocuk",DA VINC KIDS HD
+http://localhost:7019/iptv/play/tr_2935db4c4d1c3093117f4469
+#EXTINF:-1 tvg-id="tr_59acbee10f80e72ca791b2ac" tvg-name="DA VINCI" group-title="Diğer",DA VINCI
+http://localhost:7019/iptv/play/tr_59acbee10f80e72ca791b2ac
+#EXTINF:-1 tvg-id="tr_c8b70edce94821d8946c628a" tvg-name="DENIZ POSTASI TV" group-title="Diğer",DENIZ POSTASI TV
+http://localhost:7019/iptv/play/tr_c8b70edce94821d8946c628a
+#EXTINF:-1 tvg-id="tr_10a4e2eb462b4657025e994d" tvg-name="DENIZLI DEHA TV" group-title="Diğer",DENIZLI DEHA TV
+http://localhost:7019/iptv/play/tr_10a4e2eb462b4657025e994d
+#EXTINF:-1 tvg-id="tr_d5c2bf1ea5b386e06c17b03d" tvg-name="DHA" group-title="Diğer",DHA
+http://localhost:7019/iptv/play/tr_d5c2bf1ea5b386e06c17b03d
+#EXTINF:-1 tvg-id="tr_c5212b2d5751eee86fcb987d" tvg-name="DIM TV" group-title="Diğer",DIM TV
+http://localhost:7019/iptv/play/tr_c5212b2d5751eee86fcb987d
+#EXTINF:-1 tvg-id="tr_853f2c37515e072c041f6740" tvg-name="DINAMIK AKSIYON" group-title="Diğer",DINAMIK AKSIYON
+http://localhost:7019/iptv/play/tr_853f2c37515e072c041f6740
+#EXTINF:-1 tvg-id="tr_6346bed1845c10eb003e19ec" tvg-name="DINAMIK ANIMASYON" group-title="Diğer",DINAMIK ANIMASYON
+http://localhost:7019/iptv/play/tr_6346bed1845c10eb003e19ec
+#EXTINF:-1 tvg-id="tr_c74eb40c0a8c0456004f6bdd" tvg-name="DINAMIK BILIMKURGU" group-title="Diğer",DINAMIK BILIMKURGU
+http://localhost:7019/iptv/play/tr_c74eb40c0a8c0456004f6bdd
+#EXTINF:-1 tvg-id="tr_c76f60519b8e83649b20012d" tvg-name="DINAMIK DRAM" group-title="Diğer",DINAMIK DRAM
+http://localhost:7019/iptv/play/tr_c76f60519b8e83649b20012d
+#EXTINF:-1 tvg-id="tr_0f438da4ba63b4798c164247" tvg-name="DINAMIK IMBD" group-title="Diğer",DINAMIK IMBD
+http://localhost:7019/iptv/play/tr_0f438da4ba63b4798c164247
+#EXTINF:-1 tvg-id="tr_f0650a4f9a0f0eae18247df6" tvg-name="DINAMIK KOMEDI" group-title="Diğer",DINAMIK KOMEDI
+http://localhost:7019/iptv/play/tr_f0650a4f9a0f0eae18247df6
+#EXTINF:-1 tvg-id="tr_7f32fdf55bdbe16450d542cc" tvg-name="DINAMIK KORKU" group-title="Diğer",DINAMIK KORKU
+http://localhost:7019/iptv/play/tr_7f32fdf55bdbe16450d542cc
+#EXTINF:-1 tvg-id="tr_c9822b41c2071b42b59f93fd" tvg-name="DINAMIK TURK" group-title="Diğer",DINAMIK TURK
+http://localhost:7019/iptv/play/tr_c9822b41c2071b42b59f93fd
+#EXTINF:-1 tvg-id="tr_a51bb3b70a5dde490de2aee4" tvg-name="DINAMIK VIZYON" group-title="Diğer",DINAMIK VIZYON
+http://localhost:7019/iptv/play/tr_a51bb3b70a5dde490de2aee4
+#EXTINF:-1 tvg-id="tr_44f0906088eeabb6b449a8ea" tvg-name="DINAMIK WESTERN" group-title="Diğer",DINAMIK WESTERN
+http://localhost:7019/iptv/play/tr_44f0906088eeabb6b449a8ea
+#EXTINF:-1 tvg-id="tr_0b016538d19355fff9dde61f" tvg-name="DISCOVERY CHANNEL HD+" group-title="Belgesel",DISCOVERY CHANNEL HD+
+http://localhost:7019/iptv/play/tr_0b016538d19355fff9dde61f
+#EXTINF:-1 tvg-id="tr_fd19b5e477aa07afafa4faa3" tvg-name="DISCOVERY ID" group-title="Belgesel",DISCOVERY ID
+http://localhost:7019/iptv/play/tr_fd19b5e477aa07afafa4faa3
+#EXTINF:-1 tvg-id="tr_61fcbdf09da6ef994e9a0223" tvg-name="DISCOVERY IDX HD" group-title="Belgesel",DISCOVERY IDX HD
+http://localhost:7019/iptv/play/tr_61fcbdf09da6ef994e9a0223
+#EXTINF:-1 tvg-id="tr_927d17dd04726365f1078ea4" tvg-name="DISCOVERY SCIENCE" group-title="Belgesel",DISCOVERY SCIENCE
+http://localhost:7019/iptv/play/tr_927d17dd04726365f1078ea4
+#EXTINF:-1 tvg-id="tr_062f7c8d9d939f0b282e4bd7" tvg-name="DISCOVERY SCIENCE HD+" group-title="Belgesel",DISCOVERY SCIENCE HD+
+http://localhost:7019/iptv/play/tr_062f7c8d9d939f0b282e4bd7
+#EXTINF:-1 tvg-id="tr_c7add02b43903064b6daf3a1" tvg-name="DISCOVERY WORLD" group-title="Belgesel",DISCOVERY WORLD
+http://localhost:7019/iptv/play/tr_c7add02b43903064b6daf3a1
+#EXTINF:-1 tvg-id="tr_1112a511396897a1da55a220" tvg-name="DISNEY CHANNEL HD" group-title="Diğer",DISNEY CHANNEL HD
+http://localhost:7019/iptv/play/tr_1112a511396897a1da55a220
+#EXTINF:-1 tvg-id="tr_d6c1c73481bde934df515ff4" tvg-name="DISNEY JR HD" group-title="Diğer",DISNEY JR HD
+http://localhost:7019/iptv/play/tr_d6c1c73481bde934df515ff4
+#EXTINF:-1 tvg-id="tr_4edd1b86dc2d55cdbbbcfb2d" tvg-name="DISNEY JR HD+" group-title="Diğer",DISNEY JR HD+
+http://localhost:7019/iptv/play/tr_4edd1b86dc2d55cdbbbcfb2d
+#EXTINF:-1 tvg-id="tr_63dc400563bdf848193d6b94" tvg-name="DIYANET TV" group-title="Diğer",DIYANET TV
+http://localhost:7019/iptv/play/tr_63dc400563bdf848193d6b94
+#EXTINF:-1 tvg-id="tr_3d517f0147e8e3f2e2fb6e63" tvg-name="DIYANET TV" group-title="Diğer",DIYANET TV
+http://localhost:7019/iptv/play/tr_3d517f0147e8e3f2e2fb6e63
+#EXTINF:-1 tvg-id="tr_39df91add6032aa569190d88" tvg-name="DIZISMART PREMIUM" group-title="Sinema",DIZISMART PREMIUM
+http://localhost:7019/iptv/play/tr_39df91add6032aa569190d88
+#EXTINF:-1 tvg-id="tr_a7a5cf70215f2b865b6d4329" tvg-name="DMAX" group-title="Diğer",DMAX
+http://localhost:7019/iptv/play/tr_a7a5cf70215f2b865b6d4329
+#EXTINF:-1 tvg-id="tr_41eca61c3619809c1bc9a210" tvg-name="DMAX HEVC" group-title="Diğer",DMAX HEVC
+http://localhost:7019/iptv/play/tr_41eca61c3619809c1bc9a210
+#EXTINF:-1 tvg-id="tr_1835b00494c76f4930484d52" tvg-name="DOCUBOX" group-title="Belgesel",DOCUBOX
+http://localhost:7019/iptv/play/tr_1835b00494c76f4930484d52
+#EXTINF:-1 tvg-id="tr_96c12833f86b4b047fca74fe" tvg-name="DOCUBOX HD" group-title="Belgesel",DOCUBOX HD
+http://localhost:7019/iptv/play/tr_96c12833f86b4b047fca74fe
+#EXTINF:-1 tvg-id="tr_5232c231ab6b744c1a231600" tvg-name="DORU TV" group-title="Diğer",DORU TV
+http://localhost:7019/iptv/play/tr_5232c231ab6b744c1a231600
+#EXTINF:-1 tvg-id="tr_06917221cab6ef4fcbd0e956" tvg-name="DOST TV" group-title="Diğer",DOST TV
+http://localhost:7019/iptv/play/tr_06917221cab6ef4fcbd0e956
+#EXTINF:-1 tvg-id="tr_09b7c983ad5d2640e08c37a2" tvg-name="DOST TV" group-title="Diğer",DOST TV
+http://localhost:7019/iptv/play/tr_09b7c983ad5d2640e08c37a2
+#EXTINF:-1 tvg-id="tr_1835b00494c76f4930484d52" tvg-name="DOCUBOX" group-title="Belgesel",DOCUBOX
+http://localhost:7019/iptv/play/tr_1835b00494c76f4930484d52
+#EXTINF:-1 tvg-id="tr_96c12833f86b4b047fca74fe" tvg-name="DOCUBOX HD" group-title="Belgesel",DOCUBOX HD
+http://localhost:7019/iptv/play/tr_96c12833f86b4b047fca74fe
+#EXTINF:-1 tvg-id="tr_06917221cab6ef4fcbd0e956" tvg-name="DOST TV" group-title="Diğer",DOST TV
+http://localhost:7019/iptv/play/tr_06917221cab6ef4fcbd0e956
+#EXTINF:-1 tvg-id="tr_09b7c983ad5d2640e08c37a2" tvg-name="DOST TV" group-title="Diğer",DOST TV
+http://localhost:7019/iptv/play/tr_09b7c983ad5d2640e08c37a2
+#EXTINF:-1 tvg-id="tr_6dbaea60234dd4a627580246" tvg-name="DREAM AKSIYON" group-title="Diğer",DREAM AKSIYON
+http://localhost:7019/iptv/play/tr_6dbaea60234dd4a627580246
+#EXTINF:-1 tvg-id="tr_3b2f39365c60bc347d1b6965" tvg-name="DREAM ANIMASYON" group-title="Diğer",DREAM ANIMASYON
+http://localhost:7019/iptv/play/tr_3b2f39365c60bc347d1b6965
+#EXTINF:-1 tvg-id="tr_18fc970de0507ee6e8a1b54d" tvg-name="DREAM BEIN OFFICE 1" group-title="Spor",DREAM BEIN OFFICE 1
+http://localhost:7019/iptv/play/tr_18fc970de0507ee6e8a1b54d
+#EXTINF:-1 tvg-id="tr_c42ca2cb0c1f08bae38115e8" tvg-name="DREAM BEIN OFFICE 10" group-title="Spor",DREAM BEIN OFFICE 10
+http://localhost:7019/iptv/play/tr_c42ca2cb0c1f08bae38115e8
+#EXTINF:-1 tvg-id="tr_6002683b3d3d8d4067e25c6e" tvg-name="DREAM BEIN OFFICE 2" group-title="Spor",DREAM BEIN OFFICE 2
+http://localhost:7019/iptv/play/tr_6002683b3d3d8d4067e25c6e
+#EXTINF:-1 tvg-id="tr_570a4731c8115ad95f25354a" tvg-name="DREAM BEIN OFFICE 3" group-title="Spor",DREAM BEIN OFFICE 3
+http://localhost:7019/iptv/play/tr_570a4731c8115ad95f25354a
+#EXTINF:-1 tvg-id="tr_ef8ace96e61f0d7798122e60" tvg-name="DREAM BEIN OFFICE 4" group-title="Spor",DREAM BEIN OFFICE 4
+http://localhost:7019/iptv/play/tr_ef8ace96e61f0d7798122e60
+#EXTINF:-1 tvg-id="tr_d00d00fd1067459bb4617b2f" tvg-name="DREAM BEIN OFFICE 5" group-title="Spor",DREAM BEIN OFFICE 5
+http://localhost:7019/iptv/play/tr_d00d00fd1067459bb4617b2f
+#EXTINF:-1 tvg-id="tr_e72cfaa8bce70dbf4df1516c" tvg-name="DREAM BEIN OFFICE 6" group-title="Spor",DREAM BEIN OFFICE 6
+http://localhost:7019/iptv/play/tr_e72cfaa8bce70dbf4df1516c
+#EXTINF:-1 tvg-id="tr_02f48c5a9b7d34785ed2b357" tvg-name="DREAM BEIN OFFICE 7" group-title="Spor",DREAM BEIN OFFICE 7
+http://localhost:7019/iptv/play/tr_02f48c5a9b7d34785ed2b357
+#EXTINF:-1 tvg-id="tr_95f1326d7d17d93e844afb1c" tvg-name="DREAM BEIN OFFICE 8" group-title="Spor",DREAM BEIN OFFICE 8
+http://localhost:7019/iptv/play/tr_95f1326d7d17d93e844afb1c
+#EXTINF:-1 tvg-id="tr_bf14459755d4621b7862cc3f" tvg-name="DREAM BEIN OFFICE 9" group-title="Spor",DREAM BEIN OFFICE 9
+http://localhost:7019/iptv/play/tr_bf14459755d4621b7862cc3f
+#EXTINF:-1 tvg-id="tr_aea8da799cdb231960603bf9" tvg-name="DREAM BOX ACTION" group-title="Diğer",DREAM BOX ACTION
+http://localhost:7019/iptv/play/tr_aea8da799cdb231960603bf9
+#EXTINF:-1 tvg-id="tr_1f336df1f120d0e7bc8137d2" tvg-name="DREAM BOX-SET" group-title="Diğer",DREAM BOX-SET
+http://localhost:7019/iptv/play/tr_1f336df1f120d0e7bc8137d2
+#EXTINF:-1 tvg-id="tr_e39faaa3ca895f5a2a423b67" tvg-name="DREAM DRAM" group-title="Diğer",DREAM DRAM
+http://localhost:7019/iptv/play/tr_e39faaa3ca895f5a2a423b67
+#EXTINF:-1 tvg-id="tr_eed3535c9c06831bbd868214" tvg-name="DREAM KOMEDI" group-title="Diğer",DREAM KOMEDI
+http://localhost:7019/iptv/play/tr_eed3535c9c06831bbd868214
+#EXTINF:-1 tvg-id="tr_1fac14273e07835f4671f805" tvg-name="DREAM KORKU" group-title="Diğer",DREAM KORKU
+http://localhost:7019/iptv/play/tr_1fac14273e07835f4671f805
+#EXTINF:-1 tvg-id="tr_707067212bba4e5d2fa539a2" tvg-name="DREAM LOCA 1" group-title="Diğer",DREAM LOCA 1
+http://localhost:7019/iptv/play/tr_707067212bba4e5d2fa539a2
+#EXTINF:-1 tvg-id="tr_ff681205fbec4d73d66c2126" tvg-name="DREAM LOCA 2" group-title="Diğer",DREAM LOCA 2
+http://localhost:7019/iptv/play/tr_ff681205fbec4d73d66c2126
+#EXTINF:-1 tvg-id="tr_7315b87a7251742220522762" tvg-name="DREAM LOCA 3" group-title="Diğer",DREAM LOCA 3
+http://localhost:7019/iptv/play/tr_7315b87a7251742220522762
+#EXTINF:-1 tvg-id="tr_6a1fae95345264713d220570" tvg-name="DREAM NETFLIX" group-title="Diğer",DREAM NETFLIX
+http://localhost:7019/iptv/play/tr_6a1fae95345264713d220570
+#EXTINF:-1 tvg-id="tr_5292aa2966e8a4975b5b2454" tvg-name="DREAM SAVAS" group-title="Diğer",DREAM SAVAS
+http://localhost:7019/iptv/play/tr_5292aa2966e8a4975b5b2454
+#EXTINF:-1 tvg-id="tr_e0eaa90405d553296fbc52fb" tvg-name="DREAM TURK" group-title="Diğer",DREAM TURK
+http://localhost:7019/iptv/play/tr_e0eaa90405d553296fbc52fb
+#EXTINF:-1 tvg-id="tr_2af14d10272cb4c6cd01060a" tvg-name="DREAM TURK (BACKUP)" group-title="Diğer",DREAM TURK (BACKUP)
+http://localhost:7019/iptv/play/tr_2af14d10272cb4c6cd01060a
+#EXTINF:-1 tvg-id="tr_570adba48ac000b6a5584be7" tvg-name="DREAM TV" group-title="Diğer",DREAM TV
+http://localhost:7019/iptv/play/tr_570adba48ac000b6a5584be7
+#EXTINF:-1 tvg-id="tr_1f1233b490881064d04800e0" tvg-name="DREAM WESTERN" group-title="Diğer",DREAM WESTERN
+http://localhost:7019/iptv/play/tr_1f1233b490881064d04800e0
+#EXTINF:-1 tvg-id="tr_501896d740b748fb0c2a7e97" tvg-name="DUCU BOX" group-title="Diğer",DUCU BOX
+http://localhost:7019/iptv/play/tr_501896d740b748fb0c2a7e97
+#EXTINF:-1 tvg-id="tr_d8e0af35799c0df34cfd7968" tvg-name="DURSUN AL ERZINCANLI" group-title="Diğer",DURSUN AL ERZINCANLI
+http://localhost:7019/iptv/play/tr_d8e0af35799c0df34cfd7968
+#EXTINF:-1 tvg-id="tr_0b2930351df9d5945ba9bece" tvg-name="EBA TV ILKOKUL" group-title="Diğer",EBA TV ILKOKUL
+http://localhost:7019/iptv/play/tr_0b2930351df9d5945ba9bece
+#EXTINF:-1 tvg-id="tr_a0a77d0516106f0d44d3db30" tvg-name="EBA TV LISE" group-title="Diğer",EBA TV LISE
+http://localhost:7019/iptv/play/tr_a0a77d0516106f0d44d3db30
+#EXTINF:-1 tvg-id="tr_1c45701cd5acd82211317578" tvg-name="EBA TV ORTAOKUL" group-title="Diğer",EBA TV ORTAOKUL
+http://localhost:7019/iptv/play/tr_1c45701cd5acd82211317578
+#EXTINF:-1 tvg-id="tr_31dda90c5970991916f2164f" tvg-name="EDESSA TV" group-title="Diğer",EDESSA TV
+http://localhost:7019/iptv/play/tr_31dda90c5970991916f2164f
+#EXTINF:-1 tvg-id="tr_33f7e60585c761525a69d6f4" tvg-name="EDIRNE ETV" group-title="Diğer",EDIRNE ETV
+http://localhost:7019/iptv/play/tr_33f7e60585c761525a69d6f4
+#EXTINF:-1 tvg-id="tr_89fb686992c1213ec50cc65a" tvg-name="EGE ILE GAGA" group-title="Diğer",EGE ILE GAGA
+http://localhost:7019/iptv/play/tr_89fb686992c1213ec50cc65a
+#EXTINF:-1 tvg-id="tr_bce159a8c7188ce7ee4529c3" tvg-name="EGE TURK TV" group-title="Diğer",EGE TURK TV
+http://localhost:7019/iptv/play/tr_bce159a8c7188ce7ee4529c3
+#EXTINF:-1 tvg-id="tr_a0be5123fa3e9100429b7deb" tvg-name="EKIN TURK" group-title="Diğer",EKIN TURK
+http://localhost:7019/iptv/play/tr_a0be5123fa3e9100429b7deb
+#EXTINF:-1 tvg-id="tr_ddf730a4dedcc8e4d8c2399f" tvg-name="EKOL SPOR HD" group-title="Spor",EKOL SPOR HD
+http://localhost:7019/iptv/play/tr_ddf730a4dedcc8e4d8c2399f
+#EXTINF:-1 tvg-id="tr_28eabc89718fe6570680dc38" tvg-name="EKOL TV" group-title="Diğer",EKOL TV
+http://localhost:7019/iptv/play/tr_28eabc89718fe6570680dc38
+#EXTINF:-1 tvg-id="tr_d45b23ec144d1ee568447abc" tvg-name="EKOL TV" group-title="Diğer",EKOL TV
+http://localhost:7019/iptv/play/tr_d45b23ec144d1ee568447abc
+#EXTINF:-1 tvg-id="tr_c00f547dd573c5748c28bb1a" tvg-name="EKOL TV SD" group-title="Diğer",EKOL TV SD
+http://localhost:7019/iptv/play/tr_c00f547dd573c5748c28bb1a
+#EXTINF:-1 tvg-id="tr_c57df9d05d7ae2daf71c7807" tvg-name="EKOTURK" group-title="Diğer",EKOTURK
+http://localhost:7019/iptv/play/tr_c57df9d05d7ae2daf71c7807
+#EXTINF:-1 tvg-id="tr_401f210bc10d73d5a270cbbb" tvg-name="EKOTURK HD" group-title="Diğer",EKOTURK HD
+http://localhost:7019/iptv/play/tr_401f210bc10d73d5a270cbbb
+#EXTINF:-1 tvg-id="tr_55648550e5f3abb7409e00eb" tvg-name="ELAZIG KANAL 23" group-title="Diğer",ELAZIG KANAL 23
+http://localhost:7019/iptv/play/tr_55648550e5f3abb7409e00eb
+#EXTINF:-1 tvg-id="tr_7f02c3775163f59e7bdf060e" tvg-name="ELAZIG KANAL FIRAT" group-title="Diğer",ELAZIG KANAL FIRAT
+http://localhost:7019/iptv/play/tr_7f02c3775163f59e7bdf060e
+#EXTINF:-1 tvg-id="tr_64ae7e18d0dac787cdf6cce2" tvg-name="ELIFIN RUYASI" group-title="Diğer",ELIFIN RUYASI
+http://localhost:7019/iptv/play/tr_64ae7e18d0dac787cdf6cce2
+#EXTINF:-1 tvg-id="tr_55179afd5e0bc8f8d98411f8" tvg-name="ER TV" group-title="Diğer",ER TV
+http://localhost:7019/iptv/play/tr_55179afd5e0bc8f8d98411f8
+#EXTINF:-1 tvg-id="tr_9f2a0da0a930508c133c4126" tvg-name="ERCIS TV" group-title="Diğer",ERCIS TV
+http://localhost:7019/iptv/play/tr_9f2a0da0a930508c133c4126
+#EXTINF:-1 tvg-id="tr_504352f33913e28422db8145" tvg-name="ERTV" group-title="Diğer",ERTV
+http://localhost:7019/iptv/play/tr_504352f33913e28422db8145
+#EXTINF:-1 tvg-id="tr_bda8eef0e4f920b92c82f0ba" tvg-name="ERZURUM WEB TV" group-title="Diğer",ERZURUM WEB TV
+http://localhost:7019/iptv/play/tr_bda8eef0e4f920b92c82f0ba
+#EXTINF:-1 tvg-id="tr_99ff8fa494f67cd3f56aaa74" tvg-name="ES TV (ESKISEHIR)" group-title="Diğer",ES TV (ESKISEHIR)
+http://localhost:7019/iptv/play/tr_99ff8fa494f67cd3f56aaa74
+#EXTINF:-1 tvg-id="tr_bc39ab7daf581345a86a699c" tvg-name="ESK EH R KANAL 26" group-title="Diğer",ESK EH R KANAL 26
+http://localhost:7019/iptv/play/tr_bc39ab7daf581345a86a699c
+#EXTINF:-1 tvg-id="tr_0d8b0bc2897fee30dcc519db" tvg-name="ETV MANISA" group-title="Diğer",ETV MANISA
+http://localhost:7019/iptv/play/tr_0d8b0bc2897fee30dcc519db
+#EXTINF:-1 tvg-id="tr_d48567572fc2ee4921a9431d" tvg-name="EURO D" group-title="Diğer",EURO D
+http://localhost:7019/iptv/play/tr_d48567572fc2ee4921a9431d
+#EXTINF:-1 tvg-id="tr_24e373b97a4b58ff37b50e57" tvg-name="EURO D" group-title="Diğer",EURO D
+http://localhost:7019/iptv/play/tr_24e373b97a4b58ff37b50e57
+#EXTINF:-1 tvg-id="tr_6a7e50cbd5aec1c93233b989" tvg-name="EURO STAR" group-title="Diğer",EURO STAR
+http://localhost:7019/iptv/play/tr_6a7e50cbd5aec1c93233b989
+#EXTINF:-1 tvg-id="tr_469259bb390249e800878fd1" tvg-name="EUROSPORT 1" group-title="Spor",EUROSPORT 1
+http://localhost:7019/iptv/play/tr_469259bb390249e800878fd1
+#EXTINF:-1 tvg-id="tr_b6f75f3ccc6860121e507179" tvg-name="EUROSPORT 2" group-title="Spor",EUROSPORT 2
+http://localhost:7019/iptv/play/tr_b6f75f3ccc6860121e507179
+#EXTINF:-1 tvg-id="tr_75a371e68e08c324339021c0" tvg-name="EUROSPORT1 HD" group-title="Spor",EUROSPORT1 HD
+http://localhost:7019/iptv/play/tr_75a371e68e08c324339021c0
+#EXTINF:-1 tvg-id="tr_d5bbdc2210a61b1e807ed770" tvg-name="EUROSPORT2 HD" group-title="Spor",EUROSPORT2 HD
+http://localhost:7019/iptv/play/tr_d5bbdc2210a61b1e807ed770
+#EXTINF:-1 tvg-id="tr_4613f44130a9c0389b50231c" tvg-name="EUROSTAR" group-title="Diğer",EUROSTAR
+http://localhost:7019/iptv/play/tr_4613f44130a9c0389b50231c
+#EXTINF:-1 tvg-id="tr_063e7dbd85445e2eaacd1dab" tvg-name="EXXEN SPOR 1 SD" group-title="Spor",EXXEN SPOR 1 SD
+http://localhost:7019/iptv/play/tr_063e7dbd85445e2eaacd1dab
+#EXTINF:-1 tvg-id="tr_f1e19d75be0b5a612362fd7b" tvg-name="EXXEN SPORTS 1" group-title="Spor",EXXEN SPORTS 1
+http://localhost:7019/iptv/play/tr_f1e19d75be0b5a612362fd7b
+#EXTINF:-1 tvg-id="tr_bc45c232da925fa518f6c42f" tvg-name="EXXEN SPORTS 2" group-title="Spor",EXXEN SPORTS 2
+http://localhost:7019/iptv/play/tr_bc45c232da925fa518f6c42f
+#EXTINF:-1 tvg-id="tr_402924747b98258ee3c05306" tvg-name="EXXEN TV" group-title="Haber",EXXEN TV
+http://localhost:7019/iptv/play/tr_402924747b98258ee3c05306
+#EXTINF:-1 tvg-id="tr_1e83cbd3149f2214fcee64f9" tvg-name="EXXEN TV SPOR 1" group-title="Spor",EXXEN TV SPOR 1
+http://localhost:7019/iptv/play/tr_1e83cbd3149f2214fcee64f9
+#EXTINF:-1 tvg-id="tr_6bcca45d92c0c2d044343b2a" tvg-name="EXXEN TV SPOR 1 720P" group-title="Spor",EXXEN TV SPOR 1 720P
+http://localhost:7019/iptv/play/tr_6bcca45d92c0c2d044343b2a
+#EXTINF:-1 tvg-id="tr_cd9d462ae9bcf3d6a15f677d" tvg-name="EXXEN TV SPOR 1 FEED" group-title="Spor",EXXEN TV SPOR 1 FEED
+http://localhost:7019/iptv/play/tr_cd9d462ae9bcf3d6a15f677d
+#EXTINF:-1 tvg-id="tr_edd97f1f7549add5fadeafcd" tvg-name="EXXEN TV SPOR 1 HD" group-title="Spor",EXXEN TV SPOR 1 HD
+http://localhost:7019/iptv/play/tr_edd97f1f7549add5fadeafcd
+#EXTINF:-1 tvg-id="tr_bd3eac2308fc970624517e0e" tvg-name="EXXEN TV SPOR 1 UHD" group-title="Spor",EXXEN TV SPOR 1 UHD
+http://localhost:7019/iptv/play/tr_bd3eac2308fc970624517e0e
+#EXTINF:-1 tvg-id="tr_001a0d13c4904aa0354a55cb" tvg-name="EXXEN TV SPOR 2 UHD" group-title="Spor",EXXEN TV SPOR 2 UHD
+http://localhost:7019/iptv/play/tr_001a0d13c4904aa0354a55cb
+#EXTINF:-1 tvg-id="tr_7dbce979c2f1c6d98151b79c" tvg-name="EXXEN TV SPOR 3" group-title="Spor",EXXEN TV SPOR 3
+http://localhost:7019/iptv/play/tr_7dbce979c2f1c6d98151b79c
+#EXTINF:-1 tvg-id="tr_f90c72dc31e42d3684f29ccd" tvg-name="EXXEN TV SPOR 4" group-title="Spor",EXXEN TV SPOR 4
+http://localhost:7019/iptv/play/tr_f90c72dc31e42d3684f29ccd
+#EXTINF:-1 tvg-id="tr_2648f149ca66654401af5dc5" tvg-name="EXXEN TV SPOR 5" group-title="Spor",EXXEN TV SPOR 5
+http://localhost:7019/iptv/play/tr_2648f149ca66654401af5dc5
+#EXTINF:-1 tvg-id="tr_084c10f4087f37fccf897d31" tvg-name="EXXEN TV SPOR 6" group-title="Spor",EXXEN TV SPOR 6
+http://localhost:7019/iptv/play/tr_084c10f4087f37fccf897d31
+#EXTINF:-1 tvg-id="tr_47ae298e0e3331f34b2d8874" tvg-name="EXXEN TV SPOR 7" group-title="Spor",EXXEN TV SPOR 7
+http://localhost:7019/iptv/play/tr_47ae298e0e3331f34b2d8874
+#EXTINF:-1 tvg-id="tr_fbb45583024d5a6344f1e041" tvg-name="EXXEN TV SPOR 8" group-title="Spor",EXXEN TV SPOR 8
+http://localhost:7019/iptv/play/tr_fbb45583024d5a6344f1e041
+#EXTINF:-1 tvg-id="tr_712578c0f11ef2fbdd80451b" tvg-name="FASHION TV" group-title="Haber",FASHION TV
+http://localhost:7019/iptv/play/tr_712578c0f11ef2fbdd80451b
+#EXTINF:-1 tvg-id="tr_c82db138c958f3a010ae282e" tvg-name="FASIL NEVIZADE GECELERI" group-title="Diğer",FASIL NEVIZADE GECELERI
+http://localhost:7019/iptv/play/tr_c82db138c958f3a010ae282e
+#EXTINF:-1 tvg-id="tr_f2c58c97f2a6c4546972ebf5" tvg-name="FB TV" group-title="Spor",FB TV
+http://localhost:7019/iptv/play/tr_f2c58c97f2a6c4546972ebf5
+#EXTINF:-1 tvg-id="tr_dd89efa1db0958741fccaab7" tvg-name="FB TV" group-title="Spor",FB TV
+http://localhost:7019/iptv/play/tr_dd89efa1db0958741fccaab7
+#EXTINF:-1 tvg-id="tr_0de0fa9ab6331eed17305eba" tvg-name="FINEST TV" group-title="Diğer",FINEST TV
+http://localhost:7019/iptv/play/tr_0de0fa9ab6331eed17305eba
+#EXTINF:-1 tvg-id="tr_a25b809d753f4afdf2a2156f" tvg-name="FIX CINEMA ACTION" group-title="Sinema",FIX CINEMA ACTION
+http://localhost:7019/iptv/play/tr_a25b809d753f4afdf2a2156f
+#EXTINF:-1 tvg-id="tr_5b861ded5f18e6bd4893f490" tvg-name="FIX CINEMA BILM KURGU" group-title="Sinema",FIX CINEMA BILM KURGU
+http://localhost:7019/iptv/play/tr_5b861ded5f18e6bd4893f490
+#EXTINF:-1 tvg-id="tr_ad2e41a293cee63763e718fc" tvg-name="FIX CINEMA COMEDY" group-title="Sinema",FIX CINEMA COMEDY
+http://localhost:7019/iptv/play/tr_ad2e41a293cee63763e718fc
+#EXTINF:-1 tvg-id="tr_888df9267bc65068009209e0" tvg-name="FIX CINEMA DRAM" group-title="Sinema",FIX CINEMA DRAM
+http://localhost:7019/iptv/play/tr_888df9267bc65068009209e0
+#EXTINF:-1 tvg-id="tr_d8a76feea4ea55c284ae834c" tvg-name="FIX CINEMA FANTASTIC" group-title="Sinema",FIX CINEMA FANTASTIC
+http://localhost:7019/iptv/play/tr_d8a76feea4ea55c284ae834c
+#EXTINF:-1 tvg-id="tr_c66a95f122382e8aeb5dadd2" tvg-name="FIX CINEMA KORKU" group-title="Sinema",FIX CINEMA KORKU
+http://localhost:7019/iptv/play/tr_c66a95f122382e8aeb5dadd2
+#EXTINF:-1 tvg-id="tr_cef24c85f6710a4c08827fba" tvg-name="FIX CINEMA MACERA" group-title="Sinema",FIX CINEMA MACERA
+http://localhost:7019/iptv/play/tr_cef24c85f6710a4c08827fba
+#EXTINF:-1 tvg-id="tr_4672a9cd8a354cdf11bf52e9" tvg-name="FIX CINEMA NETFLIX" group-title="Sinema",FIX CINEMA NETFLIX
+http://localhost:7019/iptv/play/tr_4672a9cd8a354cdf11bf52e9
+#EXTINF:-1 tvg-id="tr_1f6992c2046eb2bedcc2cf42" tvg-name="FIX CINEMA YERLI" group-title="Sinema",FIX CINEMA YERLI
+http://localhost:7019/iptv/play/tr_1f6992c2046eb2bedcc2cf42
+#EXTINF:-1 tvg-id="tr_98f29aa74035f2ae553b8ed5" tvg-name="FIX CINEMA YESILCAM" group-title="Sinema",FIX CINEMA YESILCAM
+http://localhost:7019/iptv/play/tr_98f29aa74035f2ae553b8ed5
+#EXTINF:-1 tvg-id="tr_6e93383a29280616c443a93e" tvg-name="FLASH HABER TV" group-title="Haber",FLASH HABER TV
+http://localhost:7019/iptv/play/tr_6e93383a29280616c443a93e
+#EXTINF:-1 tvg-id="tr_4effe102eeba35a6e893c777" tvg-name="FLASH TV HD" group-title="Diğer",FLASH TV HD
+http://localhost:7019/iptv/play/tr_4effe102eeba35a6e893c777
+#EXTINF:-1 tvg-id="tr_973443c50ac591485fc7eb0b" tvg-name="FOX" group-title="Diğer",FOX
+http://localhost:7019/iptv/play/tr_973443c50ac591485fc7eb0b
+#EXTINF:-1 tvg-id="tr_36f58945f68faf4d9c938d8a" tvg-name="FOX CRIME HEVC" group-title="Diğer",FOX CRIME HEVC
+http://localhost:7019/iptv/play/tr_36f58945f68faf4d9c938d8a
+#EXTINF:-1 tvg-id="tr_a7a2b1ed40de6bd5294f8c94" tvg-name="FX" group-title="Diğer",FX
+http://localhost:7019/iptv/play/tr_a7a2b1ed40de6bd5294f8c94
+#EXTINF:-1 tvg-id="tr_a3a84b4534809b182d299556" tvg-name="GABBY" group-title="Diğer",GABBY
+http://localhost:7019/iptv/play/tr_a3a84b4534809b182d299556
+#EXTINF:-1 tvg-id="tr_49a2e78dea5304fe2d0c2fe2" tvg-name="GAZIANTEP GRT TV" group-title="Diğer",GAZIANTEP GRT TV
+http://localhost:7019/iptv/play/tr_49a2e78dea5304fe2d0c2fe2
+#EXTINF:-1 tvg-id="tr_1a7ea1c2c863485ab6b8f9a8" tvg-name="GAZIANTEP OLAY TV" group-title="Diğer",GAZIANTEP OLAY TV
+http://localhost:7019/iptv/play/tr_1a7ea1c2c863485ab6b8f9a8
+#EXTINF:-1 tvg-id="tr_6ba1e915d19a47ac31182dfe" tvg-name="GIZEMLER DIYARI" group-title="Diğer",GIZEMLER DIYARI
+http://localhost:7019/iptv/play/tr_6ba1e915d19a47ac31182dfe
+#EXTINF:-1 tvg-id="tr_482e0b1285f99f4064502ec1" tvg-name="GLOBAL BOX ACTION" group-title="Diğer",GLOBAL BOX ACTION
+http://localhost:7019/iptv/play/tr_482e0b1285f99f4064502ec1
+#EXTINF:-1 tvg-id="tr_05e4ea10933423fdf0b8520f" tvg-name="GLOBAL BOX COMEDY" group-title="Diğer",GLOBAL BOX COMEDY
+http://localhost:7019/iptv/play/tr_05e4ea10933423fdf0b8520f
+#EXTINF:-1 tvg-id="tr_8cbc58961d8615d6d77ad841" tvg-name="GLOBAL BOX DRAM" group-title="Diğer",GLOBAL BOX DRAM
+http://localhost:7019/iptv/play/tr_8cbc58961d8615d6d77ad841
+#EXTINF:-1 tvg-id="tr_fd7a73e1c5da8f8db5b2da98" tvg-name="GLOBAL BOX FANTASTIC" group-title="Diğer",GLOBAL BOX FANTASTIC
+http://localhost:7019/iptv/play/tr_fd7a73e1c5da8f8db5b2da98
+#EXTINF:-1 tvg-id="tr_8ccf1d69e2b74d28d11bdca8" tvg-name="GLOBAL BOX KEMAL SUNAL" group-title="Diğer",GLOBAL BOX KEMAL SUNAL
+http://localhost:7019/iptv/play/tr_8ccf1d69e2b74d28d11bdca8
+#EXTINF:-1 tvg-id="tr_0dcdce52ec5045dd3c3bc212" tvg-name="GLOBAL BOX KORKU" group-title="Diğer",GLOBAL BOX KORKU
+http://localhost:7019/iptv/play/tr_0dcdce52ec5045dd3c3bc212
+#EXTINF:-1 tvg-id="tr_972cc38a52150ce22d22fa72" tvg-name="GLOBAL BOX VIZYON" group-title="Diğer",GLOBAL BOX VIZYON
+http://localhost:7019/iptv/play/tr_972cc38a52150ce22d22fa72
+#EXTINF:-1 tvg-id="tr_d8845ba58e706f0d03f4c8aa" tvg-name="GLOBAL BOX YE IL AM" group-title="Diğer",GLOBAL BOX YE IL AM
+http://localhost:7019/iptv/play/tr_d8845ba58e706f0d03f4c8aa
+#EXTINF:-1 tvg-id="tr_7dd089709737b03137f896a0" tvg-name="GLOBAL BOX YERLI" group-title="Diğer",GLOBAL BOX YERLI
+http://localhost:7019/iptv/play/tr_7dd089709737b03137f896a0
+#EXTINF:-1 tvg-id="tr_ff912beebef65428efc4e812" tvg-name="GLOBAL HABER HD" group-title="Haber",GLOBAL HABER HD
+http://localhost:7019/iptv/play/tr_ff912beebef65428efc4e812
+#EXTINF:-1 tvg-id="tr_55c7b640624a5d803ab5e764" tvg-name="GONCA TV" group-title="Diğer",GONCA TV
+http://localhost:7019/iptv/play/tr_55c7b640624a5d803ab5e764
+#EXTINF:-1 tvg-id="tr_939c664737daac1dd5d39cdd" tvg-name="GONCA TV" group-title="Diğer",GONCA TV
+http://localhost:7019/iptv/play/tr_939c664737daac1dd5d39cdd
+#EXTINF:-1 tvg-id="tr_0ea0ea364cb0046a13b19a1f" tvg-name="GRT TV" group-title="Diğer",GRT TV
+http://localhost:7019/iptv/play/tr_0ea0ea364cb0046a13b19a1f
+#EXTINF:-1 tvg-id="tr_9cd2c5e84e459661bbc5e48d" tvg-name="GUNEYDOGU TV" group-title="Diğer",GUNEYDOGU TV
+http://localhost:7019/iptv/play/tr_9cd2c5e84e459661bbc5e48d
+#EXTINF:-1 tvg-id="tr_7399d1b10d20f1b0e6dd3373" tvg-name="GURBET24 TV" group-title="Diğer",GURBET24 TV
+http://localhost:7019/iptv/play/tr_7399d1b10d20f1b0e6dd3373
+#EXTINF:-1 tvg-id="tr_6d0a145a7956a5513e133887" tvg-name="HABER 61" group-title="Haber",HABER 61
+http://localhost:7019/iptv/play/tr_6d0a145a7956a5513e133887
+#EXTINF:-1 tvg-id="tr_9cea65fbbb267553a7838d64" tvg-name="HABER GLOBAL" group-title="Haber",HABER GLOBAL
+http://localhost:7019/iptv/play/tr_9cea65fbbb267553a7838d64
+#EXTINF:-1 tvg-id="tr_01166addf6f09dd50c646896" tvg-name="HABER GLOBAL HD" group-title="Haber",HABER GLOBAL HD
+http://localhost:7019/iptv/play/tr_01166addf6f09dd50c646896
+#EXTINF:-1 tvg-id="tr_7543f405d244279ecb27fcc6" tvg-name="HABER GLOBAL HD+ SD" group-title="Haber",HABER GLOBAL HD+ SD
+http://localhost:7019/iptv/play/tr_7543f405d244279ecb27fcc6
+#EXTINF:-1 tvg-id="tr_fb10828ed5d17bcb1a412f20" tvg-name="HABER TURK HD" group-title="Haber",HABER TURK HD
+http://localhost:7019/iptv/play/tr_fb10828ed5d17bcb1a412f20
+#EXTINF:-1 tvg-id="tr_33faddfc82dd601ff2b4a729" tvg-name="HABER TURK HEVC" group-title="Haber",HABER TURK HEVC
+http://localhost:7019/iptv/play/tr_33faddfc82dd601ff2b4a729
+#EXTINF:-1 tvg-id="tr_1a1dc7d908a0c1f1e86d7aec" tvg-name="HABERTURK" group-title="Haber",HABERTURK
+http://localhost:7019/iptv/play/tr_1a1dc7d908a0c1f1e86d7aec
+#EXTINF:-1 tvg-id="tr_0bc1752d7f5e7315f82417a9" tvg-name="HABERTURK HD" group-title="Haber",HABERTURK HD
+http://localhost:7019/iptv/play/tr_0bc1752d7f5e7315f82417a9
+#EXTINF:-1 tvg-id="tr_2fd7beebeee6a5c13c237d9c" tvg-name="HABERTURK RAW" group-title="Haber",HABERTURK RAW
+http://localhost:7019/iptv/play/tr_2fd7beebeee6a5c13c237d9c
+#EXTINF:-1 tvg-id="tr_7e873b2190a3b04a4e5cf3bb" tvg-name="HALK TV" group-title="Diğer",HALK TV
+http://localhost:7019/iptv/play/tr_7e873b2190a3b04a4e5cf3bb
+#EXTINF:-1 tvg-id="tr_b1504c2fa7258c7f52eca868" tvg-name="HALK TV HD" group-title="Diğer",HALK TV HD
+http://localhost:7019/iptv/play/tr_b1504c2fa7258c7f52eca868
+#EXTINF:-1 tvg-id="tr_400271ce4f4ce054eb7afd16" tvg-name="HALK TV SD" group-title="Diğer",HALK TV SD
+http://localhost:7019/iptv/play/tr_400271ce4f4ce054eb7afd16
+#EXTINF:-1 tvg-id="tr_dbd22e4ae22ffffe452ca0fb" tvg-name="HAPSUU TV" group-title="Diğer",HAPSUU TV
+http://localhost:7019/iptv/play/tr_dbd22e4ae22ffffe452ca0fb
+#EXTINF:-1 tvg-id="tr_847bb3c9df16e182cc745c3e" tvg-name="HISTORY HD" group-title="Belgesel",HISTORY HD
+http://localhost:7019/iptv/play/tr_847bb3c9df16e182cc745c3e
+#EXTINF:-1 tvg-id="tr_28a7a4200f458f243563eba9" tvg-name="HORROR 1 HD" group-title="Diğer",HORROR 1 HD
+http://localhost:7019/iptv/play/tr_28a7a4200f458f243563eba9
+#EXTINF:-1 tvg-id="tr_8b6c7d645ff4f4a01ad8e29a" tvg-name="HORROR 2 HD" group-title="Diğer",HORROR 2 HD
+http://localhost:7019/iptv/play/tr_8b6c7d645ff4f4a01ad8e29a
+#EXTINF:-1 tvg-id="tr_e97947a8e76a5d264766abdc" tvg-name="HORROR 3 HD" group-title="Diğer",HORROR 3 HD
+http://localhost:7019/iptv/play/tr_e97947a8e76a5d264766abdc
+#EXTINF:-1 tvg-id="tr_5d379be2c36a3f721221d2e6" tvg-name="HORROR 4 HD" group-title="Diğer",HORROR 4 HD
+http://localhost:7019/iptv/play/tr_5d379be2c36a3f721221d2e6
+#EXTINF:-1 tvg-id="tr_651585330eebde836ecab520" tvg-name="HORROR 5 HD" group-title="Diğer",HORROR 5 HD
+http://localhost:7019/iptv/play/tr_651585330eebde836ecab520
+#EXTINF:-1 tvg-id="tr_dae5de93fb51ded60ad913a3" tvg-name="HRT" group-title="Diğer",HRT
+http://localhost:7019/iptv/play/tr_dae5de93fb51ded60ad913a3
+#EXTINF:-1 tvg-id="tr_c06eecf5d8802db1e14be9c8" tvg-name="HRT AKDENIZ TV" group-title="Diğer",HRT AKDENIZ TV
+http://localhost:7019/iptv/play/tr_c06eecf5d8802db1e14be9c8
+#EXTINF:-1 tvg-id="tr_b565991cab7ae37a7ae6bd7e" tvg-name="HT SPOR HD" group-title="Spor",HT SPOR HD
+http://localhost:7019/iptv/play/tr_b565991cab7ae37a7ae6bd7e
+#EXTINF:-1 tvg-id="tr_bb47cf6abe2bed13b741eb9f" tvg-name="HUNAT TV" group-title="Diğer",HUNAT TV
+http://localhost:7019/iptv/play/tr_bb47cf6abe2bed13b741eb9f
+#EXTINF:-1 tvg-id="tr_327bf93d555a2eae09e33b76" tvg-name="HZ YUSUF" group-title="Diğer",HZ YUSUF
+http://localhost:7019/iptv/play/tr_327bf93d555a2eae09e33b76
+#EXTINF:-1 tvg-id="tr_728f71b5e753ba3466ecaddc" tvg-name="ICEL TV" group-title="Diğer",ICEL TV
+http://localhost:7019/iptv/play/tr_728f71b5e753ba3466ecaddc
+#EXTINF:-1 tvg-id="tr_7a24ee4603fc8aa06e419fb3" tvg-name="IDMAN TV HD" group-title="Haber",IDMAN TV HD
+http://localhost:7019/iptv/play/tr_7a24ee4603fc8aa06e419fb3
+#EXTINF:-1 tvg-id="tr_5f08ac26be82389b071e3237" tvg-name="ILKE TV" group-title="Diğer",ILKE TV
+http://localhost:7019/iptv/play/tr_5f08ac26be82389b071e3237
+#EXTINF:-1 tvg-id="tr_d7da295495c79f3ead734424" tvg-name="INVESTIGATION DISCOVERY" group-title="Belgesel",INVESTIGATION DISCOVERY
+http://localhost:7019/iptv/play/tr_d7da295495c79f3ead734424
+#EXTINF:-1 tvg-id="tr_808238291f276e48eca89bba" tvg-name="ISVI RE VIZYON TV" group-title="Haber",ISVI RE VIZYON TV
+http://localhost:7019/iptv/play/tr_808238291f276e48eca89bba
+#EXTINF:-1 tvg-id="tr_3ae93bcd8e5a97cc0478ca7b" tvg-name="IZ TV" group-title="Diğer",IZ TV
+http://localhost:7019/iptv/play/tr_3ae93bcd8e5a97cc0478ca7b
+#EXTINF:-1 tvg-id="tr_2ee150c1530c6ee090581a54" tvg-name="JURASSIC WORLD" group-title="Diğer",JURASSIC WORLD
+http://localhost:7019/iptv/play/tr_2ee150c1530c6ee090581a54
+#EXTINF:-1 tvg-id="tr_ddfa1e6b96fe1c1676f53234" tvg-name="KADIRGA TV" group-title="Diğer",KADIRGA TV
+http://localhost:7019/iptv/play/tr_ddfa1e6b96fe1c1676f53234
+#EXTINF:-1 tvg-id="tr_240453b96667c4ea0ede58e7" tvg-name="KANAL 12" group-title="Diğer",KANAL 12
+http://localhost:7019/iptv/play/tr_240453b96667c4ea0ede58e7
+#EXTINF:-1 tvg-id="tr_96a1032b87e410f408303f41" tvg-name="KANAL 15" group-title="Diğer",KANAL 15
+http://localhost:7019/iptv/play/tr_96a1032b87e410f408303f41
+#EXTINF:-1 tvg-id="tr_4211e7d9c457ffa6104cfcc8" tvg-name="KANAL 23" group-title="Diğer",KANAL 23
+http://localhost:7019/iptv/play/tr_4211e7d9c457ffa6104cfcc8
+#EXTINF:-1 tvg-id="tr_d81b4d7f0ef43ddf7c4c4af7" tvg-name="KANAL 24 HD" group-title="Diğer",KANAL 24 HD
+http://localhost:7019/iptv/play/tr_d81b4d7f0ef43ddf7c4c4af7
+#EXTINF:-1 tvg-id="tr_55c39aaab4d00845a1b85e1e" tvg-name="KANAL 26" group-title="Diğer",KANAL 26
+http://localhost:7019/iptv/play/tr_55c39aaab4d00845a1b85e1e
+#EXTINF:-1 tvg-id="tr_5e3490fad1c3a7d8ea6cb6dd" tvg-name="KANAL 3" group-title="Diğer",KANAL 3
+http://localhost:7019/iptv/play/tr_5e3490fad1c3a7d8ea6cb6dd
+#EXTINF:-1 tvg-id="tr_983ad0ef75222ccf20be6e8c" tvg-name="KANAL 32" group-title="Diğer",KANAL 32
+http://localhost:7019/iptv/play/tr_983ad0ef75222ccf20be6e8c
+#EXTINF:-1 tvg-id="tr_f800bd6bb7a418e06a578207" tvg-name="KANAL 33" group-title="Diğer",KANAL 33
+http://localhost:7019/iptv/play/tr_f800bd6bb7a418e06a578207
+#EXTINF:-1 tvg-id="tr_13ae200d5e14c74aec8f7893" tvg-name="KANAL 34" group-title="Diğer",KANAL 34
+http://localhost:7019/iptv/play/tr_13ae200d5e14c74aec8f7893
+#EXTINF:-1 tvg-id="tr_be9d5b1f7373136cb746875d" tvg-name="KANAL 360 HEVC" group-title="Diğer",KANAL 360 HEVC
+http://localhost:7019/iptv/play/tr_be9d5b1f7373136cb746875d
+#EXTINF:-1 tvg-id="tr_43be65024a2993d681b742c6" tvg-name="KANAL 360 UHD" group-title="Diğer",KANAL 360 UHD
+http://localhost:7019/iptv/play/tr_43be65024a2993d681b742c6
+#EXTINF:-1 tvg-id="tr_b9ab35288bf4d07896d5eb12" tvg-name="KANAL 58" group-title="Diğer",KANAL 58
+http://localhost:7019/iptv/play/tr_b9ab35288bf4d07896d5eb12
+#EXTINF:-1 tvg-id="tr_1f1ffec5be7b55c2864468c5" tvg-name="KANAL 7" group-title="Diğer",KANAL 7
+http://localhost:7019/iptv/play/tr_1f1ffec5be7b55c2864468c5
+#EXTINF:-1 tvg-id="tr_bb7e47d816827ee9cc4c3ce0" tvg-name="KANAL 7 AVRUPA" group-title="Diğer",KANAL 7 AVRUPA
+http://localhost:7019/iptv/play/tr_bb7e47d816827ee9cc4c3ce0
+#EXTINF:-1 tvg-id="tr_8b1aa29fba8819ca4fc8c4d5" tvg-name="KANAL 7 EUROPA" group-title="Diğer",KANAL 7 EUROPA
+http://localhost:7019/iptv/play/tr_8b1aa29fba8819ca4fc8c4d5
+#EXTINF:-1 tvg-id="tr_4d9498c3896edd701573d032" tvg-name="KANAL 7 FHD" group-title="Diğer",KANAL 7 FHD
+http://localhost:7019/iptv/play/tr_4d9498c3896edd701573d032
+#EXTINF:-1 tvg-id="tr_5b93935623a8e01350e97f5a" tvg-name="KANAL 7 HD" group-title="Diğer",KANAL 7 HD
+http://localhost:7019/iptv/play/tr_5b93935623a8e01350e97f5a
+#EXTINF:-1 tvg-id="tr_6dc3bed7beacb112bee14e29" tvg-name="KANAL 7 HEVC" group-title="Diğer",KANAL 7 HEVC
+http://localhost:7019/iptv/play/tr_6dc3bed7beacb112bee14e29
+#EXTINF:-1 tvg-id="tr_b79f934c75fa77b2ce2e91d4" tvg-name="KANAL 7 RAW" group-title="Diğer",KANAL 7 RAW
+http://localhost:7019/iptv/play/tr_b79f934c75fa77b2ce2e91d4
+#EXTINF:-1 tvg-id="tr_cf75addb6f066fa975db7cc9" tvg-name="KANAL AVRUPA" group-title="Diğer",KANAL AVRUPA
+http://localhost:7019/iptv/play/tr_cf75addb6f066fa975db7cc9
+#EXTINF:-1 tvg-id="tr_3b18de427a127284486354c5" tvg-name="KANAL D" group-title="Diğer",KANAL D
+http://localhost:7019/iptv/play/tr_3b18de427a127284486354c5
+#EXTINF:-1 tvg-id="tr_afdd9f3fd8a66b3fe8ed9e8a" tvg-name="KANAL D FHD" group-title="Diğer",KANAL D FHD
+http://localhost:7019/iptv/play/tr_afdd9f3fd8a66b3fe8ed9e8a
+#EXTINF:-1 tvg-id="tr_87e32a70b8d14d7a623c70d1" tvg-name="KANAL D HD" group-title="Diğer",KANAL D HD
+http://localhost:7019/iptv/play/tr_87e32a70b8d14d7a623c70d1
+#EXTINF:-1 tvg-id="tr_06801e888bcd6a2e2a866b51" tvg-name="KANAL D HD (H265)" group-title="Diğer",KANAL D HD (H265)
+http://localhost:7019/iptv/play/tr_06801e888bcd6a2e2a866b51
+#EXTINF:-1 tvg-id="tr_b0dea09e7f0163fcbefdf416" tvg-name="KANAL D HEVC" group-title="Diğer",KANAL D HEVC
+http://localhost:7019/iptv/play/tr_b0dea09e7f0163fcbefdf416
+#EXTINF:-1 tvg-id="tr_040cbe0ee4f4454a207ec5e8" tvg-name="KANAL D RAW" group-title="Diğer",KANAL D RAW
+http://localhost:7019/iptv/play/tr_040cbe0ee4f4454a207ec5e8
+#EXTINF:-1 tvg-id="tr_ed875bcdc98b556158e47462" tvg-name="KANAL D SD" group-title="Diğer",KANAL D SD
+http://localhost:7019/iptv/play/tr_ed875bcdc98b556158e47462
+#EXTINF:-1 tvg-id="tr_69ad543cf0dd0000cfb9b7f4" tvg-name="KANAL FIRAT" group-title="Diğer",KANAL FIRAT
+http://localhost:7019/iptv/play/tr_69ad543cf0dd0000cfb9b7f4
+#EXTINF:-1 tvg-id="tr_a2e947f78d7f9c3360b3235c" tvg-name="KANAL HAYAT" group-title="Diğer",KANAL HAYAT
+http://localhost:7019/iptv/play/tr_a2e947f78d7f9c3360b3235c
+#EXTINF:-1 tvg-id="tr_4bb92473e6c51d9a4c3c26cc" tvg-name="KANAL URFA" group-title="Diğer",KANAL URFA
+http://localhost:7019/iptv/play/tr_4bb92473e6c51d9a4c3c26cc
+#EXTINF:-1 tvg-id="tr_cf995be0d88b05fd602ae763" tvg-name="KANAL V" group-title="Diğer",KANAL V
+http://localhost:7019/iptv/play/tr_cf995be0d88b05fd602ae763
+#EXTINF:-1 tvg-id="tr_f38cb6d1b4fb782d21822d85" tvg-name="KANAL Z" group-title="Diğer",KANAL Z
+http://localhost:7019/iptv/play/tr_f38cb6d1b4fb782d21822d85
+#EXTINF:-1 tvg-id="tr_ba889316a6298ffebb324675" tvg-name="KARADENIZ BRTV" group-title="Diğer",KARADENIZ BRTV
+http://localhost:7019/iptv/play/tr_ba889316a6298ffebb324675
+#EXTINF:-1 tvg-id="tr_f510d290d11e1ca6cf71a463" tvg-name="KARDELEN TV" group-title="Haber",KARDELEN TV
+http://localhost:7019/iptv/play/tr_f510d290d11e1ca6cf71a463
+#EXTINF:-1 tvg-id="tr_39a457348f0f4a8f137fae32" tvg-name="KAYSERI OLAY TÜRK TV" group-title="Diğer",KAYSERI OLAY TÜRK TV
+http://localhost:7019/iptv/play/tr_39a457348f0f4a8f137fae32
+#EXTINF:-1 tvg-id="tr_09385e09e543386d4eb6a00d" tvg-name="KENT TÜRK" group-title="Diğer",KENT TÜRK
+http://localhost:7019/iptv/play/tr_09385e09e543386d4eb6a00d
+#EXTINF:-1 tvg-id="tr_cde62b2126ef668f64b3b1c4" tvg-name="KIBRIS GENÇ TV" group-title="Diğer",KIBRIS GENÇ TV
+http://localhost:7019/iptv/play/tr_cde62b2126ef668f64b3b1c4
+#EXTINF:-1 tvg-id="tr_333f0cfefbe5280f1e7ca865" tvg-name="KIBRIS KANAL T" group-title="Diğer",KIBRIS KANAL T
+http://localhost:7019/iptv/play/tr_333f0cfefbe5280f1e7ca865
+#EXTINF:-1 tvg-id="tr_3b26026041eea7ab1a95fd87" tvg-name="KIBRIS TV" group-title="Diğer",KIBRIS TV
+http://localhost:7019/iptv/play/tr_3b26026041eea7ab1a95fd87
+#EXTINF:-1 tvg-id="tr_ad2c7c522a920e54c4a25c37" tvg-name="KINGBOX ACTION" group-title="Diğer",KINGBOX ACTION
+http://localhost:7019/iptv/play/tr_ad2c7c522a920e54c4a25c37
+#EXTINF:-1 tvg-id="tr_c91ede265d0ad0c7d23bd22e" tvg-name="KON TV" group-title="Haber",KON TV
+http://localhost:7019/iptv/play/tr_c91ede265d0ad0c7d23bd22e
+#EXTINF:-1 tvg-id="tr_85f2d3b6379c841bcd6fb038" tvg-name="KONYA KON TV" group-title="Haber",KONYA KON TV
+http://localhost:7019/iptv/play/tr_85f2d3b6379c841bcd6fb038
+#EXTINF:-1 tvg-id="tr_c7595b5c4116e5a0df61a1a4" tvg-name="KOSTEBEKGILLER TV" group-title="Diğer",KOSTEBEKGILLER TV
+http://localhost:7019/iptv/play/tr_c7595b5c4116e5a0df61a1a4
+#EXTINF:-1 tvg-id="tr_3a7d673966759198ec895dae" tvg-name="KÖY TV" group-title="Diğer",KÖY TV
+http://localhost:7019/iptv/play/tr_3a7d673966759198ec895dae
+#EXTINF:-1 tvg-id="tr_72efb759b60b5a6716e8120d" tvg-name="KOZA TV" group-title="Diğer",KOZA TV
+http://localhost:7019/iptv/play/tr_72efb759b60b5a6716e8120d
+#EXTINF:-1 tvg-id="tr_b81748cff96339b18fc6d6d6" tvg-name="KRAL POP RADYO TÜRKÇE POP" group-title="Müzik",KRAL POP RADYO TÜRKÇE POP
+http://localhost:7019/iptv/play/tr_b81748cff96339b18fc6d6d6
+#EXTINF:-1 tvg-id="tr_ff7c9e7181cd99f44265206c" tvg-name="KRAL TV" group-title="Müzik",KRAL TV
+http://localhost:7019/iptv/play/tr_ff7c9e7181cd99f44265206c
+#EXTINF:-1 tvg-id="tr_9c72939448d1516cac044f91" tvg-name="KRAL TV HD" group-title="Müzik",KRAL TV HD
+http://localhost:7019/iptv/play/tr_9c72939448d1516cac044f91
+#EXTINF:-1 tvg-id="tr_2240a33a062b0dae74534492" tvg-name="KRT" group-title="Diğer",KRT
+http://localhost:7019/iptv/play/tr_2240a33a062b0dae74534492
+#EXTINF:-1 tvg-id="tr_9d1b20abe39e4f1c6f9f3b29" tvg-name="KRT HD+ SD" group-title="Diğer",KRT HD+ SD
+http://localhost:7019/iptv/play/tr_9d1b20abe39e4f1c6f9f3b29
+#EXTINF:-1 tvg-id="tr_562c0ad955d49965e09aecd4" tvg-name="KRT TV HD" group-title="Diğer",KRT TV HD
+http://localhost:7019/iptv/play/tr_562c0ad955d49965e09aecd4
+#EXTINF:-1 tvg-id="tr_878c7f204d9cc95a2fdd2603" tvg-name="KUDUS TV" group-title="Diğer",KUDUS TV
+http://localhost:7019/iptv/play/tr_878c7f204d9cc95a2fdd2603
+#EXTINF:-1 tvg-id="tr_ca47eacbf70cc5312ed62e96" tvg-name="KUDÜS TV" group-title="Diğer",KUDÜS TV
+http://localhost:7019/iptv/play/tr_ca47eacbf70cc5312ed62e96
+#EXTINF:-1 tvg-id="tr_eec1670484035d7efd9980f2" tvg-name="LALEGUL TV" group-title="Diğer",LALEGUL TV
+http://localhost:7019/iptv/play/tr_eec1670484035d7efd9980f2
+#EXTINF:-1 tvg-id="tr_364f9598c089a1e4eba9017d" tvg-name="LÂLEGÜL TV" group-title="Diğer",LÂLEGÜL TV
+http://localhost:7019/iptv/play/tr_364f9598c089a1e4eba9017d
+#EXTINF:-1 tvg-id="tr_f7529cb1a2fd203364c0ebde" tvg-name="LIDER HABER" group-title="Haber",LIDER HABER
+http://localhost:7019/iptv/play/tr_f7529cb1a2fd203364c0ebde
+#EXTINF:-1 tvg-id="tr_7399429174abc786d5d49b91" tvg-name="LIFE TV" group-title="Diğer",LIFE TV
+http://localhost:7019/iptv/play/tr_7399429174abc786d5d49b91
+#EXTINF:-1 tvg-id="tr_0f43214584f10274b502513b" tvg-name="LINE TV" group-title="Diğer",LINE TV
+http://localhost:7019/iptv/play/tr_0f43214584f10274b502513b
+#EXTINF:-1 tvg-id="tr_86f5945311ead0084db693f0" tvg-name="LOVE NATURE" group-title="Diğer",LOVE NATURE
+http://localhost:7019/iptv/play/tr_86f5945311ead0084db693f0
+#EXTINF:-1 tvg-id="tr_b4721a76864226b51b355397" tvg-name="LOVE NATURE HD" group-title="Diğer",LOVE NATURE HD
+http://localhost:7019/iptv/play/tr_b4721a76864226b51b355397
+#EXTINF:-1 tvg-id="tr_f8a3447f704380484a0f52b5" tvg-name="LOVE NATURE HD+" group-title="Diğer",LOVE NATURE HD+
+http://localhost:7019/iptv/play/tr_f8a3447f704380484a0f52b5
+#EXTINF:-1 tvg-id="tr_cdc088aba06aadc9aef734bd" tvg-name="LUYS TV" group-title="Diğer",LUYS TV
+http://localhost:7019/iptv/play/tr_cdc088aba06aadc9aef734bd
+#EXTINF:-1 tvg-id="tr_d9a024caf723fd7434d4aa40" tvg-name="M TÜRK TV" group-title="Diğer",M TÜRK TV
+http://localhost:7019/iptv/play/tr_d9a024caf723fd7434d4aa40
+#EXTINF:-1 tvg-id="tr_b8af2a21889fa0c42ec05fc7" tvg-name="MASAL TV" group-title="Diğer",MASAL TV
+http://localhost:7019/iptv/play/tr_b8af2a21889fa0c42ec05fc7
+#EXTINF:-1 tvg-id="tr_1b89391dd736d6e8cb2c2578" tvg-name="MAVI KARADENIZ" group-title="Diğer",MAVI KARADENIZ
+http://localhost:7019/iptv/play/tr_1b89391dd736d6e8cb2c2578
+#EXTINF:-1 tvg-id="tr_f0dbd0532c22a0575f21529d" tvg-name="MAVI KARADENIZ TV" group-title="Diğer",MAVI KARADENIZ TV
+http://localhost:7019/iptv/play/tr_f0dbd0532c22a0575f21529d
+#EXTINF:-1 tvg-id="tr_ec1e14aa8950fc76d1fccf62" tvg-name="MAX" group-title="Diğer",MAX
+http://localhost:7019/iptv/play/tr_ec1e14aa8950fc76d1fccf62
+#EXTINF:-1 tvg-id="tr_385627c7cab40e43dad8d3cf" tvg-name="MAX 007" group-title="Diğer",MAX 007
+http://localhost:7019/iptv/play/tr_385627c7cab40e43dad8d3cf
+#EXTINF:-1 tvg-id="tr_030f0ab40fd4649d4408ad20" tvg-name="MAX AKSIYON" group-title="Diğer",MAX AKSIYON
+http://localhost:7019/iptv/play/tr_030f0ab40fd4649d4408ad20
+#EXTINF:-1 tvg-id="tr_8ef4ed845811e1581b139ae4" tvg-name="MAX AKSIYON 2" group-title="Diğer",MAX AKSIYON 2
+http://localhost:7019/iptv/play/tr_8ef4ed845811e1581b139ae4
+#EXTINF:-1 tvg-id="tr_ab74c21eb8b9e6c00b29664a" tvg-name="MAX ANIMASYON 1" group-title="Diğer",MAX ANIMASYON 1
+http://localhost:7019/iptv/play/tr_ab74c21eb8b9e6c00b29664a
+#EXTINF:-1 tvg-id="tr_faed624222d62183b2ed5313" tvg-name="MAX GOLD" group-title="Diğer",MAX GOLD
+http://localhost:7019/iptv/play/tr_faed624222d62183b2ed5313
+#EXTINF:-1 tvg-id="tr_63f93abe4b6fe6cce99d29eb" tvg-name="MAX PREMIER" group-title="Diğer",MAX PREMIER
+http://localhost:7019/iptv/play/tr_63f93abe4b6fe6cce99d29eb
+#EXTINF:-1 tvg-id="tr_fde50b2403289391a0baf600" tvg-name="MAX TURK" group-title="Diğer",MAX TURK
+http://localhost:7019/iptv/play/tr_fde50b2403289391a0baf600
+#EXTINF:-1 tvg-id="tr_999c072254cb22b5f4191241" tvg-name="MAX VIZYON 1" group-title="Diğer",MAX VIZYON 1
+http://localhost:7019/iptv/play/tr_999c072254cb22b5f4191241
+#EXTINF:-1 tvg-id="tr_26241b1b3ace8fee79be4f8d" tvg-name="MAX VIZYON 2" group-title="Diğer",MAX VIZYON 2
+http://localhost:7019/iptv/play/tr_26241b1b3ace8fee79be4f8d
+#EXTINF:-1 tvg-id="tr_1484ee0eda56d9178836039a" tvg-name="MAX VIZYON 3" group-title="Diğer",MAX VIZYON 3
+http://localhost:7019/iptv/play/tr_1484ee0eda56d9178836039a
+#EXTINF:-1 tvg-id="tr_87b9cd8b65a27ee162b6c1ac" tvg-name="MAX VIZYON 4" group-title="Diğer",MAX VIZYON 4
+http://localhost:7019/iptv/play/tr_87b9cd8b65a27ee162b6c1ac
+#EXTINF:-1 tvg-id="tr_7504715a109393ebcb71df51" tvg-name="MC EU" group-title="Diğer",MC EU
+http://localhost:7019/iptv/play/tr_7504715a109393ebcb71df51
+#EXTINF:-1 tvg-id="tr_559a98cf11e66be62621aba4" tvg-name="MEDYA HABER" group-title="Haber",MEDYA HABER
+http://localhost:7019/iptv/play/tr_559a98cf11e66be62621aba4
+#EXTINF:-1 tvg-id="tr_f85f101999a418cf973e045f" tvg-name="MELTEM TV" group-title="Diğer",MELTEM TV
+http://localhost:7019/iptv/play/tr_f85f101999a418cf973e045f
+#EXTINF:-1 tvg-id="tr_5fc8d607bb458c29a87bb91b" tvg-name="MELTEM TV" group-title="Diğer",MELTEM TV
+http://localhost:7019/iptv/play/tr_5fc8d607bb458c29a87bb91b
+#EXTINF:-1 tvg-id="tr_7f649f83a8da39f88f528768" tvg-name="MERCAN TV" group-title="Haber",MERCAN TV
+http://localhost:7019/iptv/play/tr_7f649f83a8da39f88f528768
+#EXTINF:-1 tvg-id="tr_ccc9987252b4c3cdd30d437b" tvg-name="MERSIN EL TV" group-title="Diğer",MERSIN EL TV
+http://localhost:7019/iptv/play/tr_ccc9987252b4c3cdd30d437b
+#EXTINF:-1 tvg-id="tr_ad6560061a312f2c47cde71b" tvg-name="MESAJ TV" group-title="Diğer",MESAJ TV
+http://localhost:7019/iptv/play/tr_ad6560061a312f2c47cde71b
+#EXTINF:-1 tvg-id="tr_2ded982d000469548ca03061" tvg-name="MGC TV" group-title="Diğer",MGC TV
+http://localhost:7019/iptv/play/tr_2ded982d000469548ca03061
+#EXTINF:-1 tvg-id="tr_0056ec5503deaa97cc1439a8" tvg-name="MIMOCAN TV" group-title="Haber",MIMOCAN TV
+http://localhost:7019/iptv/play/tr_0056ec5503deaa97cc1439a8
+#EXTINF:-1 tvg-id="tr_d74ac39d05da3207f85eec21" tvg-name="MINICA GO" group-title="Diğer",MINICA GO
+http://localhost:7019/iptv/play/tr_d74ac39d05da3207f85eec21
+#EXTINF:-1 tvg-id="tr_19d7885d8bb06bfc1abd2deb" tvg-name="MINIKA COCUK" group-title="Çocuk",MINIKA COCUK
+http://localhost:7019/iptv/play/tr_19d7885d8bb06bfc1abd2deb
+#EXTINF:-1 tvg-id="tr_600bf2992f171f5ea340ce24" tvg-name="MINIKA COCUK" group-title="Çocuk",MINIKA COCUK
+http://localhost:7019/iptv/play/tr_600bf2992f171f5ea340ce24
+#EXTINF:-1 tvg-id="tr_b6ded442bfcf68da11f07070" tvg-name="MINIKA GO" group-title="Çocuk",MINIKA GO
+http://localhost:7019/iptv/play/tr_b6ded442bfcf68da11f07070
+#EXTINF:-1 tvg-id="tr_e88a5edc6fe42bebc77ffd2a" tvg-name="MOVIESMART CLASSIC" group-title="Sinema",MOVIESMART CLASSIC
+http://localhost:7019/iptv/play/tr_e88a5edc6fe42bebc77ffd2a
+#EXTINF:-1 tvg-id="tr_57cb5679a81535b7946cbfe4" tvg-name="MOVIESMART TURK" group-title="Sinema",MOVIESMART TURK
+http://localhost:7019/iptv/play/tr_57cb5679a81535b7946cbfe4
+#EXTINF:-1 tvg-id="tr_739d4481854a1deb1cffd116" tvg-name="MTV LIVE" group-title="Diğer",MTV LIVE
+http://localhost:7019/iptv/play/tr_739d4481854a1deb1cffd116
+#EXTINF:-1 tvg-id="tr_deb8259fd2de2edc6fb5685d" tvg-name="MUFFETIS GADGET" group-title="Diğer",MUFFETIS GADGET
+http://localhost:7019/iptv/play/tr_deb8259fd2de2edc6fb5685d
+#EXTINF:-1 tvg-id="tr_0f1822b28ecb533252518c8a" tvg-name="MUSLUM GURSES" group-title="Diğer",MUSLUM GURSES
+http://localhost:7019/iptv/play/tr_0f1822b28ecb533252518c8a
+#EXTINF:-1 tvg-id="tr_5d57f7861cced137bce96d25" tvg-name="MUSLUM GURSES" group-title="Diğer",MUSLUM GURSES
+http://localhost:7019/iptv/play/tr_5d57f7861cced137bce96d25
+#EXTINF:-1 tvg-id="tr_3aaaa0a6d71f84430d089761" tvg-name="NASREDDIN HOCA" group-title="Diğer",NASREDDIN HOCA
+http://localhost:7019/iptv/play/tr_3aaaa0a6d71f84430d089761
+#EXTINF:-1 tvg-id="tr_88790211d61f58f109ebcd5d" tvg-name="NAT GEO" group-title="Belgesel",NAT GEO
+http://localhost:7019/iptv/play/tr_88790211d61f58f109ebcd5d
+#EXTINF:-1 tvg-id="tr_2c2ac53f70963b4181f2ad29" tvg-name="NAT GEO WILD" group-title="Belgesel",NAT GEO WILD
+http://localhost:7019/iptv/play/tr_2c2ac53f70963b4181f2ad29
+#EXTINF:-1 tvg-id="tr_d509a795d54d7fa6c4027658" tvg-name="NAT GEO WILD HD" group-title="Belgesel",NAT GEO WILD HD
+http://localhost:7019/iptv/play/tr_d509a795d54d7fa6c4027658
+#EXTINF:-1 tvg-id="tr_81585ba87fc5d816d329f1ce" tvg-name="NAT GEO WILD HD+" group-title="Belgesel",NAT GEO WILD HD+
+http://localhost:7019/iptv/play/tr_81585ba87fc5d816d329f1ce
+#EXTINF:-1 tvg-id="tr_27b332cae57669a1e4068248" tvg-name="NATIONAL GEOGRAPHIC HD+" group-title="Belgesel",NATIONAL GEOGRAPHIC HD+
+http://localhost:7019/iptv/play/tr_27b332cae57669a1e4068248
+#EXTINF:-1 tvg-id="tr_80bed45e2b89a38ba784c129" tvg-name="NBA TV" group-title="Diğer",NBA TV
+http://localhost:7019/iptv/play/tr_80bed45e2b89a38ba784c129
+#EXTINF:-1 tvg-id="tr_cf45c6f3122f34fa370516be" tvg-name="NBA TV FHD" group-title="Diğer",NBA TV FHD
+http://localhost:7019/iptv/play/tr_cf45c6f3122f34fa370516be
+#EXTINF:-1 tvg-id="tr_229af03558dab87ce5cb7f58" tvg-name="NBA TV HD" group-title="Diğer",NBA TV HD
+http://localhost:7019/iptv/play/tr_229af03558dab87ce5cb7f58
+#EXTINF:-1 tvg-id="tr_cf0dd363f2ba7959ad739c8d" tvg-name="NICK JR HD HD" group-title="Çocuk",NICK JR HD HD
+http://localhost:7019/iptv/play/tr_cf0dd363f2ba7959ad739c8d
+#EXTINF:-1 tvg-id="tr_6fe2701dc17cab65b02ec0ed" tvg-name="NICK JUNIOR" group-title="Çocuk",NICK JUNIOR
+http://localhost:7019/iptv/play/tr_6fe2701dc17cab65b02ec0ed
+#EXTINF:-1 tvg-id="tr_fd24dbe24736f9bdaadf96cf" tvg-name="NICKELODEON" group-title="Çocuk",NICKELODEON
+http://localhost:7019/iptv/play/tr_fd24dbe24736f9bdaadf96cf
+#EXTINF:-1 tvg-id="tr_cdaf055e13ecc83d0f6103a7" tvg-name="NICKELODEON HD" group-title="Çocuk",NICKELODEON HD
+http://localhost:7019/iptv/play/tr_cdaf055e13ecc83d0f6103a7
+#EXTINF:-1 tvg-id="tr_6d0c3cf02b4a8b19d0a3c5a2" tvg-name="NILOYA HD+" group-title="Diğer",NILOYA HD+
+http://localhost:7019/iptv/play/tr_6d0c3cf02b4a8b19d0a3c5a2
+#EXTINF:-1 tvg-id="tr_2434868f5136e878491cd4fb" tvg-name="NILOYA TV" group-title="Diğer",NILOYA TV
+http://localhost:7019/iptv/play/tr_2434868f5136e878491cd4fb
+#EXTINF:-1 tvg-id="tr_8b7c38179ebb0b3f267c0bcd" tvg-name="NOW" group-title="Diğer",NOW
+http://localhost:7019/iptv/play/tr_8b7c38179ebb0b3f267c0bcd
+#EXTINF:-1 tvg-id="tr_a847e9c60912603caef728ad" tvg-name="NOW TV FHD" group-title="Diğer",NOW TV FHD
+http://localhost:7019/iptv/play/tr_a847e9c60912603caef728ad
+#EXTINF:-1 tvg-id="tr_3962802d02bf2a884b87a4c7" tvg-name="NOW TV HD" group-title="Diğer",NOW TV HD
+http://localhost:7019/iptv/play/tr_3962802d02bf2a884b87a4c7
+#EXTINF:-1 tvg-id="tr_db5ceb5f8c98cb4f18ded81e" tvg-name="NOW TV HD (H265)" group-title="Diğer",NOW TV HD (H265)
+http://localhost:7019/iptv/play/tr_db5ceb5f8c98cb4f18ded81e
+#EXTINF:-1 tvg-id="tr_2771c16e88b24c66b3401fd9" tvg-name="NOW TV HEVC" group-title="Diğer",NOW TV HEVC
+http://localhost:7019/iptv/play/tr_2771c16e88b24c66b3401fd9
+#EXTINF:-1 tvg-id="tr_acf1d5ef6cb66d569bfe4dd1" tvg-name="NOW TV RAW" group-title="Diğer",NOW TV RAW
+http://localhost:7019/iptv/play/tr_acf1d5ef6cb66d569bfe4dd1
+#EXTINF:-1 tvg-id="tr_e644f9b085eedc9ae6918f9c" tvg-name="NOW TV SD" group-title="Diğer",NOW TV SD
+http://localhost:7019/iptv/play/tr_e644f9b085eedc9ae6918f9c
+#EXTINF:-1 tvg-id="tr_69b0fcd71443fc0f5415e1a0" tvg-name="NR 1 HD" group-title="Diğer",NR 1 HD
+http://localhost:7019/iptv/play/tr_69b0fcd71443fc0f5415e1a0
+#EXTINF:-1 tvg-id="tr_454609df66ea259be77119d8" tvg-name="NR1 TURK HD" group-title="Diğer",NR1 TURK HD
+http://localhost:7019/iptv/play/tr_454609df66ea259be77119d8
+#EXTINF:-1 tvg-id="tr_0ef1683119c401408b9ef05d" tvg-name="NTV" group-title="Haber",NTV
+http://localhost:7019/iptv/play/tr_0ef1683119c401408b9ef05d
+#EXTINF:-1 tvg-id="tr_537ec16d0f5c566b04453746" tvg-name="NTV HABER HD" group-title="Haber",NTV HABER HD
+http://localhost:7019/iptv/play/tr_537ec16d0f5c566b04453746
+#EXTINF:-1 tvg-id="tr_d2448e128bb0519e37b1ef2e" tvg-name="NTV HABER HEVC" group-title="Haber",NTV HABER HEVC
+http://localhost:7019/iptv/play/tr_d2448e128bb0519e37b1ef2e
+#EXTINF:-1 tvg-id="tr_9e10b3a3ff404d99ba4089bc" tvg-name="NTV HD" group-title="Haber",NTV HD
+http://localhost:7019/iptv/play/tr_9e10b3a3ff404d99ba4089bc
+#EXTINF:-1 tvg-id="tr_2067cf74f59d4690d2aaa21c" tvg-name="NTV RAW" group-title="Haber",NTV RAW
+http://localhost:7019/iptv/play/tr_2067cf74f59d4690d2aaa21c
+#EXTINF:-1 tvg-id="tr_a45d6a557af149e6e0a63e50" tvg-name="NTV SD" group-title="Haber",NTV SD
+http://localhost:7019/iptv/play/tr_a45d6a557af149e6e0a63e50
+#EXTINF:-1 tvg-id="tr_7b37f641f24394cb42c3d2ca" tvg-name="NUMBER 1" group-title="Müzik",NUMBER 1
+http://localhost:7019/iptv/play/tr_7b37f641f24394cb42c3d2ca
+#EXTINF:-1 tvg-id="tr_cba0c62708f7ccb5b3b6f293" tvg-name="NUMBER 1 ASK" group-title="Müzik",NUMBER 1 ASK
+http://localhost:7019/iptv/play/tr_cba0c62708f7ccb5b3b6f293
+#EXTINF:-1 tvg-id="tr_b71e111e87b9420925723407" tvg-name="NUMBER 1 DAMAR" group-title="Müzik",NUMBER 1 DAMAR
+http://localhost:7019/iptv/play/tr_b71e111e87b9420925723407
+#EXTINF:-1 tvg-id="tr_ea66c40f7bf9b7b759691f9f" tvg-name="NUMBER 1 DANCE" group-title="Müzik",NUMBER 1 DANCE
+http://localhost:7019/iptv/play/tr_ea66c40f7bf9b7b759691f9f
+#EXTINF:-1 tvg-id="tr_1c5f7dcb61bd23a6506f42c5" tvg-name="NUMBER 1 TURK" group-title="Müzik",NUMBER 1 TURK
+http://localhost:7019/iptv/play/tr_1c5f7dcb61bd23a6506f42c5
+#EXTINF:-1 tvg-id="tr_c6af617b805bae71a70d7bea" tvg-name="ON 4" group-title="Diğer",ON 4
+http://localhost:7019/iptv/play/tr_c6af617b805bae71a70d7bea
+#EXTINF:-1 tvg-id="tr_08b0f958a8eade60755592ce" tvg-name="ON 4" group-title="Diğer",ON 4
+http://localhost:7019/iptv/play/tr_08b0f958a8eade60755592ce
+#EXTINF:-1 tvg-id="tr_21d855a0b1be23f9412cdc00" tvg-name="ON 6" group-title="Diğer",ON 6
+http://localhost:7019/iptv/play/tr_21d855a0b1be23f9412cdc00
+#EXTINF:-1 tvg-id="tr_ec8473f63568d83fc0dffd59" tvg-name="ORDU BUYUKSEHIR BELEDIYESI" group-title="Diğer",ORDU BUYUKSEHIR BELEDIYESI
+http://localhost:7019/iptv/play/tr_ec8473f63568d83fc0dffd59
+#EXTINF:-1 tvg-id="tr_0394a5d172cd35aae194976d" tvg-name="OUTDOOR" group-title="Diğer",OUTDOOR
+http://localhost:7019/iptv/play/tr_0394a5d172cd35aae194976d
+#EXTINF:-1 tvg-id="tr_6a84b835425627d773050d92" tvg-name="PAK PIRPIR TV" group-title="Diğer",PAK PIRPIR TV
+http://localhost:7019/iptv/play/tr_6a84b835425627d773050d92
+#EXTINF:-1 tvg-id="tr_0509c52f80a9bd09fd5d4cfc" tvg-name="PAL STATION YABANCI MÜZİK" group-title="Müzik",PAL STATION YABANCI MÜZİK
+http://localhost:7019/iptv/play/tr_0509c52f80a9bd09fd5d4cfc
+#EXTINF:-1 tvg-id="tr_924399c6efabe01d974c0c75" tvg-name="PATRON BEBEK HD" group-title="Diğer",PATRON BEBEK HD
+http://localhost:7019/iptv/play/tr_924399c6efabe01d974c0c75
+#EXTINF:-1 tvg-id="tr_892638be0bae3fed8f2681ab" tvg-name="PAW PETROL" group-title="Diğer",PAW PETROL
+http://localhost:7019/iptv/play/tr_892638be0bae3fed8f2681ab
+#EXTINF:-1 tvg-id="tr_e031ce083f35bb7a3396f4f1" tvg-name="PEPE TV" group-title="Diğer",PEPE TV
+http://localhost:7019/iptv/play/tr_e031ce083f35bb7a3396f4f1
+#EXTINF:-1 tvg-id="tr_96f0b674d94174459c618971" tvg-name="PEPEE TV" group-title="Diğer",PEPEE TV
+http://localhost:7019/iptv/play/tr_96f0b674d94174459c618971
+#EXTINF:-1 tvg-id="tr_2736d6577a8385bb6e90d13b" tvg-name="PEPPA PIG" group-title="Diğer",PEPPA PIG
+http://localhost:7019/iptv/play/tr_2736d6577a8385bb6e90d13b
+#EXTINF:-1 tvg-id="tr_82a7fe99662ff79cee595871" tvg-name="PIJAMA MASKELILER TV" group-title="Diğer",PIJAMA MASKELILER TV
+http://localhost:7019/iptv/play/tr_82a7fe99662ff79cee595871
+#EXTINF:-1 tvg-id="tr_762064212debd32038803dc0" tvg-name="PISI TV" group-title="Diğer",PISI TV
+http://localhost:7019/iptv/play/tr_762064212debd32038803dc0
+#EXTINF:-1 tvg-id="tr_570a174c53559271aac8b1f5" tvg-name="PISI TV (BACKUP)" group-title="Diğer",PISI TV (BACKUP)
+http://localhost:7019/iptv/play/tr_570a174c53559271aac8b1f5
+#EXTINF:-1 tvg-id="tr_4b0f903981b411b550903bdb" tvg-name="POKEMON HD" group-title="Diğer",POKEMON HD
+http://localhost:7019/iptv/play/tr_4b0f903981b411b550903bdb
+#EXTINF:-1 tvg-id="tr_f774d42d88d83eacba9746ab" tvg-name="POWER DANCE" group-title="Müzik",POWER DANCE
+http://localhost:7019/iptv/play/tr_f774d42d88d83eacba9746ab
+#EXTINF:-1 tvg-id="tr_d53cd0113f0f09eecaf33ec4" tvg-name="POWER HD" group-title="Müzik",POWER HD
+http://localhost:7019/iptv/play/tr_d53cd0113f0f09eecaf33ec4
+#EXTINF:-1 tvg-id="tr_e7bca4a85580f88b1b35b640" tvg-name="POWER LOVE" group-title="Müzik",POWER LOVE
+http://localhost:7019/iptv/play/tr_e7bca4a85580f88b1b35b640
+#EXTINF:-1 tvg-id="tr_f35a0d246c6b5353b14a7346" tvg-name="POWER TÜRK TÜRKÇE POP" group-title="Müzik",POWER TÜRK TÜRKÇE POP
+http://localhost:7019/iptv/play/tr_f35a0d246c6b5353b14a7346
+#EXTINF:-1 tvg-id="tr_dbe0c463e8e46fa5757a5fd8" tvg-name="POWER TURK TV" group-title="Müzik",POWER TURK TV
+http://localhost:7019/iptv/play/tr_dbe0c463e8e46fa5757a5fd8
+#EXTINF:-1 tvg-id="tr_b74886f17203eae5008c24ea" tvg-name="POWER TV" group-title="Müzik",POWER TV
+http://localhost:7019/iptv/play/tr_b74886f17203eae5008c24ea
+#EXTINF:-1 tvg-id="tr_f5e3ff6ce70015b6670e3561" tvg-name="POWERTURK AKUSTIK" group-title="Müzik",POWERTURK AKUSTIK
+http://localhost:7019/iptv/play/tr_f5e3ff6ce70015b6670e3561
+#EXTINF:-1 tvg-id="tr_6b06d3c73d5829c7df4964ec" tvg-name="POWERTURK SLOW" group-title="Müzik",POWERTURK SLOW
+http://localhost:7019/iptv/play/tr_6b06d3c73d5829c7df4964ec
+#EXTINF:-1 tvg-id="tr_72ee57c228de62e3d8ee75a3" tvg-name="POWERTURK TAPTAZE" group-title="Müzik",POWERTURK TAPTAZE
+http://localhost:7019/iptv/play/tr_72ee57c228de62e3d8ee75a3
+#EXTINF:-1 tvg-id="tr_92a56193f20fa784a72847cb" tvg-name="RADIO ROCK" group-title="Diğer",RADIO ROCK
+http://localhost:7019/iptv/play/tr_92a56193f20fa784a72847cb
+#EXTINF:-1 tvg-id="tr_4b65d85f8b05301ab2545848" tvg-name="RAFADAN TAYFA" group-title="Diğer",RAFADAN TAYFA
+http://localhost:7019/iptv/play/tr_4b65d85f8b05301ab2545848
+#EXTINF:-1 tvg-id="tr_bcf3b85ea3088c401440482d" tvg-name="REDBOX ARABESK TV" group-title="Diğer",REDBOX ARABESK TV
+http://localhost:7019/iptv/play/tr_bcf3b85ea3088c401440482d
+#EXTINF:-1 tvg-id="tr_1c51ad3f85714bff2d834f0f" tvg-name="REDBOX TURKCE POP" group-title="Diğer",REDBOX TURKCE POP
+http://localhost:7019/iptv/play/tr_1c51ad3f85714bff2d834f0f
+#EXTINF:-1 tvg-id="tr_7b430fae2f3e9dd8c8739781" tvg-name="REDBULL TV" group-title="Diğer",REDBULL TV
+http://localhost:7019/iptv/play/tr_7b430fae2f3e9dd8c8739781
+#EXTINF:-1 tvg-id="tr_3ccfd1ba9735579f90eff5d3" tvg-name="REHBER TV" group-title="Diğer",REHBER TV
+http://localhost:7019/iptv/play/tr_3ccfd1ba9735579f90eff5d3
+#EXTINF:-1 tvg-id="tr_da7b3301ecc7cce5fcd21b44" tvg-name="REHBER TV" group-title="Diğer",REHBER TV
+http://localhost:7019/iptv/play/tr_da7b3301ecc7cce5fcd21b44
+#EXTINF:-1 tvg-id="tr_d83c708d69c2434a891597ce" tvg-name="RUMELI TV" group-title="Diğer",RUMELI TV
+http://localhost:7019/iptv/play/tr_d83c708d69c2434a891597ce
+#EXTINF:-1 tvg-id="tr_433e7d001db201d610397490" tvg-name="S SPORT" group-title="Spor",S SPORT
+http://localhost:7019/iptv/play/tr_433e7d001db201d610397490
+#EXTINF:-1 tvg-id="tr_ce9a435f5e0e627f7af268c7" tvg-name="S SPORT 2" group-title="Spor",S SPORT 2
+http://localhost:7019/iptv/play/tr_ce9a435f5e0e627f7af268c7
+#EXTINF:-1 tvg-id="tr_6f9fd63003a159a72d0f3a04" tvg-name="S SPORT+3 MAC SAATI" group-title="Spor",S SPORT+3 MAC SAATI
+http://localhost:7019/iptv/play/tr_6f9fd63003a159a72d0f3a04
+#EXTINF:-1 tvg-id="tr_e1bbf2d5dac4bb64d880a5df" tvg-name="S SPORT+4 MAC SAATI" group-title="Spor",S SPORT+4 MAC SAATI
+http://localhost:7019/iptv/play/tr_e1bbf2d5dac4bb64d880a5df
+#EXTINF:-1 tvg-id="tr_f2d6a43668958dd55d587f1f" tvg-name="S SPORT+5 MAC SAATI" group-title="Spor",S SPORT+5 MAC SAATI
+http://localhost:7019/iptv/play/tr_f2d6a43668958dd55d587f1f
+#EXTINF:-1 tvg-id="tr_ba2720821d5fc2b53d9112a1" tvg-name="S ZC SZC TV" group-title="Diğer",S ZC SZC TV
+http://localhost:7019/iptv/play/tr_ba2720821d5fc2b53d9112a1
+#EXTINF:-1 tvg-id="tr_21154125495554ccabf64f48" tvg-name="S-SPORT 1 UHD" group-title="Spor",S-SPORT 1 UHD
+http://localhost:7019/iptv/play/tr_21154125495554ccabf64f48
+#EXTINF:-1 tvg-id="tr_39cb7ffc6180f2a6120df64f" tvg-name="S-SPORT 2 HD" group-title="Spor",S-SPORT 2 HD
+http://localhost:7019/iptv/play/tr_39cb7ffc6180f2a6120df64f
+#EXTINF:-1 tvg-id="tr_2e753e8723125eb62d1deae4" tvg-name="S-SPORT 2 UHD" group-title="Spor",S-SPORT 2 UHD
+http://localhost:7019/iptv/play/tr_2e753e8723125eb62d1deae4
+#EXTINF:-1 tvg-id="tr_505756c137ed072198660212" tvg-name="S-SPORT HD" group-title="Spor",S-SPORT HD
+http://localhost:7019/iptv/play/tr_505756c137ed072198660212
+#EXTINF:-1 tvg-id="tr_a7d35972e57a465d8b6ddbfc" tvg-name="S-SPORT PLUS 1 MACZAMANI" group-title="Spor",S-SPORT PLUS 1 MACZAMANI
+http://localhost:7019/iptv/play/tr_a7d35972e57a465d8b6ddbfc
+#EXTINF:-1 tvg-id="tr_b968086c0ee036f15c933cc7" tvg-name="S-SPORT PLUS 2 MACZAMANI" group-title="Spor",S-SPORT PLUS 2 MACZAMANI
+http://localhost:7019/iptv/play/tr_b968086c0ee036f15c933cc7
+#EXTINF:-1 tvg-id="tr_17c5fe03e83d6da166a25cdc" tvg-name="S-SPORT PLUS 3 MACZAMANI" group-title="Spor",S-SPORT PLUS 3 MACZAMANI
+http://localhost:7019/iptv/play/tr_17c5fe03e83d6da166a25cdc
+#EXTINF:-1 tvg-id="tr_cc322e128dd7d8a259a4815c" tvg-name="S-SPORT PLUS FHD" group-title="Spor",S-SPORT PLUS FHD
+http://localhost:7019/iptv/play/tr_cc322e128dd7d8a259a4815c
+#EXTINF:-1 tvg-id="tr_2fbe348627b456260042f636" tvg-name="S-SPORT+1 MAC SAATI" group-title="Spor",S-SPORT+1 MAC SAATI
+http://localhost:7019/iptv/play/tr_2fbe348627b456260042f636
+#EXTINF:-1 tvg-id="tr_7e8a13d15359ee3a0f4adef7" tvg-name="S-SPORT+2 MAC SAATI" group-title="Spor",S-SPORT+2 MAC SAATI
+http://localhost:7019/iptv/play/tr_7e8a13d15359ee3a0f4adef7
+#EXTINF:-1 tvg-id="tr_4db3597a4fb5155be4f28f6c" tvg-name="S-SPORTS 1 SD" group-title="Spor",S-SPORTS 1 SD
+http://localhost:7019/iptv/play/tr_4db3597a4fb5155be4f28f6c
+#EXTINF:-1 tvg-id="tr_5f1986820052d524c18cf4c3" tvg-name="S-SPORTS 2 SD" group-title="Spor",S-SPORTS 2 SD
+http://localhost:7019/iptv/play/tr_5f1986820052d524c18cf4c3
+#EXTINF:-1 tvg-id="tr_008821fe1b2e98c456b4f5c1" tvg-name="SALON 10 HD" group-title="Diğer",SALON 10 HD
+http://localhost:7019/iptv/play/tr_008821fe1b2e98c456b4f5c1
+#EXTINF:-1 tvg-id="tr_0db326a52bc7b02a109877a1" tvg-name="SALON 11 HD" group-title="Diğer",SALON 11 HD
+http://localhost:7019/iptv/play/tr_0db326a52bc7b02a109877a1
+#EXTINF:-1 tvg-id="tr_8e938c1d6db92f3a44c77a48" tvg-name="SALON 12 HD" group-title="Diğer",SALON 12 HD
+http://localhost:7019/iptv/play/tr_8e938c1d6db92f3a44c77a48
+#EXTINF:-1 tvg-id="tr_645c7dfd96d305211181e280" tvg-name="SALON 13 HD" group-title="Diğer",SALON 13 HD
+http://localhost:7019/iptv/play/tr_645c7dfd96d305211181e280
+#EXTINF:-1 tvg-id="tr_be84148e5558b1103c5399e1" tvg-name="SALON 14 HD" group-title="Diğer",SALON 14 HD
+http://localhost:7019/iptv/play/tr_be84148e5558b1103c5399e1
+#EXTINF:-1 tvg-id="tr_24b71d19b74fb69af5b91907" tvg-name="SALON 15 HD" group-title="Diğer",SALON 15 HD
+http://localhost:7019/iptv/play/tr_24b71d19b74fb69af5b91907
+#EXTINF:-1 tvg-id="tr_abe6bc3b6c39a3a10e6c7d0f" tvg-name="SALON 16 HD" group-title="Diğer",SALON 16 HD
+http://localhost:7019/iptv/play/tr_abe6bc3b6c39a3a10e6c7d0f
+#EXTINF:-1 tvg-id="tr_d2c8b33e06390480de840a56" tvg-name="SALON 17 HD" group-title="Diğer",SALON 17 HD
+http://localhost:7019/iptv/play/tr_d2c8b33e06390480de840a56
+#EXTINF:-1 tvg-id="tr_7aad1a71dfa23481200b1272" tvg-name="SALON 18 HD" group-title="Diğer",SALON 18 HD
+http://localhost:7019/iptv/play/tr_7aad1a71dfa23481200b1272
+#EXTINF:-1 tvg-id="tr_f875d963b6d50fcec94bb52b" tvg-name="SALON 19 HD" group-title="Diğer",SALON 19 HD
+http://localhost:7019/iptv/play/tr_f875d963b6d50fcec94bb52b
+#EXTINF:-1 tvg-id="tr_0348f5f1e4c1be972c826565" tvg-name="SALON 2 HD" group-title="Diğer",SALON 2 HD
+http://localhost:7019/iptv/play/tr_0348f5f1e4c1be972c826565
+#EXTINF:-1 tvg-id="tr_00a74edb213d186dc401d829" tvg-name="SALON 3" group-title="Diğer",SALON 3
+http://localhost:7019/iptv/play/tr_00a74edb213d186dc401d829
+#EXTINF:-1 tvg-id="tr_0c1dea2f5b916727f3d7de94" tvg-name="SALON 3 HD" group-title="Diğer",SALON 3 HD
+http://localhost:7019/iptv/play/tr_0c1dea2f5b916727f3d7de94
+#EXTINF:-1 tvg-id="tr_7c6669b955a728572d49ced7" tvg-name="SALON 4 HD" group-title="Diğer",SALON 4 HD
+http://localhost:7019/iptv/play/tr_7c6669b955a728572d49ced7
+#EXTINF:-1 tvg-id="tr_23256e176653738f92340a30" tvg-name="SALON 6 HD" group-title="Diğer",SALON 6 HD
+http://localhost:7019/iptv/play/tr_23256e176653738f92340a30
+#EXTINF:-1 tvg-id="tr_3ea89214c6369d7dba4aeb0a" tvg-name="SALON 7 HD" group-title="Diğer",SALON 7 HD
+http://localhost:7019/iptv/play/tr_3ea89214c6369d7dba4aeb0a
+#EXTINF:-1 tvg-id="tr_48622af749d1a72f41bb3d01" tvg-name="SALON 8 HD" group-title="Diğer",SALON 8 HD
+http://localhost:7019/iptv/play/tr_48622af749d1a72f41bb3d01
+#EXTINF:-1 tvg-id="tr_ab4b529a3a5a9c235a660977" tvg-name="SALON 9 HD" group-title="Diğer",SALON 9 HD
+http://localhost:7019/iptv/play/tr_ab4b529a3a5a9c235a660977
+#EXTINF:-1 tvg-id="tr_762313c7fb8352f60f11a1c5" tvg-name="SAT 7 TURK" group-title="Diğer",SAT 7 TURK
+http://localhost:7019/iptv/play/tr_762313c7fb8352f60f11a1c5
+#EXTINF:-1 tvg-id="tr_dce1aba510b508e119d3b23d" tvg-name="SAT 7 TÜRK" group-title="Diğer",SAT 7 TÜRK
+http://localhost:7019/iptv/play/tr_dce1aba510b508e119d3b23d
+#EXTINF:-1 tvg-id="tr_59cfac8006f8bd32bb2dd22e" tvg-name="SATRANÇ TV" group-title="Diğer",SATRANÇ TV
+http://localhost:7019/iptv/play/tr_59cfac8006f8bd32bb2dd22e
+#EXTINF:-1 tvg-id="tr_cec6a971623715d4866da2f1" tvg-name="SELDA BAGCAN" group-title="Diğer",SELDA BAGCAN
+http://localhost:7019/iptv/play/tr_cec6a971623715d4866da2f1
+#EXTINF:-1 tvg-id="tr_341cc8064691150ea9668678" tvg-name="SEMERKAND TV" group-title="Diğer",SEMERKAND TV
+http://localhost:7019/iptv/play/tr_341cc8064691150ea9668678
+#EXTINF:-1 tvg-id="tr_378a004e1376ab79c674e684" tvg-name="SEMERKAND TV HD" group-title="Diğer",SEMERKAND TV HD
+http://localhost:7019/iptv/play/tr_378a004e1376ab79c674e684
+#EXTINF:-1 tvg-id="tr_bd61dac82f311d51ed9e28e9" tvg-name="SEVIMLI DOSTLAR" group-title="Diğer",SEVIMLI DOSTLAR
+http://localhost:7019/iptv/play/tr_bd61dac82f311d51ed9e28e9
+#EXTINF:-1 tvg-id="tr_82fa0466f860d279e0c5ac0c" tvg-name="SHOW HD (H265)" group-title="Diğer",SHOW HD (H265)
+http://localhost:7019/iptv/play/tr_82fa0466f860d279e0c5ac0c
+#EXTINF:-1 tvg-id="tr_677a2803e07a8d25701fc2ac" tvg-name="SHOW MAX" group-title="Diğer",SHOW MAX
+http://localhost:7019/iptv/play/tr_677a2803e07a8d25701fc2ac
+#EXTINF:-1 tvg-id="tr_30c596d671d06bca962ec394" tvg-name="SHOW TÜRK EUROPA" group-title="Diğer",SHOW TÜRK EUROPA
+http://localhost:7019/iptv/play/tr_30c596d671d06bca962ec394
+#EXTINF:-1 tvg-id="tr_1fa3221ed602489b3980dd75" tvg-name="SHOW TURK" group-title="Diğer",SHOW TURK
+http://localhost:7019/iptv/play/tr_1fa3221ed602489b3980dd75
+#EXTINF:-1 tvg-id="tr_0d15d9f46f0f6ee598b71fbe" tvg-name="SHOW TV" group-title="Diğer",SHOW TV
+http://localhost:7019/iptv/play/tr_0d15d9f46f0f6ee598b71fbe
+#EXTINF:-1 tvg-id="tr_c2d9364d459931403f4bb973" tvg-name="SHOW TV FHD" group-title="Diğer",SHOW TV FHD
+http://localhost:7019/iptv/play/tr_c2d9364d459931403f4bb973
+#EXTINF:-1 tvg-id="tr_9fd2eff72142905c9d9b54e8" tvg-name="SHOW TV HD" group-title="Diğer",SHOW TV HD
+http://localhost:7019/iptv/play/tr_9fd2eff72142905c9d9b54e8
+#EXTINF:-1 tvg-id="tr_a8a7bf3d98ae07c17b761d22" tvg-name="SHOW TV HEVC" group-title="Diğer",SHOW TV HEVC
+http://localhost:7019/iptv/play/tr_a8a7bf3d98ae07c17b761d22
+#EXTINF:-1 tvg-id="tr_6c96e1cfadb716916faaaa73" tvg-name="SHOW TV RAW" group-title="Diğer",SHOW TV RAW
+http://localhost:7019/iptv/play/tr_6c96e1cfadb716916faaaa73
+#EXTINF:-1 tvg-id="tr_f01a23e7d4c27b380a09de9c" tvg-name="SHOW TV SD" group-title="Diğer",SHOW TV SD
+http://localhost:7019/iptv/play/tr_f01a23e7d4c27b380a09de9c
+#EXTINF:-1 tvg-id="tr_ea7db1e26802f23824063b0f" tvg-name="SHOWMAX" group-title="Diğer",SHOWMAX
+http://localhost:7019/iptv/play/tr_ea7db1e26802f23824063b0f
+#EXTINF:-1 tvg-id="tr_44bb2dfd8cd21e615b8732bf" tvg-name="SIFIR TV HD" group-title="Diğer",SIFIR TV HD
+http://localhost:7019/iptv/play/tr_44bb2dfd8cd21e615b8732bf
+#EXTINF:-1 tvg-id="tr_e8d532364491117a2151a1e5" tvg-name="SIRINLER TV" group-title="Diğer",SIRINLER TV
+http://localhost:7019/iptv/play/tr_e8d532364491117a2151a1e5
+#EXTINF:-1 tvg-id="tr_94ad04e8dd8f833240f33b39" tvg-name="SIRINLER TV (BACKUP)" group-title="Diğer",SIRINLER TV (BACKUP)
+http://localhost:7019/iptv/play/tr_94ad04e8dd8f833240f33b39
+#EXTINF:-1 tvg-id="tr_49c79ed85fa75381088b2acb" tvg-name="SIVAS VIZYON 58 TV" group-title="Diğer",SIVAS VIZYON 58 TV
+http://localhost:7019/iptv/play/tr_49c79ed85fa75381088b2acb
+#EXTINF:-1 tvg-id="tr_a0da7d3526a8a24159d5aab9" tvg-name="SL NILOYA" group-title="Diğer",SL NILOYA
+http://localhost:7019/iptv/play/tr_a0da7d3526a8a24159d5aab9
+#EXTINF:-1 tvg-id="tr_5dbcbeef1abdc5df0c9b03c1" tvg-name="SLOW KARADENIZ" group-title="Diğer",SLOW KARADENIZ
+http://localhost:7019/iptv/play/tr_5dbcbeef1abdc5df0c9b03c1
+#EXTINF:-1 tvg-id="tr_1500b6637e52753ca8f3b03d" tvg-name="SMART COCUK HD" group-title="Çocuk",SMART COCUK HD
+http://localhost:7019/iptv/play/tr_1500b6637e52753ca8f3b03d
+#EXTINF:-1 tvg-id="tr_3c78f50d091a1ab360687f79" tvg-name="SON C BOOM" group-title="Diğer",SON C BOOM
+http://localhost:7019/iptv/play/tr_3c78f50d091a1ab360687f79
+#EXTINF:-1 tvg-id="tr_a2af3b2c3bf91b546130df01" tvg-name="SONER ARICA" group-title="Diğer",SONER ARICA
+http://localhost:7019/iptv/play/tr_a2af3b2c3bf91b546130df01
+#EXTINF:-1 tvg-id="tr_f2dc5c77b2ecb80772e6bed2" tvg-name="SOZCU SZC TV SD" group-title="Diğer",SOZCU SZC TV SD
+http://localhost:7019/iptv/play/tr_f2dc5c77b2ecb80772e6bed2
+#EXTINF:-1 tvg-id="tr_8461ed0170c5267a1869f0c2" tvg-name="SPOR SMART" group-title="Spor",SPOR SMART
+http://localhost:7019/iptv/play/tr_8461ed0170c5267a1869f0c2
+#EXTINF:-1 tvg-id="tr_0e01a30ab0fe5624374087a7" tvg-name="SPOR SMART 2" group-title="Spor",SPOR SMART 2
+http://localhost:7019/iptv/play/tr_0e01a30ab0fe5624374087a7
+#EXTINF:-1 tvg-id="tr_bca575ac855117989c3aa1c6" tvg-name="SPOR SMART 2 HD" group-title="Spor",SPOR SMART 2 HD
+http://localhost:7019/iptv/play/tr_bca575ac855117989c3aa1c6
+#EXTINF:-1 tvg-id="tr_cf63811a752bd8ec4dd3b9b1" tvg-name="SPOR SMART FHD" group-title="Spor",SPOR SMART FHD
+http://localhost:7019/iptv/play/tr_cf63811a752bd8ec4dd3b9b1
+#EXTINF:-1 tvg-id="tr_e7bb4c9934afee3d38022d95" tvg-name="SPOR SMART HD" group-title="Spor",SPOR SMART HD
+http://localhost:7019/iptv/play/tr_e7bb4c9934afee3d38022d95
+#EXTINF:-1 tvg-id="tr_78071cb5fdd3bca2fec3a8ae" tvg-name="SPOR SMART HEVC" group-title="Spor",SPOR SMART HEVC
+http://localhost:7019/iptv/play/tr_78071cb5fdd3bca2fec3a8ae
+#EXTINF:-1 tvg-id="tr_6250ff6b74e419b5d2ef7a8a" tvg-name="SPOR SMART SD" group-title="Spor",SPOR SMART SD
+http://localhost:7019/iptv/play/tr_6250ff6b74e419b5d2ef7a8a
+#EXTINF:-1 tvg-id="tr_22254a8a80ee835de304cfbb" tvg-name="SPORTS TV" group-title="Spor",SPORTS TV
+http://localhost:7019/iptv/play/tr_22254a8a80ee835de304cfbb
+#EXTINF:-1 tvg-id="tr_18da831f3525c3ac8df5be0e" tvg-name="STAR HD (H265)" group-title="Diğer",STAR HD (H265)
+http://localhost:7019/iptv/play/tr_18da831f3525c3ac8df5be0e
+#EXTINF:-1 tvg-id="tr_9d516ae6e007a3063f017616" tvg-name="STAR HD SD" group-title="Diğer",STAR HD SD
+http://localhost:7019/iptv/play/tr_9d516ae6e007a3063f017616
+#EXTINF:-1 tvg-id="tr_e2b767c8bce67f5618e4c595" tvg-name="STAR TV" group-title="Diğer",STAR TV
+http://localhost:7019/iptv/play/tr_e2b767c8bce67f5618e4c595
+#EXTINF:-1 tvg-id="tr_549c39c158857dcae2f132bc" tvg-name="STAR TV FHD" group-title="Diğer",STAR TV FHD
+http://localhost:7019/iptv/play/tr_549c39c158857dcae2f132bc
+#EXTINF:-1 tvg-id="tr_24eacbf6978b46d6efc8c9e6" tvg-name="STAR TV HD" group-title="Diğer",STAR TV HD
+http://localhost:7019/iptv/play/tr_24eacbf6978b46d6efc8c9e6
+#EXTINF:-1 tvg-id="tr_19a1de16cf0031e89a80a305" tvg-name="STAR TV HEVC" group-title="Diğer",STAR TV HEVC
+http://localhost:7019/iptv/play/tr_19a1de16cf0031e89a80a305
+#EXTINF:-1 tvg-id="tr_5fda82627aeecc7f268ff114" tvg-name="STAR TV RAW" group-title="Diğer",STAR TV RAW
+http://localhost:7019/iptv/play/tr_5fda82627aeecc7f268ff114
+#EXTINF:-1 tvg-id="tr_8cf69790f8f7dde40630c8c6" tvg-name="SUN RTV" group-title="Diğer",SUN RTV
+http://localhost:7019/iptv/play/tr_8cf69790f8f7dde40630c8c6
+#EXTINF:-1 tvg-id="tr_ede77a1e8808e85b3b973501" tvg-name="SUN TV" group-title="Haber",SUN TV
+http://localhost:7019/iptv/play/tr_ede77a1e8808e85b3b973501
+#EXTINF:-1 tvg-id="tr_989e8ee95882dede39d4ca2f" tvg-name="SÜNGER BOB" group-title="Diğer",SÜNGER BOB
+http://localhost:7019/iptv/play/tr_989e8ee95882dede39d4ca2f
+#EXTINF:-1 tvg-id="tr_d18ca55cb638c45ba91867a2" tvg-name="SZC" group-title="Diğer",SZC
+http://localhost:7019/iptv/play/tr_d18ca55cb638c45ba91867a2
+#EXTINF:-1 tvg-id="tr_9f9c5b6b86cf143e4ad4950c" tvg-name="TABII SPOR" group-title="Spor",TABII SPOR
+http://localhost:7019/iptv/play/tr_9f9c5b6b86cf143e4ad4950c
+#EXTINF:-1 tvg-id="tr_e6243fefb3dfa3b3e3897a5e" tvg-name="TABII SPOR 1" group-title="Spor",TABII SPOR 1
+http://localhost:7019/iptv/play/tr_e6243fefb3dfa3b3e3897a5e
+#EXTINF:-1 tvg-id="tr_b5850048d035e627b46f92bf" tvg-name="TABII SPOR 1 4K" group-title="Spor",TABII SPOR 1 4K
+http://localhost:7019/iptv/play/tr_b5850048d035e627b46f92bf
+#EXTINF:-1 tvg-id="tr_dcf4ef84a8024a6497403181" tvg-name="TABII SPOR 1 720P" group-title="Spor",TABII SPOR 1 720P
+http://localhost:7019/iptv/play/tr_dcf4ef84a8024a6497403181
+#EXTINF:-1 tvg-id="tr_7b2fcc5b60791fcaeb6aa6c1" tvg-name="TABII SPOR 1 UHD" group-title="Spor",TABII SPOR 1 UHD
+http://localhost:7019/iptv/play/tr_7b2fcc5b60791fcaeb6aa6c1
+#EXTINF:-1 tvg-id="tr_3c0fe1bc1a1524e65e0bff0c" tvg-name="TABII SPOR 2" group-title="Spor",TABII SPOR 2
+http://localhost:7019/iptv/play/tr_3c0fe1bc1a1524e65e0bff0c
+#EXTINF:-1 tvg-id="tr_ec08c6b9170a0de4e32adf8c" tvg-name="TABII SPOR 2 HD" group-title="Spor",TABII SPOR 2 HD
+http://localhost:7019/iptv/play/tr_ec08c6b9170a0de4e32adf8c
+#EXTINF:-1 tvg-id="tr_b991664ccbcae1c39786c254" tvg-name="TABII SPOR 2 UHD" group-title="Spor",TABII SPOR 2 UHD
+http://localhost:7019/iptv/play/tr_b991664ccbcae1c39786c254
+#EXTINF:-1 tvg-id="tr_4da6c9494bced5b0a5d7f6f4" tvg-name="TABII SPOR 3" group-title="Spor",TABII SPOR 3
+http://localhost:7019/iptv/play/tr_4da6c9494bced5b0a5d7f6f4
+#EXTINF:-1 tvg-id="tr_09c4921111f40904623c0892" tvg-name="TABII SPOR 3 HD" group-title="Spor",TABII SPOR 3 HD
+http://localhost:7019/iptv/play/tr_09c4921111f40904623c0892
+#EXTINF:-1 tvg-id="tr_178d1c61c327a3076e51b35b" tvg-name="TABII SPOR 3 UHD" group-title="Spor",TABII SPOR 3 UHD
+http://localhost:7019/iptv/play/tr_178d1c61c327a3076e51b35b
+#EXTINF:-1 tvg-id="tr_fae3cd7971f40c641e26c93e" tvg-name="TABII SPOR 4" group-title="Spor",TABII SPOR 4
+http://localhost:7019/iptv/play/tr_fae3cd7971f40c641e26c93e
+#EXTINF:-1 tvg-id="tr_4e615bd3e545088361e0c790" tvg-name="TABII SPOR 4 HD" group-title="Spor",TABII SPOR 4 HD
+http://localhost:7019/iptv/play/tr_4e615bd3e545088361e0c790
+#EXTINF:-1 tvg-id="tr_c5dcb7bf3c02f1a766d348e9" tvg-name="TABII SPOR 4 UHD" group-title="Spor",TABII SPOR 4 UHD
+http://localhost:7019/iptv/play/tr_c5dcb7bf3c02f1a766d348e9
+#EXTINF:-1 tvg-id="tr_66cab3d0f4d613ac14f47332" tvg-name="TABII SPOR 5" group-title="Spor",TABII SPOR 5
+http://localhost:7019/iptv/play/tr_66cab3d0f4d613ac14f47332
+#EXTINF:-1 tvg-id="tr_d283c3fdd0520de1568ccd52" tvg-name="TABII SPOR 5 HD" group-title="Spor",TABII SPOR 5 HD
+http://localhost:7019/iptv/play/tr_d283c3fdd0520de1568ccd52
+#EXTINF:-1 tvg-id="tr_6fed798661ae295018a5fde9" tvg-name="TABII SPOR 5 UHD" group-title="Spor",TABII SPOR 5 UHD
+http://localhost:7019/iptv/play/tr_6fed798661ae295018a5fde9
+#EXTINF:-1 tvg-id="tr_cf92dddc693134b7cd86685d" tvg-name="TABII SPOR 6" group-title="Spor",TABII SPOR 6
+http://localhost:7019/iptv/play/tr_cf92dddc693134b7cd86685d
+#EXTINF:-1 tvg-id="tr_9fbc65559009550a35885dbc" tvg-name="TABII SPOR 6 HD" group-title="Spor",TABII SPOR 6 HD
+http://localhost:7019/iptv/play/tr_9fbc65559009550a35885dbc
+#EXTINF:-1 tvg-id="tr_80c8d5544c609934b4822b02" tvg-name="TABII SPOR HD" group-title="Spor",TABII SPOR HD
+http://localhost:7019/iptv/play/tr_80c8d5544c609934b4822b02
+#EXTINF:-1 tvg-id="tr_b528d97571cc37ebe5b6fab3" tvg-name="TABII SPOR SD" group-title="Spor",TABII SPOR SD
+http://localhost:7019/iptv/play/tr_b528d97571cc37ebe5b6fab3
+#EXTINF:-1 tvg-id="tr_2c0e2f05dcd30aebc7218d83" tvg-name="TARIH TV" group-title="Diğer",TARIH TV
+http://localhost:7019/iptv/play/tr_2c0e2f05dcd30aebc7218d83
+#EXTINF:-1 tvg-id="tr_17ba00682819cf41d1850e20" tvg-name="TARKAN" group-title="Diğer",TARKAN
+http://localhost:7019/iptv/play/tr_17ba00682819cf41d1850e20
+#EXTINF:-1 tvg-id="tr_0ef57454e644e44c276041b3" tvg-name="TATLISES TV" group-title="Diğer",TATLISES TV
+http://localhost:7019/iptv/play/tr_0ef57454e644e44c276041b3
+#EXTINF:-1 tvg-id="tr_482ee18b71c3c097ee38915f" tvg-name="TAVSAN MOMO" group-title="Diğer",TAVSAN MOMO
+http://localhost:7019/iptv/play/tr_482ee18b71c3c097ee38915f
+#EXTINF:-1 tvg-id="tr_002c15ef2a0bb116147aa24e" tvg-name="TAY TV" group-title="Diğer",TAY TV
+http://localhost:7019/iptv/play/tr_002c15ef2a0bb116147aa24e
+#EXTINF:-1 tvg-id="tr_add585aa56b33c409d64d5e3" tvg-name="TAYO TV" group-title="Diğer",TAYO TV
+http://localhost:7019/iptv/play/tr_add585aa56b33c409d64d5e3
+#EXTINF:-1 tvg-id="tr_5cbee706e5c796a3c0e60db6" tvg-name="TBMM TV" group-title="Diğer",TBMM TV
+http://localhost:7019/iptv/play/tr_5cbee706e5c796a3c0e60db6
+#EXTINF:-1 tvg-id="tr_f3592875034d7cc287b97c3d" tvg-name="TELE 1" group-title="Diğer",TELE 1
+http://localhost:7019/iptv/play/tr_f3592875034d7cc287b97c3d
+#EXTINF:-1 tvg-id="tr_7a665b4cf0fc67ae4d470bf8" tvg-name="TELE 1" group-title="Diğer",TELE 1
+http://localhost:7019/iptv/play/tr_7a665b4cf0fc67ae4d470bf8
+#EXTINF:-1 tvg-id="tr_e47c083d46000e00ab897f92" tvg-name="TELE 1 SD" group-title="Diğer",TELE 1 SD
+http://localhost:7019/iptv/play/tr_e47c083d46000e00ab897f92
+#EXTINF:-1 tvg-id="tr_6bb877d53be9c70272f51d7f" tvg-name="TELEGRAM GRUP LINKI" group-title="Diğer",TELEGRAM GRUP LINKI
+http://localhost:7019/iptv/play/tr_6bb877d53be9c70272f51d7f
+#EXTINF:-1 tvg-id="tr_c71c5fb008412604b28c96b2" tvg-name="TEMPO TV" group-title="Diğer",TEMPO TV
+http://localhost:7019/iptv/play/tr_c71c5fb008412604b28c96b2
+#EXTINF:-1 tvg-id="tr_e23c1dbbdc6113a5b7fc8ac7" tvg-name="TEMPO TV" group-title="Diğer",TEMPO TV
+http://localhost:7019/iptv/play/tr_e23c1dbbdc6113a5b7fc8ac7
+#EXTINF:-1 tvg-id="tr_d1e2f964f041e231ad038948" tvg-name="TEVE 2" group-title="Diğer",TEVE 2
+http://localhost:7019/iptv/play/tr_d1e2f964f041e231ad038948
+#EXTINF:-1 tvg-id="tr_f4a3e422f2054e3cb9a7c4fe" tvg-name="TEVE 2 FHD" group-title="Diğer",TEVE 2 FHD
+http://localhost:7019/iptv/play/tr_f4a3e422f2054e3cb9a7c4fe
+#EXTINF:-1 tvg-id="tr_68d4fb1f755818b9c9a9c836" tvg-name="TEVE 2 HEVC" group-title="Diğer",TEVE 2 HEVC
+http://localhost:7019/iptv/play/tr_68d4fb1f755818b9c9a9c836
+#EXTINF:-1 tvg-id="tr_0435e82991b7bd334a831def" tvg-name="TEVE2 RAW" group-title="Diğer",TEVE2 RAW
+http://localhost:7019/iptv/play/tr_0435e82991b7bd334a831def
+#EXTINF:-1 tvg-id="tr_d8141c405fe9617c89575d5b" tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
+http://localhost:7019/iptv/play/tr_d8141c405fe9617c89575d5b
+#EXTINF:-1 tvg-id="tr_46fb32249ec4fb464685aa37" tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
+http://localhost:7019/iptv/play/tr_46fb32249ec4fb464685aa37
+#EXTINF:-1 tvg-id="tr_b48249ff6ed8e3ca1fcedb1b" tvg-name="TGRT HABER" group-title="Haber",TGRT HABER
+http://localhost:7019/iptv/play/tr_b48249ff6ed8e3ca1fcedb1b
+#EXTINF:-1 tvg-id="tr_2029b998589b7bed333c0f26" tvg-name="TGRT HABER HD" group-title="Haber",TGRT HABER HD
+http://localhost:7019/iptv/play/tr_2029b998589b7bed333c0f26
+#EXTINF:-1 tvg-id="tr_c307f4b2222d2d95a9b67700" tvg-name="TGRT HABER HEVC" group-title="Haber",TGRT HABER HEVC
+http://localhost:7019/iptv/play/tr_c307f4b2222d2d95a9b67700
+#EXTINF:-1 tvg-id="tr_3a09fe5ccef511c00e69b0cb" tvg-name="TGRT HABER UHD" group-title="Haber",TGRT HABER UHD
+http://localhost:7019/iptv/play/tr_3a09fe5ccef511c00e69b0cb
+#EXTINF:-1 tvg-id="tr_cc114ebb990f0516bdece414" tvg-name="TIVI 6" group-title="Diğer",TIVI 6
+http://localhost:7019/iptv/play/tr_cc114ebb990f0516bdece414
+#EXTINF:-1 tvg-id="tr_0e6c585aa30d943c19b328f9" tvg-name="TIVI TÜRK" group-title="Diğer",TIVI TÜRK
+http://localhost:7019/iptv/play/tr_0e6c585aa30d943c19b328f9
+#EXTINF:-1 tvg-id="tr_74e242d00442ddd01d4759a6" tvg-name="TIVIBU SPOR 1" group-title="Spor",TIVIBU SPOR 1
+http://localhost:7019/iptv/play/tr_74e242d00442ddd01d4759a6
+#EXTINF:-1 tvg-id="tr_64f4008f9668a7ddce4806a7" tvg-name="TIVIBU SPOR 2" group-title="Spor",TIVIBU SPOR 2
+http://localhost:7019/iptv/play/tr_64f4008f9668a7ddce4806a7
+#EXTINF:-1 tvg-id="tr_afffdbf3d3d012caa2d254d4" tvg-name="TIVIBU SPOR 3" group-title="Spor",TIVIBU SPOR 3
+http://localhost:7019/iptv/play/tr_afffdbf3d3d012caa2d254d4
+#EXTINF:-1 tvg-id="tr_196eb4cc9959c768d2fc4f61" tvg-name="TIVIBU SPOR 4" group-title="Spor",TIVIBU SPOR 4
+http://localhost:7019/iptv/play/tr_196eb4cc9959c768d2fc4f61
+#EXTINF:-1 tvg-id="tr_89a5ca0c8417cfd208c50a77" tvg-name="TIVIBU SPOR 4 HD" group-title="Spor",TIVIBU SPOR 4 HD
+http://localhost:7019/iptv/play/tr_89a5ca0c8417cfd208c50a77
+#EXTINF:-1 tvg-id="tr_50e958b8ed5d3d05da476094" tvg-name="TIVIBU SPOR 5 HD" group-title="Spor",TIVIBU SPOR 5 HD
+http://localhost:7019/iptv/play/tr_50e958b8ed5d3d05da476094
+#EXTINF:-1 tvg-id="tr_3548f9bb4e3bc0fa68e0296a" tvg-name="TIVIBU SPOR RAW" group-title="Spor",TIVIBU SPOR RAW
+http://localhost:7019/iptv/play/tr_3548f9bb4e3bc0fa68e0296a
+#EXTINF:-1 tvg-id="tr_3c55feaa3b0befb0d7baa8c1" tvg-name="TIVIBUSPOR 1 FHD" group-title="Spor",TIVIBUSPOR 1 FHD
+http://localhost:7019/iptv/play/tr_3c55feaa3b0befb0d7baa8c1
+#EXTINF:-1 tvg-id="tr_ed9fdad66b0af175481432ee" tvg-name="TIVIBUSPOR 1 HD" group-title="Spor",TIVIBUSPOR 1 HD
+http://localhost:7019/iptv/play/tr_ed9fdad66b0af175481432ee
+#EXTINF:-1 tvg-id="tr_95ac649df1f933c5e542cf1f" tvg-name="TIVIBUSPOR 2 FHD" group-title="Spor",TIVIBUSPOR 2 FHD
+http://localhost:7019/iptv/play/tr_95ac649df1f933c5e542cf1f
+#EXTINF:-1 tvg-id="tr_a06120d5a860dc27ff51bf25" tvg-name="TIVIBUSPOR 2 HD" group-title="Spor",TIVIBUSPOR 2 HD
+http://localhost:7019/iptv/play/tr_a06120d5a860dc27ff51bf25
+#EXTINF:-1 tvg-id="tr_905dc26f95ac53aab518faa1" tvg-name="TIVIBUSPOR 3 FHD" group-title="Spor",TIVIBUSPOR 3 FHD
+http://localhost:7019/iptv/play/tr_905dc26f95ac53aab518faa1
+#EXTINF:-1 tvg-id="tr_8a06ac8e524bf4a719a596ed" tvg-name="TIVIBUSPOR 3 HD" group-title="Spor",TIVIBUSPOR 3 HD
+http://localhost:7019/iptv/play/tr_8a06ac8e524bf4a719a596ed
+#EXTINF:-1 tvg-id="tr_c68925cd74e42375369fe7e8" tvg-name="TIVIBUSPOR SPOR HD" group-title="Spor",TIVIBUSPOR SPOR HD
+http://localhost:7019/iptv/play/tr_c68925cd74e42375369fe7e8
+#EXTINF:-1 tvg-id="tr_7ada9ff44ff7519297de51a4" tvg-name="TJK TV" group-title="Diğer",TJK TV
+http://localhost:7019/iptv/play/tr_7ada9ff44ff7519297de51a4
+#EXTINF:-1 tvg-id="tr_d1dcbbc5320a1198e4655c8e" tvg-name="TJK TV HD" group-title="Diğer",TJK TV HD
+http://localhost:7019/iptv/play/tr_d1dcbbc5320a1198e4655c8e
+#EXTINF:-1 tvg-id="tr_acdcb56917416d6d00be2e1c" tvg-name="TLC" group-title="Diğer",TLC
+http://localhost:7019/iptv/play/tr_acdcb56917416d6d00be2e1c
+#EXTINF:-1 tvg-id="tr_54edb1103b162819d17f9c7d" tvg-name="TLC TV" group-title="Diğer",TLC TV
+http://localhost:7019/iptv/play/tr_54edb1103b162819d17f9c7d
+#EXTINF:-1 tvg-id="tr_10971df5f8ea14e1c6e54b0d" tvg-name="TMB" group-title="Diğer",TMB
+http://localhost:7019/iptv/play/tr_10971df5f8ea14e1c6e54b0d
+#EXTINF:-1 tvg-id="tr_05cbcc994a96ab72559eefa4" tvg-name="TOM & JERRY" group-title="Diğer",TOM & JERRY
+http://localhost:7019/iptv/play/tr_05cbcc994a96ab72559eefa4
+#EXTINF:-1 tvg-id="tr_7ca592f5ef6686d16c840b65" tvg-name="TON TV" group-title="Haber",TON TV
+http://localhost:7019/iptv/play/tr_7ca592f5ef6686d16c840b65
+#EXTINF:-1 tvg-id="tr_fcc437d8aab3136b57a97764" tvg-name="TRABZON HABER 61 TV HD" group-title="Haber",TRABZON HABER 61 TV HD
+http://localhost:7019/iptv/play/tr_fcc437d8aab3136b57a97764
+#EXTINF:-1 tvg-id="tr_5f5558fbee644f2e4d773dff" tvg-name="TRT 1" group-title="Diğer",TRT 1
+http://localhost:7019/iptv/play/tr_5f5558fbee644f2e4d773dff
+#EXTINF:-1 tvg-id="tr_96d987f7e4e02d683c6f2438" tvg-name="TRT 1 4K" group-title="Diğer",TRT 1 4K
+http://localhost:7019/iptv/play/tr_96d987f7e4e02d683c6f2438
+#EXTINF:-1 tvg-id="tr_aae66218b328eaeddf7348e6" tvg-name="TRT 1 FHD" group-title="Diğer",TRT 1 FHD
+http://localhost:7019/iptv/play/tr_aae66218b328eaeddf7348e6
+#EXTINF:-1 tvg-id="tr_9751f647c340ec26747f3b25" tvg-name="TRT 1 HD" group-title="Diğer",TRT 1 HD
+http://localhost:7019/iptv/play/tr_9751f647c340ec26747f3b25
+#EXTINF:-1 tvg-id="tr_f361a07b33cc27d48801bd32" tvg-name="TRT 1 HEVC" group-title="Diğer",TRT 1 HEVC
+http://localhost:7019/iptv/play/tr_f361a07b33cc27d48801bd32
+#EXTINF:-1 tvg-id="tr_af60a44025603caf0ea1477e" tvg-name="TRT 1 RAW" group-title="Diğer",TRT 1 RAW
+http://localhost:7019/iptv/play/tr_af60a44025603caf0ea1477e
+#EXTINF:-1 tvg-id="tr_4c53eaddb424ea6dcda80b4e" tvg-name="TRT 2" group-title="Diğer",TRT 2
+http://localhost:7019/iptv/play/tr_4c53eaddb424ea6dcda80b4e
+#EXTINF:-1 tvg-id="tr_568d03cd07fada49354820fd" tvg-name="TRT 2 UHD" group-title="Diğer",TRT 2 UHD
+http://localhost:7019/iptv/play/tr_568d03cd07fada49354820fd
+#EXTINF:-1 tvg-id="tr_0e2af66a4bdefd1e7cf11515" tvg-name="TRT 4K" group-title="Diğer",TRT 4K
+http://localhost:7019/iptv/play/tr_0e2af66a4bdefd1e7cf11515
+#EXTINF:-1 tvg-id="tr_6413a5ae2bd37f7961b3f17c" tvg-name="TRT AVAZ" group-title="Diğer",TRT AVAZ
+http://localhost:7019/iptv/play/tr_6413a5ae2bd37f7961b3f17c
+#EXTINF:-1 tvg-id="tr_d230b505c207d05a1fbabf2b" tvg-name="TRT AVAZ" group-title="Diğer",TRT AVAZ
+http://localhost:7019/iptv/play/tr_d230b505c207d05a1fbabf2b
+#EXTINF:-1 tvg-id="tr_6612715262585f1a769f24c0" tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
+http://localhost:7019/iptv/play/tr_6612715262585f1a769f24c0
+#EXTINF:-1 tvg-id="tr_0a019e86a9243c78db4b3717" tvg-name="TRT BELGESEL HD+" group-title="Belgesel",TRT BELGESEL HD+
+http://localhost:7019/iptv/play/tr_0a019e86a9243c78db4b3717
+#EXTINF:-1 tvg-id="tr_27580a7c902e0d9ce1d749fd" tvg-name="TRT BELGESEL HEVC" group-title="Belgesel",TRT BELGESEL HEVC
+http://localhost:7019/iptv/play/tr_27580a7c902e0d9ce1d749fd
+#EXTINF:-1 tvg-id="tr_5e16cd912a97a138f92efe9b" tvg-name="TRT BELGESEL RAW" group-title="Belgesel",TRT BELGESEL RAW
+http://localhost:7019/iptv/play/tr_5e16cd912a97a138f92efe9b
+#EXTINF:-1 tvg-id="tr_792b1286bc94ca7c2e7ca40b" tvg-name="TRT COCUK" group-title="Çocuk",TRT COCUK
+http://localhost:7019/iptv/play/tr_792b1286bc94ca7c2e7ca40b
+#EXTINF:-1 tvg-id="tr_89fe3cf724f58d144efdc639" tvg-name="TRT COCUK RAW" group-title="Çocuk",TRT COCUK RAW
+http://localhost:7019/iptv/play/tr_89fe3cf724f58d144efdc639
+#EXTINF:-1 tvg-id="tr_fce28d6be788a72f16a324f2" tvg-name="TRT DIYANET COCUK" group-title="Çocuk",TRT DIYANET COCUK
+http://localhost:7019/iptv/play/tr_fce28d6be788a72f16a324f2
+#EXTINF:-1 tvg-id="tr_f3272e4df403387c003b319b" tvg-name="TRT EBA" group-title="Diğer",TRT EBA
+http://localhost:7019/iptv/play/tr_f3272e4df403387c003b319b
+#EXTINF:-1 tvg-id="tr_10671045873eaa3749859980" tvg-name="TRT HABER" group-title="Haber",TRT HABER
+http://localhost:7019/iptv/play/tr_10671045873eaa3749859980
+#EXTINF:-1 tvg-id="tr_b580521f312e11359f54bb3d" tvg-name="TRT HABER HD" group-title="Haber",TRT HABER HD
+http://localhost:7019/iptv/play/tr_b580521f312e11359f54bb3d
+#EXTINF:-1 tvg-id="tr_fa50b7ed3fd970f7a6a7b7ed" tvg-name="TRT HABER HEVC" group-title="Haber",TRT HABER HEVC
+http://localhost:7019/iptv/play/tr_fa50b7ed3fd970f7a6a7b7ed
+#EXTINF:-1 tvg-id="tr_786acb50668b631ca9ad7c4d" tvg-name="TRT HABER RAW" group-title="Haber",TRT HABER RAW
+http://localhost:7019/iptv/play/tr_786acb50668b631ca9ad7c4d
+#EXTINF:-1 tvg-id="tr_60bf647d5818a442210ed86f" tvg-name="TRT KURDI RAW" group-title="Diğer",TRT KURDI RAW
+http://localhost:7019/iptv/play/tr_60bf647d5818a442210ed86f
+#EXTINF:-1 tvg-id="tr_bd42540f7eb522a7639ee452" tvg-name="TRT MUZIK" group-title="Müzik",TRT MUZIK
+http://localhost:7019/iptv/play/tr_bd42540f7eb522a7639ee452
+#EXTINF:-1 tvg-id="tr_32489cc31e86dc927f4d3454" tvg-name="TRT MUZIK HD+" group-title="Müzik",TRT MUZIK HD+
+http://localhost:7019/iptv/play/tr_32489cc31e86dc927f4d3454
+#EXTINF:-1 tvg-id="tr_5a406138bf5edef95f490138" tvg-name="TRT MUZIK RAW" group-title="Müzik",TRT MUZIK RAW
+http://localhost:7019/iptv/play/tr_5a406138bf5edef95f490138
+#EXTINF:-1 tvg-id="tr_5e838dabac09aed6d466d5fc" tvg-name="TRT ÇOCUK HD" group-title="Çocuk",TRT ÇOCUK HD
+http://localhost:7019/iptv/play/tr_5e838dabac09aed6d466d5fc
+#EXTINF:-1 tvg-id="tr_e3f51ecb4c14b3c864780a92" tvg-name="TRT SPOR" group-title="Spor",TRT SPOR
+http://localhost:7019/iptv/play/tr_e3f51ecb4c14b3c864780a92
+#EXTINF:-1 tvg-id="tr_81165d28160e78fd5bb1a72b" tvg-name="TRT SPOR FHD" group-title="Spor",TRT SPOR FHD
+http://localhost:7019/iptv/play/tr_81165d28160e78fd5bb1a72b
+#EXTINF:-1 tvg-id="tr_04d13813f353734b4326478c" tvg-name="TRT SPOR HD" group-title="Spor",TRT SPOR HD
+http://localhost:7019/iptv/play/tr_04d13813f353734b4326478c
+#EXTINF:-1 tvg-id="tr_28ac78453068ae8c2a7b33d2" tvg-name="TRT SPOR RAW" group-title="Spor",TRT SPOR RAW
+http://localhost:7019/iptv/play/tr_28ac78453068ae8c2a7b33d2
+#EXTINF:-1 tvg-id="tr_f36479db4fc13fd42d6890d3" tvg-name="TRT SPOR YILDIZ" group-title="Spor",TRT SPOR YILDIZ
+http://localhost:7019/iptv/play/tr_f36479db4fc13fd42d6890d3
+#EXTINF:-1 tvg-id="tr_1148ff79ba7956e8e2580b64" tvg-name="TRT SPOR YILDIZ HD" group-title="Spor",TRT SPOR YILDIZ HD
+http://localhost:7019/iptv/play/tr_1148ff79ba7956e8e2580b64
+#EXTINF:-1 tvg-id="tr_91cbc7ca1d9d25627b5e256d" tvg-name="TRT SPOR YILDIZ HEVC" group-title="Spor",TRT SPOR YILDIZ HEVC
+http://localhost:7019/iptv/play/tr_91cbc7ca1d9d25627b5e256d
+#EXTINF:-1 tvg-id="tr_2906587f82c8f704b6b38732" tvg-name="TRT SPOR YILDIZ RAW" group-title="Spor",TRT SPOR YILDIZ RAW
+http://localhost:7019/iptv/play/tr_2906587f82c8f704b6b38732
+#EXTINF:-1 tvg-id="tr_f483261dbf73c32bef9c92e5" tvg-name="TRT TURK" group-title="Diğer",TRT TURK
+http://localhost:7019/iptv/play/tr_f483261dbf73c32bef9c92e5
+#EXTINF:-1 tvg-id="tr_a8f4d629a974f8b1f059d5ba" tvg-name="TRT TURK HEVC" group-title="Diğer",TRT TURK HEVC
+http://localhost:7019/iptv/play/tr_a8f4d629a974f8b1f059d5ba
+#EXTINF:-1 tvg-id="tr_4033fef3e616505289dba60a" tvg-name="TRT TURK RAW" group-title="Diğer",TRT TURK RAW
+http://localhost:7019/iptv/play/tr_4033fef3e616505289dba60a
+#EXTINF:-1 tvg-id="tr_c2294fc35422c710c44e067f" tvg-name="TRT WORLD" group-title="Diğer",TRT WORLD
+http://localhost:7019/iptv/play/tr_c2294fc35422c710c44e067f
+#EXTINF:-1 tvg-id="tr_660d3b727e4bdd96f776b4a7" tvg-name="TRT WORLD HEVC" group-title="Diğer",TRT WORLD HEVC
+http://localhost:7019/iptv/play/tr_660d3b727e4bdd96f776b4a7
+#EXTINF:-1 tvg-id="tr_395e914cef21c9dfbadbb3b9" tvg-name="TRT WORLD RAW" group-title="Diğer",TRT WORLD RAW
+http://localhost:7019/iptv/play/tr_395e914cef21c9dfbadbb3b9
+#EXTINF:-1 tvg-id="tr_cdbf9b9c8bd59d124bb3e28e" tvg-name="TRT2 RAW" group-title="Diğer",TRT2 RAW
+http://localhost:7019/iptv/play/tr_cdbf9b9c8bd59d124bb3e28e
+#EXTINF:-1 tvg-id="tr_62f64bf2ce78c8f0b39557a0" tvg-name="TUNCELI DERSIM 62 TV" group-title="Diğer",TUNCELI DERSIM 62 TV
+http://localhost:7019/iptv/play/tr_62f64bf2ce78c8f0b39557a0
+#EXTINF:-1 tvg-id="tr_deed1830be5de9493db059f9" tvg-name="TÜRKHABER TV" group-title="Haber",TÜRKHABER TV
+http://localhost:7019/iptv/play/tr_deed1830be5de9493db059f9
+#EXTINF:-1 tvg-id="tr_ac1533260a6f89d54aa7f627" tvg-name="TV 1" group-title="Diğer",TV 1
+http://localhost:7019/iptv/play/tr_ac1533260a6f89d54aa7f627
+#EXTINF:-1 tvg-id="tr_7d1e621ba6e9fa37cfcab08c" tvg-name="TV 100" group-title="Diğer",TV 100
+http://localhost:7019/iptv/play/tr_7d1e621ba6e9fa37cfcab08c
+#EXTINF:-1 tvg-id="tr_61be82dbb7b53e61466556fd" tvg-name="TV 100" group-title="Diğer",TV 100
+http://localhost:7019/iptv/play/tr_61be82dbb7b53e61466556fd
+#EXTINF:-1 tvg-id="tr_980a939810d749d50d324d5d" tvg-name="TV 100 HEVC" group-title="Diğer",TV 100 HEVC
+http://localhost:7019/iptv/play/tr_980a939810d749d50d324d5d
+#EXTINF:-1 tvg-id="tr_8e37825fa80ea37d87768b3d" tvg-name="TV 264" group-title="Diğer",TV 264
+http://localhost:7019/iptv/play/tr_8e37825fa80ea37d87768b3d
+#EXTINF:-1 tvg-id="tr_c78702ea498c15ecf8f63d97" tvg-name="TV 4" group-title="Diğer",TV 4
+http://localhost:7019/iptv/play/tr_c78702ea498c15ecf8f63d97
+#EXTINF:-1 tvg-id="tr_794bd81c6452e8fd8c0be960" tvg-name="TV 41" group-title="Diğer",TV 41
+http://localhost:7019/iptv/play/tr_794bd81c6452e8fd8c0be960
+#EXTINF:-1 tvg-id="tr_c3e03460d83e6f3e2a27bdc0" tvg-name="TV 42" group-title="Diğer",TV 42
+http://localhost:7019/iptv/play/tr_c3e03460d83e6f3e2a27bdc0
+#EXTINF:-1 tvg-id="tr_5c2024f9e7f5ed4a7a609507" tvg-name="TV 5" group-title="Diğer",TV 5
+http://localhost:7019/iptv/play/tr_5c2024f9e7f5ed4a7a609507
+#EXTINF:-1 tvg-id="tr_d98c07b484799c2233572631" tvg-name="TV 52" group-title="Diğer",TV 52
+http://localhost:7019/iptv/play/tr_d98c07b484799c2233572631
+#EXTINF:-1 tvg-id="tr_a2738b30bac18cb982dc8a9d" tvg-name="TV 8" group-title="Diğer",TV 8
+http://localhost:7019/iptv/play/tr_a2738b30bac18cb982dc8a9d
+#EXTINF:-1 tvg-id="tr_4331c3f41d8882e84e5916f7" tvg-name="TV 8 HD (H265)" group-title="Diğer",TV 8 HD (H265)
+http://localhost:7019/iptv/play/tr_4331c3f41d8882e84e5916f7
+#EXTINF:-1 tvg-id="tr_4471cc4a545e33ba24d2d80c" tvg-name="TV 8 HEVC" group-title="Diğer",TV 8 HEVC
+http://localhost:7019/iptv/play/tr_4471cc4a545e33ba24d2d80c
+#EXTINF:-1 tvg-id="tr_81e2acc4274070737c3f0ff9" tvg-name="TV 8 INT" group-title="Diğer",TV 8 INT
+http://localhost:7019/iptv/play/tr_81e2acc4274070737c3f0ff9
+#EXTINF:-1 tvg-id="tr_c83036f1ca4f9a7e0eb59ec7" tvg-name="TV 8 INTERNATIONAL" group-title="Diğer",TV 8 INTERNATIONAL
+http://localhost:7019/iptv/play/tr_c83036f1ca4f9a7e0eb59ec7
+#EXTINF:-1 tvg-id="tr_caa61d4fd31f7edb0caaf620" tvg-name="TV 8 SD" group-title="Diğer",TV 8 SD
+http://localhost:7019/iptv/play/tr_caa61d4fd31f7edb0caaf620
+#EXTINF:-1 tvg-id="tr_760923b2e287a12f50c17a42" tvg-name="TV 8" group-title="Diğer",TV 8
+http://localhost:7019/iptv/play/tr_760923b2e287a12f50c17a42
+#EXTINF:-1 tvg-id="tr_e8dabfaa3299a3bbaebfaa1a" tvg-name="TV 8.5 FHD" group-title="Diğer",TV 8.5 FHD
+http://localhost:7019/iptv/play/tr_e8dabfaa3299a3bbaebfaa1a
+#EXTINF:-1 tvg-id="tr_7e0a4e674b5905db1c095256" tvg-name="TV 8.5 HD" group-title="Diğer",TV 8.5 HD
+http://localhost:7019/iptv/play/tr_7e0a4e674b5905db1c095256
+#EXTINF:-1 tvg-id="tr_da8655664a01e2cb5247a768" tvg-name="TV DEN" group-title="Diğer",TV DEN
+http://localhost:7019/iptv/play/tr_da8655664a01e2cb5247a768
+#EXTINF:-1 tvg-id="tr_6f0a6897a9cf0f726ca98d91" tvg-name="TV KAYSERI" group-title="Diğer",TV KAYSERI
+http://localhost:7019/iptv/play/tr_6f0a6897a9cf0f726ca98d91
+#EXTINF:-1 tvg-id="tr_ee01cac6828ca73415a78f94" tvg-name="TV NET" group-title="Diğer",TV NET
+http://localhost:7019/iptv/play/tr_ee01cac6828ca73415a78f94
+#EXTINF:-1 tvg-id="tr_7ce926ae1a3ffb9990e76081" tvg-name="TV5" group-title="Diğer",TV5
+http://localhost:7019/iptv/play/tr_7ce926ae1a3ffb9990e76081
+#EXTINF:-1 tvg-id="tr_13fce0cce314194da0437031" tvg-name="TV8 5 RAW" group-title="Diğer",TV8 5 RAW
+http://localhost:7019/iptv/play/tr_13fce0cce314194da0437031
+#EXTINF:-1 tvg-id="tr_933b392a0f3c80b1cc7d20b8" tvg-name="TV8 FHD" group-title="Diğer",TV8 FHD
+http://localhost:7019/iptv/play/tr_933b392a0f3c80b1cc7d20b8
+#EXTINF:-1 tvg-id="tr_149f49b2e869989d2c43e25d" tvg-name="TV8 HD" group-title="Diğer",TV8 HD
+http://localhost:7019/iptv/play/tr_149f49b2e869989d2c43e25d
+#EXTINF:-1 tvg-id="tr_c2bd0cfaadc6e3797e839579" tvg-name="TV8 RAW" group-title="Diğer",TV8 RAW
+http://localhost:7019/iptv/play/tr_c2bd0cfaadc6e3797e839579
+#EXTINF:-1 tvg-id="tr_301344ee02cbf86e6509c1de" tvg-name="TV8 SD" group-title="Diğer",TV8 SD
+http://localhost:7019/iptv/play/tr_301344ee02cbf86e6509c1de
+#EXTINF:-1 tvg-id="tr_696d8ce4d5836d31da43d8c0" tvg-name="TVNET HD" group-title="Diğer",TVNET HD
+http://localhost:7019/iptv/play/tr_696d8ce4d5836d31da43d8c0
+#EXTINF:-1 tvg-id="tr_449c245ede7b76bcf396ec40" tvg-name="TVO TV" group-title="Diğer",TVO TV
+http://localhost:7019/iptv/play/tr_449c245ede7b76bcf396ec40
+#EXTINF:-1 tvg-id="tr_f55e87d3efcdbe987263ea2b" tvg-name="TYT TURK" group-title="Diğer",TYT TURK
+http://localhost:7019/iptv/play/tr_f55e87d3efcdbe987263ea2b
+#EXTINF:-1 tvg-id="tr_a6451ceed39084b53dbff350" tvg-name="ÜÜLKE TV" group-title="Haber",ÜÜLKE TV
+http://localhost:7019/iptv/play/tr_a6451ceed39084b53dbff350
+#EXTINF:-1 tvg-id="tr_2aaf67786df233fa37c391dd" tvg-name="ULKE TV HD" group-title="Haber",ULKE TV HD
+http://localhost:7019/iptv/play/tr_2aaf67786df233fa37c391dd
+#EXTINF:-1 tvg-id="tr_4640a979d44318a317f7836c" tvg-name="ULKETV HD" group-title="Haber",ULKETV HD
+http://localhost:7019/iptv/play/tr_4640a979d44318a317f7836c
+#EXTINF:-1 tvg-id="tr_a7ed2c5cc26e5e9f1f7444ea" tvg-name="ULTRA AKSIYON" group-title="Diğer",ULTRA AKSIYON
+http://localhost:7019/iptv/play/tr_a7ed2c5cc26e5e9f1f7444ea
+#EXTINF:-1 tvg-id="tr_807e5c315bc8db8c423fbcd2" tvg-name="ULTRA ANIMASYON" group-title="Diğer",ULTRA ANIMASYON
+http://localhost:7019/iptv/play/tr_807e5c315bc8db8c423fbcd2
+#EXTINF:-1 tvg-id="tr_ed2532f55436ea126abe578d" tvg-name="ULTRA BILIMKURGU" group-title="Diğer",ULTRA BILIMKURGU
+http://localhost:7019/iptv/play/tr_ed2532f55436ea126abe578d
+#EXTINF:-1 tvg-id="tr_d2359d7706fa59e82eee23a0" tvg-name="ULTRA IMBD" group-title="Diğer",ULTRA IMBD
+http://localhost:7019/iptv/play/tr_d2359d7706fa59e82eee23a0
+#EXTINF:-1 tvg-id="tr_5fb3aeee0f7166eb5e83fee2" tvg-name="ULTRA KEMAL SUNAL" group-title="Diğer",ULTRA KEMAL SUNAL
+http://localhost:7019/iptv/play/tr_5fb3aeee0f7166eb5e83fee2
+#EXTINF:-1 tvg-id="tr_4c7583ed97f34f847d88cb50" tvg-name="ULTRA KOMEDI" group-title="Diğer",ULTRA KOMEDI
+http://localhost:7019/iptv/play/tr_4c7583ed97f34f847d88cb50
+#EXTINF:-1 tvg-id="tr_f42b1d3ad622a68e615cbd60" tvg-name="ULTRA KORKU" group-title="Diğer",ULTRA KORKU
+http://localhost:7019/iptv/play/tr_f42b1d3ad622a68e615cbd60
+#EXTINF:-1 tvg-id="tr_f0fe8fbafe4ab39b978e212f" tvg-name="ULTRA TURK" group-title="Diğer",ULTRA TURK
+http://localhost:7019/iptv/play/tr_f0fe8fbafe4ab39b978e212f
+#EXTINF:-1 tvg-id="tr_7b029b67ab7527e61ade9dd4" tvg-name="ULUSAL KANAL" group-title="Diğer",ULUSAL KANAL
+http://localhost:7019/iptv/play/tr_7b029b67ab7527e61ade9dd4
+#EXTINF:-1 tvg-id="tr_a73c257782f42dbfdf43ad99" tvg-name="ULUSAL KANAL" group-title="Diğer",ULUSAL KANAL
+http://localhost:7019/iptv/play/tr_a73c257782f42dbfdf43ad99
+#EXTINF:-1 tvg-id="tr_e37a2f4ae864229c33556b41" tvg-name="ULUSAL KANAL SD" group-title="Diğer",ULUSAL KANAL SD
+http://localhost:7019/iptv/play/tr_e37a2f4ae864229c33556b41
+#EXTINF:-1 tvg-id="tr_db50b91459e7887cea94b8f6" tvg-name="UR FANATIK TV" group-title="Diğer",UR FANATIK TV
+http://localhost:7019/iptv/play/tr_db50b91459e7887cea94b8f6
+#EXTINF:-1 tvg-id="tr_bf0136590820d756d7b11195" tvg-name="VATAN TV" group-title="Haber",VATAN TV
+http://localhost:7019/iptv/play/tr_bf0136590820d756d7b11195
+#EXTINF:-1 tvg-id="tr_7a292bfd16f654001c64c737" tvg-name="VIASAT HISTORY HD+" group-title="Belgesel",VIASAT HISTORY HD+
+http://localhost:7019/iptv/play/tr_7a292bfd16f654001c64c737
+#EXTINF:-1 tvg-id="tr_4d65afb13ab44bb2a9223135" tvg-name="VIASAT HISTORY HEVC" group-title="Belgesel",VIASAT HISTORY HEVC
+http://localhost:7019/iptv/play/tr_4d65afb13ab44bb2a9223135
+#EXTINF:-1 tvg-id="tr_18c659a60c8954d83acd0854" tvg-name="VIKINGLER TV" group-title="Diğer",VIKINGLER TV
+http://localhost:7019/iptv/play/tr_18c659a60c8954d83acd0854
+#EXTINF:-1 tvg-id="tr_f962df0492dfac9a9cc7d6fb" tvg-name="VINTAGE MUSIC" group-title="Müzik",VINTAGE MUSIC
+http://localhost:7019/iptv/play/tr_f962df0492dfac9a9cc7d6fb
+#EXTINF:-1 tvg-id="tr_11bc2441e1bbd0ebbbbad027" tvg-name="VIYANA TV" group-title="Diğer",VIYANA TV
+http://localhost:7019/iptv/play/tr_11bc2441e1bbd0ebbbbad027
+#EXTINF:-1 tvg-id="tr_d22ff3b15a1332e7afc7c5a8" tvg-name="VIZYON 58" group-title="Diğer",VIZYON 58
+http://localhost:7019/iptv/play/tr_d22ff3b15a1332e7afc7c5a8
+#EXTINF:-1 tvg-id="tr_564f8a34f3f4a7a024dcd6e3" tvg-name="VUSLAT TV" group-title="Diğer",VUSLAT TV
+http://localhost:7019/iptv/play/tr_564f8a34f3f4a7a024dcd6e3
+#EXTINF:-1 tvg-id="tr_ad98860ccc219bbdb0b1ab8a" tvg-name="WM TV WOMAN KADIN" group-title="Diğer",WM TV WOMAN KADIN
+http://localhost:7019/iptv/play/tr_ad98860ccc219bbdb0b1ab8a
+#EXTINF:-1 tvg-id="tr_0516b46545ce3f05f901062b" tvg-name="X NOSTALJI TÜRKÇE KLASIK" group-title="Diğer",X NOSTALJI TÜRKÇE KLASIK
+http://localhost:7019/iptv/play/tr_0516b46545ce3f05f901062b
+#EXTINF:-1 tvg-id="tr_19b4d60120da82ed1ce7db76" tvg-name="YABAN" group-title="Diğer",YABAN
+http://localhost:7019/iptv/play/tr_19b4d60120da82ed1ce7db76
+#EXTINF:-1 tvg-id="tr_6250a7c8d3d84523cf0c559a" tvg-name="YABAN TV HD" group-title="Haber",YABAN TV HD
+http://localhost:7019/iptv/play/tr_6250a7c8d3d84523cf0c559a
+#EXTINF:-1 tvg-id="tr_c21c3f2bc614bdd3b924e665" tvg-name="YENI KOCAELI TV" group-title="Diğer",YENI KOCAELI TV
+http://localhost:7019/iptv/play/tr_c21c3f2bc614bdd3b924e665
+#EXTINF:-1 tvg-id="tr_e9b3827e17995ce0d3345730" tvg-name="YESILCAM" group-title="Diğer",YESILCAM
+http://localhost:7019/iptv/play/tr_e9b3827e17995ce0d3345730
+#EXTINF:-1 tvg-id="tr_5cb2f9d81e70c75f8e99f945" tvg-name="YOL TV" group-title="Diğer",YOL TV
+http://localhost:7019/iptv/play/tr_5cb2f9d81e70c75f8e99f945
+#EXTINF:-1 tvg-id="tr_307dfdd409602ffba3115e9e" tvg-name="YOL TV SD" group-title="Diğer",YOL TV SD
+http://localhost:7019/iptv/play/tr_307dfdd409602ffba3115e9e
+#EXTINF:-1 tvg-id="tr_cc1ddcc0295bb7bcbee51d3d" tvg-name="YUNUS EMRE" group-title="Diğer",YUNUS EMRE
+http://localhost:7019/iptv/play/tr_cc1ddcc0295bb7bcbee51d3d
+#EXTINF:-1 tvg-id="tr_1701b6d89c2af1f7935c8243" tvg-name="ZONGULDAK KANAL Z" group-title="Diğer",ZONGULDAK KANAL Z
+http://localhost:7019/iptv/play/tr_1701b6d89c2af1f7935c8243
