@@ -195,137 +195,158 @@ export function createIPTVRouter(
 ) {
     const router = express.Router();
 
+    
+    /*
+     * Shared playlist handler.
+     *
+     * Used by:
+     * /iptv/playlist.m3u
+     * /iptv/playlist.m3u?country=tr
+     * /iptv/tr.m3u
+     * /iptv/de.m3u
+     */
+    const sendPlaylist = async (
+        req: Request,
+        res: Response,
+        requestedCountry?: string
+    ) => {
+        try {
+            const baseUrl =
+                getRequestBaseUrl(req);
+
+            if (!baseUrl) {
+                return res
+                    .status(400)
+                    .send('Cannot determine server base URL');
+            }
+
+            const countryFilter =
+                requestedCountry
+                    ? requestedCountry.trim().toLowerCase()
+                    : undefined;
+
+            const countries =
+                countryFilter
+                    ? options.countries.filter(
+                        c =>
+                            c.id.toLowerCase() === countryFilter
+                    )
+                    : options.countries;
+
+            if (
+                countryFilter &&
+                countries.length === 0
+            ) {
+                return res
+                    .status(404)
+                    .send('Unknown country');
+            }
+
+            const channels: IPTVChannel[] = [];
+
+            for (const country of countries) {
+                const catalogPromise =
+                    options.getCountryCatalog(country.id);
+
+                const timeoutPromise =
+                    new Promise<never>((_, reject) => {
+                        setTimeout(
+                            () =>
+                                reject(
+                                    new Error(
+                                        `Catalog timeout for ${country.id}`
+                                    )
+                                ),
+                            15000
+                        );
+                    });
+
+                const items =
+                    await Promise.race([
+                        catalogPromise,
+                        timeoutPromise
+                    ]);
+
+                for (const item of items) {
+                    const channel =
+                        toIPTVChannel(country, item);
+
+                    if (channel) {
+                        channels.push(channel);
+                    }
+                }
+            }
+
+            const playlist =
+                buildM3UPlaylist(
+                    channels,
+                    {
+                        baseUrl,
+                        countryId: countryFilter
+                    }
+                );
+
+            res.setHeader(
+                'Content-Type',
+                'audio/x-mpegurl; charset=utf-8'
+            );
+
+            res.setHeader(
+                'Cache-Control',
+                'no-cache, no-store, must-revalidate'
+            );
+
+            res.setHeader(
+                'Access-Control-Allow-Origin',
+                '*'
+            );
+
+            return res.send(playlist);
+
+        } catch (error: any) {
+            console.error(
+                '[IPTV] Playlist error:',
+                error?.message || error
+            );
+
+            return res
+                .status(500)
+                .send('Failed to build IPTV playlist');
+        }
+    };
+
     /*
      * GET /iptv/playlist.m3u
-     *
-     * All supported countries.
-     *
-     * Optional:
-     * /iptv/playlist.m3u?country=tr
+     * GET /iptv/playlist.m3u?country=tr
      */
     router.get(
         '/playlist.m3u',
         async (req: Request, res: Response) => {
-            try {
-                const baseUrl =
-                    getRequestBaseUrl(req);
+            const country =
+                typeof req.query.country === 'string'
+                    ? req.query.country
+                    : undefined;
 
-                if (!baseUrl) {
-                    return res
-                        .status(400)
-                        .send(
-                            'Cannot determine server base URL'
-                        );
-                }
-
-                const countryFilter =
-                    typeof req.query.country === 'string'
-                        ? req.query.country
-                            .trim()
-                            .toLowerCase()
-                        : undefined;
-
-                const countries =
-                    countryFilter
-                        ? options.countries.filter(
-                            c =>
-                                c.id.toLowerCase() ===
-                                countryFilter
-                        )
-                        : options.countries;
-
-                if (
-                    countryFilter &&
-                    countries.length === 0
-                ) {
-                    return res
-                        .status(404)
-                        .send('Unknown country');
-                }
-
-                const channels: IPTVChannel[] = [];
-
-
-for (const country of countries) {
-    const catalogPromise =
-        options.getCountryCatalog(
-            country.id
-        );
-
-    const timeoutPromise =
-        new Promise<never>((_, reject) => {
-            setTimeout(
-                () =>
-                    reject(
-                        new Error(
-                            `Catalog timeout for ${country.id}`
-                        )
-                    ),
-                15000
-            );
-        });
-
-    const items =
-        await Promise.race([
-            catalogPromise,
-            timeoutPromise
-        ]);
-
-    for (const item of items) {
-                        const channel =
-                            toIPTVChannel(
-                                country,
-                                item
-                            );
-
-                        if (channel) {
-                            channels.push(channel);
-                        }
-                    }
-                }
-
-                const playlist =
-                    buildM3UPlaylist(
-                        channels,
-                        {
-                            baseUrl:
-                                `${baseUrl}`,
-                            countryId:
-                                countryFilter
-                        }
-                    );
-
-                res.setHeader(
-                    'Content-Type',
-                    'audio/x-mpegurl; charset=utf-8'
-                );
-
-                res.setHeader(
-                    'Cache-Control',
-                    'no-cache, no-store, must-revalidate'
-                );
-
-                res.setHeader(
-                    'Access-Control-Allow-Origin',
-                    '*'
-                );
-
-                return res.send(playlist);
-
-            } catch (error: any) {
-                console.error(
-                    '[IPTV] Playlist error:',
-                    error?.message || error
-                );
-
-                return res
-                    .status(500)
-                    .send(
-                        'Failed to build IPTV playlist'
-                    );
-            }
+            return sendPlaylist(req, res, country);
         }
     );
+
+    /*
+     * GET /iptv/tr.m3u
+     * GET /iptv/de.m3u
+     * GET /iptv/it.m3u
+     * etc.
+     */
+    router.get(
+        '/:country.m3u',
+        async (req: Request, res: Response) => {
+            const country =
+                String(req.params.country || '').trim();
+
+            return sendPlaylist(req, res, country);
+        }
+    );
+
 
     /*
      * GET /iptv/tr.m3u
@@ -333,28 +354,25 @@ for (const country of countries) {
      * etc.
      */
     router.get(
-        '/:country.m3u',
-        async (req: Request, res: Response) => {
-            const country =
-                String(
-                    req.params.country || ''
-                ).trim();
+    '/:country.m3u',
+    async (req: Request, res: Response) => {
+        const country =
+            String(
+                req.params.country || ''
+            ).trim()
+            .toLowerCase();
 
-            const fakeQuery =
-                country
-                    ? `?country=${encodeURIComponent(country)}`
-                    : '';
+        req.query.country = country;
 
-            req.url =
-                `/playlist.m3u${fakeQuery}`;
+        req.url = '/playlist.m3u';
 
-            return router.handle(
-                req,
-                res,
-                () => undefined
-            );
-        }
-    );
+        return router.handle(
+            req,
+            res,
+            () => undefined
+        );
+    }
+);
 
     /*
      * GET /iptv/play/:channelId
@@ -479,7 +497,7 @@ for (const country of countries) {
                 service: 'tvvoo-iptv',
                 endpoints: [
                     '/iptv/playlist.m3u',
-                    '/iptv/tr.m3u',
+                    '/iptv/country.m3u',
                     '/iptv/play/:channelId'
                 ]
             });
