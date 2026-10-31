@@ -121,39 +121,156 @@ function normalizeTurkishChannelName(value: string): string {
     return name.replace(/\s{2,}/g, ' ').trim();
 }
 
-function getTurkishCategory(name: string): string {
-    const key = normalizeTRKey(name);
 
-    if (/SPOR|SPORT|BEIN|EUROSPORT|ASPOR|TIVIBUSP|FBTV|GSTV|BJKTV/.test(key)) {
+
+function getTurkishCategory(name: string): string {
+    // Kalite etiketlerini ve 4K TR önekini temizle.
+    let key = normalizeTRKey(
+        name.replace(/^4K\s*TR\s*:\s*/i, '').replace(/^4K\s*/i, '')
+    );
+
+    key = key.replace(
+        /(FHD|UHD|HD|SD|RAW|HEVC|H265|H264|8K)+$/g,
+        ''
+    );
+
+    const has = (...parts: string[]) =>
+        parts.some(part => key.includes(part));
+
+    const starts = (...parts: string[]) =>
+        parts.some(part => key.startsWith(part));
+
+    // SPOR
+    if (has(
+        'SPOR', 'SPORT', 'BEIN', 'EUROSPORT', 'ASPOR',
+        'TIVIBUSP', 'FBTV', 'GSTV', 'BJKTV', 'SSPORT',
+        'SPORTSMART', 'NBATV', 'TJKTV', 'TAYTV',
+        'REDBULL', 'MOTORSPORT', 'FORMULA1', 'UFC',
+        'WWE', 'IDMANTV'
+    )) {
         return 'Spor';
     }
 
-    if (/HABER|NEWS|AKIT|BENGUTURK|ULKETV|BLOOMBERG|CNNTURK|NTV/.test(key)) {
-        return 'Haber';
-    }
-
-    if (/SINEMA|CINEMA|FILM|MOVIE|DIZI/.test(key)) {
-        return 'Sinema';
-    }
-
-    if (/COCUK|MINIKA|CARTOON|KIDS|BABY|NICK/.test(key)) {
+    // ÇOCUK
+    if (has(
+        'COCUK', 'MINIKA', 'CARTOON', 'KIDS', 'BABY',
+        'NICK', 'SUNGERBOB', 'DISNEYJR', 'DISNEYJUNIOR',
+        'DISNEYCHANNEL', 'BOOMERANG', 'PEPEE', 'PEPETV',
+        'NILOYA', 'RAFADANTAYFA', 'SIRINLER', 'TOMJERRY',
+        'DUCKTV', 'CAILLOU', 'BOOBA', 'BEN10', 'BARBIE',
+        'GABBY', 'PEPPAPIG', 'ADIBESA', 'BABYTV', 'TAYOTV',
+        'PATRONBEBEK', 'PAWPETROL', 'PIJAMAMASKELILER',
+        'POKEMON', 'KOSTEBEKGILLER', 'MASALTV',
+        'NASREDDINHOCA', 'CANIMKARDESIM', 'DORUTV',
+        'CHICKYTV', 'EBATV', 'DAVINCI', 'ELIFINRUYASI',
+        'SEVIMLIDOSTLAR', 'ANIMATION', 'EGEILEGAGA',
+        'TRTEBA'
+    )) {
         return 'Çocuk';
     }
 
-    if (/BELGESEL|DISCOVERY|NATGEO|NATIONALGEOGRAPHIC|ANIMALPLANET|HISTORY|DOCU/.test(key)) {
+    // BELGESEL
+    if (has(
+        'BELGESEL', 'DISCOVERY', 'NATGEO',
+        'NATIONALGEOGRAPHIC', 'ANIMALPLANET', 'HISTORY',
+        'DOCU', 'YABAN', 'OUTDOOR', 'BBCEARTH',
+        'LOVENATURE', 'DMAX', 'TRTBELGESEL', 'IZTV',
+        'TARIHTV', 'VIASAT', 'ANIMAUX', 'WILD',
+        'JURASSICWORLD', 'MUFFETISGADGET',
+        'GIZEMLERDIYARI', 'VIKINGLER', 'CIFTCITV',
+        'AGROTV', 'TGRTBELGESEL', 'TLC'
+    )) {
         return 'Belgesel';
     }
 
-    if (/MUZIK|MUSIC|KLIP|POWER|KRAL|DUGUN|NUMBER1/.test(key)) {
+    // MÜZİK
+    if (has(
+        'MUZIK', 'MUSIC', 'KLIP', 'POWER', 'KRAL',
+        'DUGUN', 'NUMBER1', 'DREAMTURK', 'DREAMTV',
+        'NR1', 'MTV', 'TATLISESTV', 'SELDABAGCAN',
+        'DAMAR', 'RADIOROCK', 'TURKCEKLASIK',
+        'VINTAGE', 'AHMETKAYA', 'MUSLUMGURSES',
+        'SONERARICA', 'TARKAN', 'FASILNEVIZADE',
+        'SONCBOOM', 'AKUSTIK', 'REDBOXARABESK',
+        'REDBOXTURKCEPOP', 'BABARADYO', 'BESTFM'
+    )) {
         return 'Müzik';
     }
 
-    if (/CANAKKALE|SANLIURFA/.test(key)) {
+    // SİNEMA
+    if (
+        has(
+            'SINEMA', 'CINEMA', 'FILM', 'MOVIE', 'DIZI',
+            'YESILCAM', 'AKSIYON', 'KOMEDI', 'KORKU',
+            'DRAM', 'WESTERN', 'BILIMKURGU', 'ANIMASYON',
+            'GLOBALBOX', 'HORROR', 'EPICDRAMA', 'FOXCRIME',
+            'DINAMIK', 'DREAM', 'BEST', 'MAX',
+            'ULTRAKORKU', 'ULTRAKEMALSUNAL', 'ARENABOX',
+            'KINGBOX', 'DUCUBOX', 'SALON', 'SHOWMAX',
+            'FIXCINEMA', 'MOVIESMART', 'DIZISMART',
+            'ULTRAKSIYON', 'ULTRABILIMKURGU', 'ULTRAKOMEDI'
+        ) || starts('FX')
+    ) {
+        return 'Sinema';
+    }
+
+    // YEREL
+    if (has(
+        'CANAKKALE', 'SANLIURFA', 'ADATV', 'ADIYAMAN',
+        'AFYON', 'AKSARAY', 'ANTALYA', 'BURSA',
+        'CAYTV', 'DENIZLI', 'EDIRNE', 'ELAZIG',
+        'ERZURUM', 'GAZIANTEP', 'KAYSERI', 'KIBRIS',
+        'KOCAELI', 'ZONGULDAK', 'KANALV', 'KANAL23',
+        'KANAL68', 'KANALZ', 'BRTV', 'VUSLAT',
+        'MERCANTV', 'YENIKOCAELI', 'KENTTV', 'ORDU',
+        'TRABZON', 'KARADENIZ', 'TUNCELI', 'ESKISEHIR',
+        'MANISA', 'ICEL', 'MERSIN', 'ALANYA',
+        'AKSUTV', 'DIMTV', 'KANAL32', 'KANAL33',
+        'KANAL34', 'KANAL15', 'KANAL12', 'KANAL3',
+        'KANAL26', 'KANAL58', 'KANALFIRAT', 'KOZATV',
+        'GRTTV', 'KONTV', 'TONTV', 'EDESSA', 'HRT',
+        'KANALURFA', 'TVKAYSERI', 'SIVASVIZYON',
+        'VIZYON58', 'TVDEN', 'ERCIS', 'TV1',
+        'TV264', 'TV41', 'TV42', 'TV52',
+        'EGETURK', 'BRT1', 'BRT2', 'BRT3'
+    )) {
         return 'Yerel';
+    }
+
+    // HABER
+    if (
+        has(
+            'HABER', 'NEWS', 'AKIT', 'BENGUTURK',
+            'BENGTURK', 'ULKETV', 'BLOOMBERG',
+            'CNNTURK', 'HALKTV', 'SOZCU', 'TELE1',
+            'KRT', 'EKOTURK', 'HABERGLOBAL', 'TGRT',
+            'TVNET', '24HABER', 'ANEWS', 'FLASHHABER',
+            'GURBET24', 'HABER61', 'LIDERHABER',
+            'MEDYAHABER', 'VATANTV', 'ULUSALKANAL',
+            'APARA', 'ILKETV', 'TRTWORLD', 'KANAL24',
+            'TV5', 'YOLTV', 'DHA', 'SZC'
+        ) ||
+        starts('NTV', '24TV', '24HD', '24RAW', 'EKOLTV', 'TV100') ||
+        (starts('24') && !starts('24KITCHEN'))
+    ) {
+        return 'Haber';
+    }
+
+    // ULUSAL GENEL YAYIN
+    if (starts(
+        'TRT', 'SHOW', 'STAR', 'KANALD', 'NOW',
+        'FOX', 'ATV', 'TV8', 'KANAL7', 'BEYAZTV',
+        'TEVE2', 'A2', '360', 'TV4', 'EUROD',
+        'EUROSTAR', 'SHOWTURK', 'KANAL7AVRUPA',
+        'KANAL7EUROPA', 'KANALAVRUPA', 'FLASH'
+    )) {
+        return 'Ulusal';
     }
 
     return 'Diğer';
 }
+
+
 function sourceUrl(item: CatalogItem): string {
     return String(
         item.url ||
