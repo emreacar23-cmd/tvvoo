@@ -48,7 +48,112 @@ function cleanName(value: unknown): string {
         .replace(/\s*\((?:\d+|[A-Za-z]{1,3})\)\s*$/i, '')
         .trim() || 'Unknown';
 }
+function normalizeTRKey(value: string): string {
+    return String(value || '')
+        .toLocaleUpperCase('tr-TR')
+        .replace(/İ/g, 'I')
+        .replace(/Ü/g, 'U')
+        .replace(/Ğ/g, 'G')
+        .replace(/Ş/g, 'S')
+        .replace(/Ç/g, 'C')
+        .replace(/Ö/g, 'O')
+        .replace(/[^A-Z0-9]/g, '');
+}
 
+const TR_NAME_FIXES: Record<string, string> = {
+    AKT: 'AKİT',
+    BENGTRK: 'BENGÜTÜRK',
+    TRK: 'TÜRK',
+    HABERTRK: 'HABERTÜRK',
+    LKETV: 'ÜLKE TV',
+    MNKAGO: 'MİNİKA GO',
+    MNKAOCUK: 'MİNİKA ÇOCUK',
+    SNEMAALE: 'SİNEMA AİLE',
+    SNEMAKSYON: 'SİNEMA AKSİYON',
+    SNEMAKOMED: 'SİNEMA KOMEDİ',
+    SNEMATV: 'SİNEMA TV',
+    SNEMAYERL: 'SİNEMA YERLİ',
+    MZK: 'MÜZİK',
+    MZIK: 'MÜZİK',
+    ANAKKALE: 'ÇANAKKALE',
+    TRKIYEM: 'TÜRKİYEM',
+    ANLIURFA: 'ŞANLIURFA',
+    DGNTV: 'DÜĞÜN TV',
+    TRKCE: 'TÜRKÇE',
+    TRKE: 'TÜRKÇE'
+};
+
+function normalizeTurkishChannelName(value: string): string {
+    const original = cleanName(value);
+    const exact = TR_NAME_FIXES[normalizeTRKey(original)];
+
+    if (exact) return exact;
+
+    let name = original;
+
+    const rules: Array<[RegExp, string]> = [
+        [/\bS\s*N\s*E\s*M\s*A\b/gi, 'SİNEMA'],
+        [/\bK\s*O\s*M\s*E\s*D\b/gi, 'KOMEDİ'],
+        [/\bA\s*L\s*E\b/gi, 'AİLE'],
+        [/\bA\s*K\s*S\s*Y\s*O\s*N\b/gi, 'AKSİYON'],
+        [/\bY\s*E\s*R\s*L\b/gi, 'YERLİ'],
+        [/\bM\s*N\s*K\s*A\b/gi, 'MİNİKA'],
+        [/\bO\s*C\s*U\s*K\b/gi, 'ÇOCUK'],
+        [/\bT\s*R\s*K\s*C\s*E\b/gi, 'TÜRKÇE'],
+        [/\bT\s*R\s*K\s*E\b/gi, 'TÜRKÇE'],
+        [/\bT\s*R\s*K\b/gi, 'TÜRK'],
+        [/\bA\s*K\s*T\b/gi, 'AKİT'],
+        [/\bBENG\s*T\s*R\s*K\b/gi, 'BENGÜTÜRK'],
+        [/\bHABER\s*T\s*R\s*K\b/gi, 'HABERTÜRK'],
+        [/\bL\s*K\s*E\s+TV\b/gi, 'ÜLKE TV'],
+        [/\bM\s*Z\s*K\b/gi, 'MÜZİK'],
+        [/\bM\s*Z\s*I\s*K\b/gi, 'MÜZİK'],
+        [/\bT\s*R\s*K\s*I\s*Y\s*E\s*M\b/gi, 'TÜRKİYEM'],
+        [/\bA\s*N\s*A\s*K\s*K\s*A\s*L\s*E\b/gi, 'ÇANAKKALE'],
+        [/\bA\s*N\s*L\s*I\s*U\s*R\s*F\s*A\b/gi, 'ŞANLIURFA'],
+        [/\bD\s*Ğ\s*N\s+TV\b/gi, 'DÜĞÜN TV']
+    ];
+
+    for (const [pattern, replacement] of rules) {
+        name = name.replace(pattern, replacement);
+    }
+
+    return name.replace(/\s{2,}/g, ' ').trim();
+}
+
+function getTurkishCategory(name: string): string {
+    const key = normalizeTRKey(name);
+
+    if (/SPOR|SPORT|BEIN|EUROSPORT|ASPOR|TIVIBUSP|FBTV|GSTV|BJKTV/.test(key)) {
+        return 'Spor';
+    }
+
+    if (/HABER|NEWS|AKIT|BENGUTURK|ULKETV|BLOOMBERG|CNNTURK|NTV/.test(key)) {
+        return 'Haber';
+    }
+
+    if (/SINEMA|CINEMA|FILM|MOVIE|DIZI/.test(key)) {
+        return 'Sinema';
+    }
+
+    if (/COCUK|MINIKA|CARTOON|KIDS|BABY|NICK/.test(key)) {
+        return 'Çocuk';
+    }
+
+    if (/BELGESEL|DISCOVERY|NATGEO|NATIONALGEOGRAPHIC|ANIMALPLANET|HISTORY|DOCU/.test(key)) {
+        return 'Belgesel';
+    }
+
+    if (/MUZIK|MUSIC|KLIP|POWER|KRAL|DUGUN|NUMBER1/.test(key)) {
+        return 'Müzik';
+    }
+
+    if (/CANAKKALE|SANLIURFA/.test(key)) {
+        return 'Yerel';
+    }
+
+    return 'Diğer';
+}
 function sourceUrl(item: CatalogItem): string {
     return String(
         item.url ||
@@ -134,12 +239,20 @@ function toIPTVChannel(
 
     if (!url) return null;
 
+    const isTurkey = country.id.toLowerCase() === 'tr';
+
+    const displayName = isTurkey
+        ? normalizeTurkishChannelName(String(item.name || 'Unknown'))
+        : cleanName(item.name);
+
     return {
         id: channelId(country.id, item),
-        name: cleanName(item.name),
+        name: displayName,
         countryId: country.id,
         countryName: country.name,
-        group: country.name,
+        group: isTurkey
+            ? getTurkishCategory(displayName)
+            : country.name,
         logo: item.poster || item.image || undefined
     };
 }
@@ -347,32 +460,6 @@ export function createIPTVRouter(
         }
     );
 
-
-    /*
-     * GET /iptv/tr.m3u
-     * GET /iptv/de.m3u
-     * etc.
-     */
-    router.get(
-    '/:country.m3u',
-    async (req: Request, res: Response) => {
-        const country =
-            String(
-                req.params.country || ''
-            ).trim()
-            .toLowerCase();
-
-        req.query.country = country;
-
-        req.url = '/playlist.m3u';
-
-        return router.handle(
-            req,
-            res,
-            () => undefined
-        );
-    }
-);
 
     /*
      * GET /iptv/play/:channelId
