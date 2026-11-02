@@ -1,6 +1,7 @@
 
 import { IPTVChannel, IPTVPlaylistOptions } from './types';
-
+import * as fs from 'fs';
+import * as path from 'path';
 /**
  * M3U özel karakterlerini güvenli hale getirir.
  */
@@ -196,6 +197,163 @@ function sortChannelsInGroup(
 }
 
 /**
+ * Kullanıcının düzenlediği M3U dosyasından grup ve kanal sırasını okur.
+ * Kanal eşleştirmesi yalnızca sabit tvg-id üzerinden yapılır.
+ */
+function applyManualPlaylistOrder(
+    channels: IPTVChannel[]
+): IPTVChannel[] {
+    const filePath = path.resolve(
+        process.cwd(),
+        'playlist-order.m3u'
+    );
+
+    let content: string;
+
+    try {
+        content = fs.readFileSync(filePath, 'utf8');
+    } catch (error) {
+        console.warn(
+            '[IPTV] playlist-order.m3u okunamadı; varsayılan sıralama kullanılacak.'
+        );
+
+        let result = [...channels];
+        result = sortChannelsInGroup(result, 'Ulusal');
+        result = sortChannelsInGroup(result, 'Spor');
+        return result;
+    }
+
+    type OrderEntry = {
+        rank: number;
+        group: string;
+        groupRank: number;
+    };
+
+    const entriesById = new Map<string, OrderEntry[]>();
+    const groupRanks = new Map<string, number>();
+    const groupEndRanks = new Map<string, number>();
+
+    let rank = 0;
+
+    for (const line of content.split(/\r?\n/)) {
+        if (!line.startsWith('#EXTINF')) continue;
+
+        const id = line.match(/\btvg-id="([^"]+)"/)?.[1];
+        const group = line.match(/\bgroup-title="([^"]+)"/)?.[1];
+
+        if (!id || !group) continue;
+
+        if (!groupRanks.has(group)) {
+            groupRanks.set(group, groupRanks.size);
+        }
+
+        const entry: OrderEntry = {
+            rank,
+            group,
+            groupRank: groupRanks.get(group)!
+        };
+
+        const existing = entriesById.get(id) || [];
+        existing.push(entry);
+        entriesById.set(id, existing);
+
+        groupEndRanks.set(group, rank);
+        rank++;
+    }
+
+    if (entriesById.size === 0) {
+        console.warn(
+            '[IPTV] M3U sıralama dosyasında geçerli kayıt bulunamadı.'
+        );
+
+        let result = [...channels];
+        result = sortChannelsInGroup(result, 'Ulusal');
+        result = sortChannelsInGroup(result, 'Spor');
+        return result;
+    }
+
+    const occurrences = new Map<string, number>();
+    const knownGroups = new Map(groupRanks);
+
+    let nextGroupRank = knownGroups.size;
+    let matchedCount = 0;
+
+    const prepared = channels.map((channel, index) => {
+        const idEntries = entriesById.get(channel.id) || [];
+        const occurrence = occurrences.get(channel.id) || 0;
+
+        occurrences.set(channel.id, occurrence + 1);
+
+        const entry = idEntries[occurrence];
+
+        let group = entry?.group;
+
+        if (entry) {
+            matchedCount++;
+        } else {
+            const originalGroup =
+                channel.group || channel.countryName || 'TvVoo';
+
+            const turkishGroup =
+                channel.countryId.toLowerCase() === 'tr'
+                    ? `TR ${originalGroup}`
+                    : originalGroup;
+
+            if (knownGroups.has(originalGroup)) {
+                group = originalGroup;
+            } else if (knownGroups.has(turkishGroup)) {
+                group = turkishGroup;
+            } else {
+                group = originalGroup;
+            }
+        }
+
+        if (!knownGroups.has(group!)) {
+            knownGroups.set(group!, nextGroupRank++);
+        }
+
+        const groupRank = knownGroups.get(group!)!;
+
+        const channelRank = entry
+            ? entry.rank
+            : (groupEndRanks.get(group!) ?? -1) + index + 1;
+
+        return {
+            channel: {
+                ...channel,
+                group: group!
+            },
+            groupRank,
+            rank: channelRank,
+            index
+        };
+    });
+
+    if (matchedCount === 0) {
+        console.warn(
+            '[IPTV] M3U kanal kimlikleri eşleşmedi; varsayılan sıralama kullanılacak.'
+        );
+
+        let result = [...channels];
+        result = sortChannelsInGroup(result, 'Ulusal');
+        result = sortChannelsInGroup(result, 'Spor');
+        return result;
+    }
+
+    prepared.sort((a, b) =>
+        a.groupRank - b.groupRank ||
+        a.rank - b.rank ||
+        a.index - b.index
+    );
+
+    console.log(
+        `[IPTV] Manuel sıralama uygulandı: ${matchedCount}/${channels.length} kanal eşleşti.`
+    );
+
+    return prepared.map(item => item.channel);
+}
+
+/**
  * TvVoo kanal listesinden standart M3U playlist oluşturur.
  *
  * Gerçek Vavoo stream URL'si kullanılmaz.
@@ -217,18 +375,9 @@ export function buildM3UPlaylist(
         )
         : channels;
 
-    // Sadece Ulusal ve Spor gruplarını sırala.
-    let orderedChannels = [...filteredChannels];
-
-    orderedChannels = sortChannelsInGroup(
-        orderedChannels,
-        'Ulusal'
-    );
-
-    orderedChannels = sortChannelsInGroup(
-        orderedChannels,
-        'Spor'
-    );
+    
+   // Kullanıcının M3U dosyasındaki grup ve kanal sırasını uygula.
+const orderedChannels = applyManualPlaylistOrder(filteredChannels);
 
     const lines: string[] = ['#EXTM3U'];
 
